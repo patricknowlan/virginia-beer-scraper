@@ -6,40 +6,40 @@ var app     = express();
 
 app.get('/scrape', function(req, res){
   // Let's scrape Anchorman 2
-  url = 'http://www.imdb.com/title/tt1229340/';
+  url = 'https://www.virginiawine.org/wineries/all';
 
   request(url, function(error, response, html){
     if(!error){
       var $ = cheerio.load(html);
+      var wineries = [];
 
-      var title, release, rating;
-      var json = { title : "", release : "", rating : ""};
+      $('.standard-list > li').each(function(i, elm) {
+          let name = $(this).children('strong').text();
+          let winery_url = $(this).children('.standard-link').text();
+          let winery = createWinery(name, winery_url);
+          console.log($(this).text());
+          wineries.push(winery);
+      });
 
-      $('.title_wrapper').filter(function(){
-        var data = $(this);
-        title = data.children().first().text().trim();
-        release = data.children().last().children().last().text().trim();
-
-        json.title = title;
-        json.release = release;
-      })
-
-      $('.ratingValue').filter(function(){
-        var data = $(this);
-        rating = data.text().trim();
-
-        json.rating = rating;
-      })
+      console.log(wineries);
     }
 
-    fs.writeFile('output.json', JSON.stringify(json, null, 4), function(err){
-      console.log('File successfully written! - Check your project directory for the output.json file');
-    })
+    // fs.writeFile('output.json', JSON.stringify(json, null, 4), function(err){
+    //   console.log('File successfully written! - Check your project directory for the output.json file');
+    // })
 
-    res.send('Check your console!')
+    res.send('check your winery list')
   })
 })
 
+function createWinery(name, winery_url, phone, address) {
+  let winery = {};
+  winery.name = name;
+  winery.winery_url = winery_url;
+  winery.phone = phone;
+  winery.address = address;
+  return winery;
+}
+
 app.listen('8081')
-console.log('Magic happens on port 8081');
-exports = module.exports = app;
+console.log('Wine Scraper Server Running on port 8081 ...');

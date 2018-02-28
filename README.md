@@ -1,12 +1,11 @@
-node-web-scraper
+node-wine-scraper
 ================
 
-Simple web scraper to get a movie name, release year and community rating from IMDB.
-To run this example use the following commands:
+Simple web scraper to get the wine list out of html and into json from virginawine.org
 
 ``` shell
 $ npm install
 $ node server.js
 ```
 
- Then it will start up our node server, navigate to http://localhost:8081/scrape and see what happens.
+ Then it will start up the node server, navigate to http://localhost:8081/scrape and see what happens.
