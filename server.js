@@ -7,9 +7,11 @@ var app     = express();
 const base_url = 'https://www.virginiawine.org';
 var wineries = [];
 
+app.get('/api/wineries', function(req, res){
+  res.json(wineries)
+})
 
-
-app.get('/scrape', function(req, res){
+app.get('/harvest', function(req, res){
   // Let's scrape Anchorman 2
   let wineries_url = base_url + '/wineries/all';
 
@@ -53,33 +55,25 @@ function scrapeWineryData(index){
 
     request(url, function(error, response, html){
       if(!error){
+
+        //scrape the data for the winery page
         let $ = cheerio.load(html);
-        let descriptionHTML = $('.description').html();
         let region = $('.description h3').text()
         let description = $('.description').find('p')[1].children[0].data;
-        console.log("DESCRIPTION", description);
+        let phone = $('#phone-card').text();
 
-        // let test = $('.detail-list-inner-list > li').text();
-        // console.log("TEST", test);
-
-
-        $('.detail-list-inner-list > li').each(function(i, elm) {
-          let wine_name = $(this).text();
-          wine_name = wine_name.replace(/(\r\n|\n|\r)/gm,"").trim();
-          let va_wine_url = $(this).find('a').attr('href');;
-          console.log('WINE', wine_name);
-          console.log('URL', va_wine_url);
-          wineries[index].wines.push({'name': wine_name, 'va_wine_url': va_wine_url});
-
-        });
-
-
-
-        console.log("***********************************************************");
-
+        //update the wine array with winery and wine data from the web page
         wineries[index].description = description;
         wineries[index].region = region;
-        console.log(wineries[index]);
+        wineries[index].phone = phone
+
+        //loop through the wines section of the winery page and grab wine data
+        $('.detail-list-inner-list > li').each(function(i, elm) {
+          let wine_name = $(this).text();
+          let va_wine_url = $(this).find('a').attr('href');;
+          wine_name = wine_name.replace(/(\r\n|\n|\r)/gm,"").trim();
+          wineries[index].wines.push({'name': wine_name, 'va_wine_url': va_wine_url});
+        });
 
         if(index === 2){
           writeFile();
@@ -95,13 +89,13 @@ function scrapeWineryData(index){
   }
 
 
-function createWinery(name, winery_url, va_wine_url, phone, address) {
+function createWinery(name, winery_url, va_wine_url) {
   let winery = {};
   winery.name = name;
   winery.winery_url = winery_url;
   winery.va_wine_url = va_wine_url;
-  winery.phone = phone;
-  winery.address = address;
+  winery.phone = null;
+  winery.address = null;
   winery.region = null;
   winery.description = null;
   winery.wines = [];

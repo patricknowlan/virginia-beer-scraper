@@ -3,6 +3,8 @@
         "name": "2 Witches Winery and Brewing Co",
         "winery_url": "http://www.2witcheswinebrew.com",
         "va_wine_url": "/wineries/1699",
+        "phone": "434-549-2739",
+        "address": null,
         "region": "Region: Southern Virginia",
         "description": "New farm winery located in Danville, Virginia along the Dan River.  Tastings and retail sales starting in mid-July 2014. Wine varieties include Cabernet Sauvignon, Petit Verdot, Traminette, Muscat Blanc, Sangria and Strawberry.  Outdoor seating, limited food, and entertainment available.  Check our website for additional information on events.",
         "wines": []
@@ -11,6 +13,8 @@
         "name": "50 West Vineyards",
         "winery_url": "www.50westvineyards.com",
         "va_wine_url": "/wineries/1832",
+        "phone": "(571) 367 4760",
+        "address": null,
         "region": "Region: Northern Virginia",
         "description": "50 West Vineyards is a farm vineyard located on Route 50 in Middleburg, Virginia. It was named after the historic Route 50, which spans the entire width of the United States – from Ocean City, Maryland, to Sacramento, California. The tasting room is a converted horse stable that sits high on a bluff offering stunning views of the Bull Run Mountain range. 50 West is rich with history, from being located in Civil War battle area to being an old horse farm. We aim to share that history with you every time you visit.",
         "wines": [
@@ -44,6 +48,8 @@
         "name": "612 Vineyard",
         "winery_url": "http://www.612vineyard.com/",
         "va_wine_url": "/wineries/1723",
+        "phone": "540-535-6689",
+        "address": null,
         "region": "Region: Shenandoah Valley",
         "description": "612 Vineyard welcomes you to unwind, sit back, savor enticing wine and enjoy our relaxing views at our petit vineyard nestled up against the northwest side of the Blue Ridge Mountains in beautiful Clarke County, Virginia.",
         "wines": [
@@ -101,6 +107,8 @@
         "name": "868 Estate Vineyards",
         "winery_url": "https://www.868EstateVineyards.com ",
         "va_wine_url": "/wineries/1590",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -109,6 +117,8 @@
         "name": "8 Chains North Winery",
         "winery_url": "http://www.8chainsnorth.com/",
         "va_wine_url": "/wineries/944",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -117,6 +127,8 @@
         "name": "Abingdon Vineyard Winery",
         "winery_url": "http://www.abingdonwinery.com",
         "va_wine_url": "/wineries/11",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -125,6 +137,8 @@
         "name": "Above Ground Winery",
         "winery_url": "http://www.agwinery.com",
         "va_wine_url": "/wineries/1442",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -133,6 +147,8 @@
         "name": "Afton Mountain Vineyards",
         "winery_url": "http://www.aftonmountainvineyards.com",
         "va_wine_url": "/wineries/22",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -141,6 +157,8 @@
         "name": "Albemarle CiderWorks",
         "winery_url": "http://www.albemarleciderworks.com",
         "va_wine_url": "/wineries/172",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -149,6 +167,8 @@
         "name": "Altillo Vineyards",
         "winery_url": "http://www.altillovineyards.com",
         "va_wine_url": "/wineries/1132",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -157,6 +177,8 @@
         "name": "American Way Country Wines",
         "winery_url": "http://AMERICANWAYCOUNTRYWINES.COM",
         "va_wine_url": "/wineries/1731",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -165,6 +187,8 @@
         "name": "AmRhein's Wine Cellars",
         "winery_url": "http://www.AmRheins.com",
         "va_wine_url": "/wineries/86",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -173,6 +197,8 @@
         "name": "Ankida Ridge Vineyards",
         "winery_url": "http://www.ankidaridge.com",
         "va_wine_url": "/wineries/1150",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -181,6 +207,8 @@
         "name": "Arterra Wines",
         "winery_url": "http://www.arterrawines.com",
         "va_wine_url": "/wineries/1730",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -189,6 +217,8 @@
         "name": "Ashton Creek Vineyard",
         "winery_url": "http://www.ashtoncreekvineyard.com",
         "va_wine_url": "/wineries/1932",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -197,6 +227,8 @@
         "name": "Aspen Dale Winery at The Barn",
         "winery_url": "http://www.aspendalewinery.com",
         "va_wine_url": "/wineries/212",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -205,6 +237,8 @@
         "name": "Athena Vineyards & Winery",
         "winery_url": "http://www.athenavineyards.com",
         "va_wine_url": "/wineries/107",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -213,6 +247,8 @@
         "name": "Autumn Hill Vineyards Blueridge Winery",
         "winery_url": "http://www.autumnhillwine.com",
         "va_wine_url": "/wineries/108",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -221,6 +257,8 @@
         "name": "Barboursville Vineyards",
         "winery_url": "http://bbvwine.com",
         "va_wine_url": "/wineries/34",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -229,6 +267,8 @@
         "name": "Barrel Oak Winery",
         "winery_url": "http://www.barreloak.com",
         "va_wine_url": "/wineries/102",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -237,6 +277,8 @@
         "name": "Barren Ridge Vineyards",
         "winery_url": "http://www.barrenridgevineyards.com",
         "va_wine_url": "/wineries/32",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -245,6 +287,8 @@
         "name": "Beliveau Estate Winery",
         "winery_url": "http://www.BeliveauEstate.com",
         "va_wine_url": "/wineries/1477",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -253,6 +297,8 @@
         "name": "Big Fish Cider Co.",
         "winery_url": "https://www.bigfishcider.com",
         "va_wine_url": "/wineries/2342",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -261,6 +307,8 @@
         "name": "Blacksnake Meadery",
         "winery_url": "http://www.blacksnakemead.com",
         "va_wine_url": "/wineries/65",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -269,6 +317,8 @@
         "name": "Blenheim Vineyards",
         "winery_url": "http://www.blenheimvineyards.com",
         "va_wine_url": "/wineries/89",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -277,6 +327,8 @@
         "name": "Blue Bee Cider",
         "winery_url": "http://www.bluebeecider.com",
         "va_wine_url": "/wineries/1611",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -285,6 +337,8 @@
         "name": "Bluemont Vineyard",
         "winery_url": "http://BluemontVineyard.com",
         "va_wine_url": "/wineries/67",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -293,6 +347,8 @@
         "name": "Blue Ridge Vineyard",
         "winery_url": "http://www.blueridgevineyard.com",
         "va_wine_url": "/wineries/105",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -301,6 +357,8 @@
         "name": "Bluestone Vineyard",
         "winery_url": "http://www.bluestonevineyard.com",
         "va_wine_url": "/wineries/1156",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -309,6 +367,8 @@
         "name": "Blue Valley Vineyard and Winery",
         "winery_url": "http://www.BlueValleyVineyardandWinery.com",
         "va_wine_url": "/wineries/1706",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -317,6 +377,8 @@
         "name": "Bodie Vineyards",
         "winery_url": "http://www.bodievineyards.com",
         "va_wine_url": "/wineries/968",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -325,6 +387,8 @@
         "name": "Bogati Winery",
         "winery_url": "http://www.bogatibodega.com",
         "va_wine_url": "/wineries/1625",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -333,6 +397,8 @@
         "name": "Bold Rock Cider",
         "winery_url": "http://www.boldrock.com/",
         "va_wine_url": "/wineries/1720",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -341,6 +407,8 @@
         "name": "Boxwood Estate Winery",
         "winery_url": "http://www.boxwoodwinery.com",
         "va_wine_url": "/wineries/111",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -349,6 +417,8 @@
         "name": "Bozzo Vineyards",
         "winery_url": "",
         "va_wine_url": "/wineries/2359",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -357,6 +427,8 @@
         "name": "Breaux Vineyards",
         "winery_url": "http://www.breauxvineyards.com",
         "va_wine_url": "/wineries/35",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -365,6 +437,8 @@
         "name": "Brent Manor Vineyards",
         "winery_url": "http://brentmanorvineyards.com/",
         "va_wine_url": "/wineries/1782",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -373,6 +447,8 @@
         "name": "Bright Meadows Farm",
         "winery_url": "http://www.brightmeadows.com",
         "va_wine_url": "/wineries/66",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -381,6 +457,8 @@
         "name": "Brightwood Vineyard & Farm",
         "winery_url": "http://www.brightwoodvineyardandfarm.com",
         "va_wine_url": "/wineries/1144",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -389,6 +467,8 @@
         "name": "Brix & Columns Vineyards",
         "winery_url": "",
         "va_wine_url": "/wineries/2352",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -397,6 +477,8 @@
         "name": "Brooks Mill Winery",
         "winery_url": "http://www.brooksmillwine.com",
         "va_wine_url": "/wineries/175",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -405,6 +487,8 @@
         "name": "Burnley Vineyards",
         "winery_url": "http://www.burnleywines.com",
         "va_wine_url": "/wineries/1",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -413,6 +497,8 @@
         "name": "Byrd Cellars",
         "winery_url": "http://www.byrdcellars.com",
         "va_wine_url": "/wineries/279",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -421,6 +507,8 @@
         "name": "Cana Vineyards and Winery of Middleburg",
         "winery_url": "http://www.canavineyards.com",
         "va_wine_url": "/wineries/1606",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -429,6 +517,8 @@
         "name": "Capitol Vineyards",
         "winery_url": "http://www.capitolvineyards.com",
         "va_wine_url": "/wineries/1142",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -437,6 +527,8 @@
         "name": "Cardamon Family Vineyards",
         "winery_url": "http://www.cardamonfamilyvineyards.com",
         "va_wine_url": "/wineries/1609",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -445,6 +537,8 @@
         "name": "Cardinal Point Vineyard & Winery",
         "winery_url": "http://www.cardinalpointwinery.com",
         "va_wine_url": "/wineries/24",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -453,6 +547,8 @@
         "name": "Caret Cellars",
         "winery_url": "http://www.caretcellars.com",
         "va_wine_url": "/wineries/1892",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -461,6 +557,8 @@
         "name": "Carroll Vineyards",
         "winery_url": "http://www.carrollvineyards.com",
         "va_wine_url": "/wineries/1602",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -469,6 +567,8 @@
         "name": "Casanel Vineyards & Winery",
         "winery_url": "http://www.casanelvineyards.com",
         "va_wine_url": "/wineries/168",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -477,6 +577,8 @@
         "name": "Castle Glen Estates Winery",
         "winery_url": "http://www.castleglenwine.com",
         "va_wine_url": "/wineries/1982",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -485,6 +587,8 @@
         "name": "Castle Gruen Vineyards and Winery",
         "winery_url": "",
         "va_wine_url": "/wineries/93",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -493,6 +597,8 @@
         "name": "Castle Hill Cider",
         "winery_url": "http://www.castlehillcider.com",
         "va_wine_url": "/wineries/1146",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -501,6 +607,8 @@
         "name": "Catoctin Creek Winery",
         "winery_url": "http://www.catoctincreekwinery.com",
         "va_wine_url": "/wineries/1152",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -509,6 +617,8 @@
         "name": "Cave Ridge Vineyard",
         "winery_url": "http://www.caveridge.com",
         "va_wine_url": "/wineries/48",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -517,6 +627,8 @@
         "name": "Cedar Creek Winery",
         "winery_url": "http://www.cedarcreekvineyard.com",
         "va_wine_url": "/wineries/1493",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -525,6 +637,8 @@
         "name": "Chateau MerrillAnne ",
         "winery_url": "http://www.ChateauMerrillAnne.com",
         "va_wine_url": "/wineries/1696",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -533,6 +647,8 @@
         "name": "Chateau Morrisette",
         "winery_url": "https://www.thedogs.com",
         "va_wine_url": "/wineries/62",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -541,6 +657,8 @@
         "name": "Chateau OBrien at Northpoint",
         "winery_url": "http://www.chateauobrien.com",
         "va_wine_url": "/wineries/16",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -549,6 +667,8 @@
         "name": "Chatham Vineyards on Church Creek",
         "winery_url": "http://www.chathamvineyards.com",
         "va_wine_url": "/wineries/44",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -557,6 +677,8 @@
         "name": "Chester Gap Cellars",
         "winery_url": "http://www.chestergapcellars.com",
         "va_wine_url": "/wineries/82",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -565,6 +687,8 @@
         "name": "Chestnut Oak Vineyard",
         "winery_url": "http://www.chestnutoakvineyard.com/",
         "va_wine_url": "/wineries/1498",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -573,6 +697,8 @@
         "name": "Chisholm Vineyards at Adventure Farm",
         "winery_url": "http://www.adventurefarmvineyard.com/",
         "va_wine_url": "/wineries/1722",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -581,6 +707,8 @@
         "name": "Chrysalis Vineyards at The Ag District",
         "winery_url": "http://www.ChrysalisWine.com",
         "va_wine_url": "/wineries/6",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -589,6 +717,8 @@
         "name": "Cobbler Mountain Cellars",
         "winery_url": "http://www.cobblermountain.com",
         "va_wine_url": "/wineries/1151",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -597,6 +727,8 @@
         "name": "Cooper Vineyards",
         "winery_url": "http://www.coopervineyards.com",
         "va_wine_url": "/wineries/7",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -605,6 +737,8 @@
         "name": "Corcoran Vineyards & Cider",
         "winery_url": "http://www.corcoranvineyards.com",
         "va_wine_url": "/wineries/8",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -613,6 +747,8 @@
         "name": "Courthouse Creek Cider",
         "winery_url": "",
         "va_wine_url": "/wineries/2358",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -621,6 +757,8 @@
         "name": "Creek's Edge Winery",
         "winery_url": "http://www.creeksedgewinery.com/",
         "va_wine_url": "/wineries/1613",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -629,6 +767,8 @@
         "name": "CrossKeys Vineyards",
         "winery_url": "http://www.crosskeysvineyards.com",
         "va_wine_url": "/wineries/69",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -637,6 +777,8 @@
         "name": "Crushed Cellars",
         "winery_url": "http://www.CrushedCellars.com",
         "va_wine_url": "/wineries/1148",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -645,6 +787,8 @@
         "name": "Cunningham Creek Winery",
         "winery_url": "http://www.cunninghamcreek.wine",
         "va_wine_url": "/wineries/2222",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -653,6 +797,8 @@
         "name": "Davis Valley Winery",
         "winery_url": "http://dvwinery.com",
         "va_wine_url": "/wineries/25",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -661,6 +807,8 @@
         "name": "Delaplane Cellars",
         "winery_url": "http://www.delaplanecellars.com",
         "va_wine_url": "/wineries/146",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -669,6 +817,8 @@
         "name": "DelFosse Vineyards and Winery",
         "winery_url": "http://www.delfossewine.com",
         "va_wine_url": "/wineries/20",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -677,6 +827,8 @@
         "name": "Democracy Vineyards",
         "winery_url": "http://www.democracyvineyards.com",
         "va_wine_url": "/wineries/252",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -685,6 +837,8 @@
         "name": "Desert Rose Ranch & Winery",
         "winery_url": "http://www.desertrosewinery.com",
         "va_wine_url": "/wineries/1157",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -693,6 +847,8 @@
         "name": "DeVault Family Vineyards ",
         "winery_url": "http://www.devaultvineyards.com",
         "va_wine_url": "/wineries/934",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -701,6 +857,8 @@
         "name": "Doukénie Winery",
         "winery_url": "http://www.DoukenieWinery.com",
         "va_wine_url": "/wineries/99",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -709,6 +867,8 @@
         "name": "Dry Mill Vineyards & Winery",
         "winery_url": "http://www.drymillwine.com",
         "va_wine_url": "/wineries/169",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -717,6 +877,8 @@
         "name": "DuCard Vineyards",
         "winery_url": "http://www.ducardvineyards.com",
         "va_wine_url": "/wineries/283",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -725,6 +887,8 @@
         "name": "Early Mountain Vineyards",
         "winery_url": "http://www.earlymountain.com/",
         "va_wine_url": "/wineries/72",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -733,6 +897,8 @@
         "name": "Eden Try Estate Winery",
         "winery_url": "http://www.EdenTryEstate.com",
         "va_wine_url": "/wineries/1728",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -741,6 +907,8 @@
         "name": "Effingham Manor & Winery",
         "winery_url": "http://effinghammanor.com/home.htm",
         "va_wine_url": "/wineries/2366",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -749,6 +917,8 @@
         "name": "Elk Island Winery",
         "winery_url": "http://elkislandwinery.com",
         "va_wine_url": "/wineries/1601",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -757,6 +927,8 @@
         "name": "Fabbioli Cellars",
         "winery_url": "http://www.fabbioliwines.com",
         "va_wine_url": "/wineries/88",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -765,6 +937,8 @@
         "name": "Fincastle Vineyard & Winery  ",
         "winery_url": "http://fincastlewine.com",
         "va_wine_url": "/wineries/37",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -773,6 +947,8 @@
         "name": "Firefly Hill Vineyards",
         "winery_url": "http://www.fireflyhill.com",
         "va_wine_url": "/wineries/819",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -781,6 +957,8 @@
         "name": "First Colony Winery",
         "winery_url": "http://www.firstcolonywinery.com",
         "va_wine_url": "/wineries/19",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -789,6 +967,8 @@
         "name": "Five Oaks Vineyard",
         "winery_url": "www.fiveoaksvineyard.com",
         "va_wine_url": "/wineries/2322",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -797,6 +977,8 @@
         "name": "Flying Fox Vineyard",
         "winery_url": "http://www.FlyingFoxVineyard.com",
         "va_wine_url": "/wineries/79",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -805,6 +987,8 @@
         "name": "Foggy Ridge Cider",
         "winery_url": "http://www.foggyridgecider.com",
         "va_wine_url": "/wineries/46",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -813,6 +997,8 @@
         "name": "Fox Meadow Winery",
         "winery_url": "http://www.foxmeadowwinery.com",
         "va_wine_url": "/wineries/56",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -821,6 +1007,8 @@
         "name": "Gabriele Rausse Winery",
         "winery_url": "http://www.gabrieleraussewinery.com",
         "va_wine_url": "/wineries/120",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -829,6 +1017,8 @@
         "name": "Gadino Cellars",
         "winery_url": "https://www.gadinocellars.com",
         "va_wine_url": "/wineries/50",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -837,6 +1027,8 @@
         "name": "Gauthier Vineyard",
         "winery_url": "http://www.gauthiervineyard.com",
         "va_wine_url": "/wineries/1701",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -845,6 +1037,8 @@
         "name": "General's Ridge Vineyard",
         "winery_url": "http://www.generalsridgevineyard.com",
         "va_wine_url": "/wineries/823",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -853,6 +1047,8 @@
         "name": "Giles Mountain Vineyard & Winery",
         "winery_url": "http://www.gilesmountainwinery.com",
         "va_wine_url": "/wineries/2272",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -861,6 +1057,8 @@
         "name": "Glass House Winery",
         "winery_url": "http://www.glasshousewinery.com",
         "va_wine_url": "/wineries/824",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -869,6 +1067,8 @@
         "name": "Glen Manor Vineyards",
         "winery_url": "http://www.glenmanorvineyards.com",
         "va_wine_url": "/wineries/109",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -877,6 +1077,8 @@
         "name": "Good Luck Cellars",
         "winery_url": "http://www.goodluckcellars.com",
         "va_wine_url": "/wineries/1153",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -885,6 +1087,8 @@
         "name": "Grace Estate Winery",
         "winery_url": "http://www.graceestatewinery.com",
         "va_wine_url": "/wineries/1603",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -893,6 +1097,8 @@
         "name": "Granite Heights Winery   ",
         "winery_url": "http://www.gh.wine",
         "va_wine_url": "/wineries/1145",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -901,6 +1107,8 @@
         "name": "Gray Ghost Vineyards",
         "winery_url": "http://www.grayghostvineyards.com",
         "va_wine_url": "/wineries/101",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -909,6 +1117,8 @@
         "name": "Grayhaven Winery",
         "winery_url": "http://www.grayhavenwinery.com",
         "va_wine_url": "/wineries/115",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -917,6 +1127,8 @@
         "name": "Greenhill Winery & Vineyards",
         "winery_url": "http://greenhillvineyards.com/",
         "va_wine_url": "/wineries/1694",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -925,6 +1137,8 @@
         "name": "Greenwood Vineyards",
         "winery_url": "http://www.sovawinetrail.com",
         "va_wine_url": "/wineries/775",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -933,6 +1147,8 @@
         "name": "Grey Horse Vineyards",
         "winery_url": "http://www.greyhorsevineyards.com",
         "va_wine_url": "/wineries/1721",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -941,6 +1157,8 @@
         "name": "Guilford Ridge Vineyards",
         "winery_url": "http://",
         "va_wine_url": "/wineries/1499",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -949,6 +1167,8 @@
         "name": "Hamlet Vineyards",
         "winery_url": "http://www.hamletvineyards.com",
         "va_wine_url": "/wineries/1619",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -957,6 +1177,8 @@
         "name": "Hammerstone Cellars",
         "winery_url": "",
         "va_wine_url": "/wineries/2364",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -965,6 +1187,8 @@
         "name": "Hampton Roads Winery",
         "winery_url": "http://www.hamptonroadswinery.com",
         "va_wine_url": "/wineries/1862",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -973,6 +1197,8 @@
         "name": "Hartwood Winery",
         "winery_url": "http://www.hartwoodwinery.com",
         "va_wine_url": "/wineries/40",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -981,6 +1207,8 @@
         "name": "Hickory Hill Vineyards",
         "winery_url": "http://www.SMLwine.com",
         "va_wine_url": "/wineries/17",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -989,6 +1217,8 @@
         "name": "Hidden Brook Winery",
         "winery_url": "http://www.hiddenbrookwinery.com",
         "va_wine_url": "/wineries/118",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -997,6 +1227,8 @@
         "name": "Hiddencroft Vineyards",
         "winery_url": "http://www.hiddencroftvineyards.com",
         "va_wine_url": "/wineries/110",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1005,6 +1237,8 @@
         "name": "Hillsborough Vineyards",
         "winery_url": "http://www.hillsboroughwine.com",
         "va_wine_url": "/wineries/122",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1013,6 +1247,8 @@
         "name": "Hill Top Berry Farm and Winery",
         "winery_url": "http://www.hilltopberrywine.com",
         "va_wine_url": "/wineries/68",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1021,6 +1257,8 @@
         "name": "Honah Lee Vineyard",
         "winery_url": "http://www.honahleevineyard.com",
         "va_wine_url": "/wineries/1608",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1029,6 +1267,8 @@
         "name": "Horton Vineyards",
         "winery_url": "http://www.hortonwine.com",
         "va_wine_url": "/wineries/104",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1037,6 +1277,8 @@
         "name": "Hunters Run Winery",
         "winery_url": "http://www.huntersrunwinebarn.com/",
         "va_wine_url": "/wineries/1154",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1045,6 +1287,8 @@
         "name": "Hunting Creek Vineyards",
         "winery_url": "www.hcvwines.com",
         "va_wine_url": "/wineries/836",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1053,6 +1297,8 @@
         "name": "Ingleside Vineyards",
         "winery_url": "http://inglesidevineyards.com/",
         "va_wine_url": "/wineries/43",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1061,6 +1307,8 @@
         "name": "Iron Heart Winery",
         "winery_url": "http://www.ironheartwinery.com",
         "va_wine_url": "/wineries/2212",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1069,6 +1317,8 @@
         "name": "Jacey Vineyards",
         "winery_url": "http://www.jaceyvineyards.com",
         "va_wine_url": "/wineries/1614",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1077,6 +1327,8 @@
         "name": "James Charles Winery & Vineyard",
         "winery_url": "http://jamescharleswine.com",
         "va_wine_url": "/wineries/1812",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1085,6 +1337,8 @@
         "name": "James River Cellars",
         "winery_url": "http://www.JamesRiverCellars.com",
         "va_wine_url": "/wineries/53",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1093,6 +1347,8 @@
         "name": "JBR Vineyards & Winery",
         "winery_url": "http://www.facebook.com/jbrwine",
         "va_wine_url": "/wineries/1882",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1101,6 +1357,8 @@
         "name": "Jefferson Vineyards",
         "winery_url": "http://www.jeffersonvineyards.com",
         "va_wine_url": "/wineries/2",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1109,6 +1367,8 @@
         "name": "Jump Mountain Vineyard",
         "winery_url": "http://www.jumpwines.com",
         "va_wine_url": "/wineries/1618",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1117,6 +1377,8 @@
         "name": "Keswick Vineyards",
         "winery_url": "http://www.keswickvineyards.com",
         "va_wine_url": "/wineries/21",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1125,6 +1387,8 @@
         "name": "Kilaurwen Winery, LLC",
         "winery_url": "http://KilaurwenWinery.com",
         "va_wine_url": "/wineries/1137",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1133,6 +1397,8 @@
         "name": "King Family Vineyards",
         "winery_url": "http://www.kingfamilyvineyards.com",
         "va_wine_url": "/wineries/18",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1141,6 +1407,8 @@
         "name": "Knights Gambit Vineyard",
         "winery_url": "http://www.knightsgambitvineyard.com/",
         "va_wine_url": "/wineries/1497",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1149,6 +1417,8 @@
         "name": "Lake Anna Winery",
         "winery_url": "http://www.lawinery.com",
         "va_wine_url": "/wineries/57",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1157,6 +1427,8 @@
         "name": "Lazy Days Winery",
         "winery_url": "http://www.lazydayswinery.com  ",
         "va_wine_url": "/wineries/935",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1165,6 +1437,8 @@
         "name": "Leo Grande Vineyards & Winery",
         "winery_url": "http://www.leograndewinery.com",
         "va_wine_url": "/wineries/124",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1173,6 +1447,8 @@
         "name": "Lexington Valley Vineyard",
         "winery_url": "http://lexingtonvalleyvineyard.com",
         "va_wine_url": "/wineries/14",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1181,6 +1457,8 @@
         "name": "Linden Vineyards",
         "winery_url": "http://www.lindenvineyards.com",
         "va_wine_url": "/wineries/125",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1189,6 +1467,8 @@
         "name": "Little Washington Winery",
         "winery_url": "http://www.littlewashingtonwinery.com",
         "va_wine_url": "/wineries/1432",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1197,6 +1477,8 @@
         "name": "Loving Cup Vineyard & Winery",
         "winery_url": "http://www.lovingcupwine.com",
         "va_wine_url": "/wineries/1704",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1205,6 +1487,8 @@
         "name": "Lovingston Winery",
         "winery_url": "http://www.lovingstonwinery.com",
         "va_wine_url": "/wineries/61",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1213,6 +1497,8 @@
         "name": "Maggie Malick Wine Caves",
         "winery_url": "http://www.maggiemalickwinecaves.com",
         "va_wine_url": "/wineries/1610",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1221,6 +1507,8 @@
         "name": "Magnolia Vineyards & Winery",
         "winery_url": "http://www.magnoliavineyards.com/",
         "va_wine_url": "/wineries/850",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1229,6 +1517,8 @@
         "name": "Maidstone Meadery",
         "winery_url": "http://www.maidstonemeadery.com",
         "va_wine_url": "/wineries/1718",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1237,6 +1527,8 @@
         "name": "Marceline Vineyards",
         "winery_url": "www.Marcelinevineyards.com",
         "va_wine_url": "/wineries/2282",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1245,6 +1537,8 @@
         "name": "Mattaponi Winery",
         "winery_url": "http://www.mattaponiwinery.com/",
         "va_wine_url": "/wineries/141",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1253,6 +1547,8 @@
         "name": "Mediterranean Cellars",
         "winery_url": "http://www.mediterraneancellars.com",
         "va_wine_url": "/wineries/83",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1261,6 +1557,8 @@
         "name": "Meriwether Springs Vineyard",
         "winery_url": "http://meriwethersprings.com/",
         "va_wine_url": "/wineries/1691",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1269,6 +1567,8 @@
         "name": "Mermaid Winery",
         "winery_url": "http://www.mermaidwinery.com",
         "va_wine_url": "/wineries/1733",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1277,6 +1577,8 @@
         "name": "Michael Shaps Winery",
         "winery_url": "http://www.michaelshapswines.com",
         "va_wine_url": "/wineries/136",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1285,6 +1587,8 @@
         "name": "Miller Winery",
         "winery_url": "http://www.millerwinery.com/",
         "va_wine_url": "/wineries/1714",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1293,6 +1597,8 @@
         "name": "Miracle Valley Vineyard",
         "winery_url": "http://www.miraclevalleyvineyard.com",
         "va_wine_url": "/wineries/84",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1301,6 +1607,8 @@
         "name": "Misty Mountain Meadworks",
         "winery_url": "http://www.mistymountainmead.com",
         "va_wine_url": "/wineries/142",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1309,6 +1617,8 @@
         "name": "Molon Lave Vineyards",
         "winery_url": "http://www.molonlavevineyards.com/",
         "va_wine_url": "/wineries/284",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1317,6 +1627,8 @@
         "name": "Monroe Bay Vineyard",
         "winery_url": "http://www.MonroeBayWine.com",
         "va_wine_url": "/wineries/1922",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1325,6 +1637,8 @@
         "name": "Monticello Wine Trail",
         "winery_url": "http://www.monticellowinetrail.com",
         "va_wine_url": "/wineries/1972",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1333,6 +1647,8 @@
         "name": "Morais Vineyards & Winery",
         "winery_url": "http://www.moraisvineyards.com/",
         "va_wine_url": "/wineries/1500",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1341,6 +1657,8 @@
         "name": "Moss Vineyards",
         "winery_url": "http://www.mossvineyards.net",
         "va_wine_url": "/wineries/1501",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1349,6 +1667,8 @@
         "name": "Mountain Cove Vineyards",
         "winery_url": "http://www.mountaincovevineyards.com",
         "va_wine_url": "/wineries/26",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1357,6 +1677,8 @@
         "name": "MountainRose Vineyards Inc",
         "winery_url": "http://www.mountainrosevineyard.com",
         "va_wine_url": "/wineries/28",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1365,6 +1687,8 @@
         "name": "Mountain Run Winery",
         "winery_url": "http://www.MountainRunWinery.com",
         "va_wine_url": "/wineries/2072",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1373,6 +1697,8 @@
         "name": "Mountain View Vineyard",
         "winery_url": "",
         "va_wine_url": "/wineries/1482",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1381,6 +1707,8 @@
         "name": "Mountfair Vineyards",
         "winery_url": "http://www.mountfair.com",
         "va_wine_url": "/wineries/140",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1389,6 +1717,8 @@
         "name": "Mt Vale Vineyards",
         "winery_url": "http://www.mtvalevineyard.com/",
         "va_wine_url": "/wineries/1496",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1397,6 +1727,8 @@
         "name": "Muse Vineyards",
         "winery_url": "http://www.musevineyards.com",
         "va_wine_url": "/wineries/1483",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1405,6 +1737,8 @@
         "name": "Naked Mountain Winery and Vineyards",
         "winery_url": "http://www.nakedmtnwinery.com",
         "va_wine_url": "/wineries/85",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1413,6 +1747,8 @@
         "name": "Narmada Winery",
         "winery_url": "http://www.narmadawinery.com/",
         "va_wine_url": "/wineries/242",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1421,6 +1757,8 @@
         "name": "New Kent Winery",
         "winery_url": "http://NewKentWinery.com",
         "va_wine_url": "/wineries/51",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1429,6 +1767,8 @@
         "name": "North Gate Vineyard",
         "winery_url": "http://www.northgatevineyard.com",
         "va_wine_url": "/wineries/70",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1437,6 +1777,8 @@
         "name": "North Mountain Vineyard & Winery",
         "winery_url": "http://www.northmountainvineyard.com",
         "va_wine_url": "/wineries/80",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1445,6 +1787,8 @@
         "name": "Notaviva Vineyards",
         "winery_url": "http://www.NotavivaVineyards.com",
         "va_wine_url": "/wineries/9",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1453,6 +1797,8 @@
         "name": "Nova Ridge Vineyards",
         "winery_url": "http://www.novaridgevineyards.com",
         "va_wine_url": "/wineries/1620",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1461,6 +1807,8 @@
         "name": "Oak Crest Vineyard & Winery",
         "winery_url": "http://www.oakcrestwinery.com",
         "va_wine_url": "/wineries/45",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1469,6 +1817,8 @@
         "name": "Old Hill Cider",
         "winery_url": "http://www.oldhillcider.com",
         "va_wine_url": "/wineries/1617",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1477,6 +1827,8 @@
         "name": "Old House Vineyards",
         "winery_url": "http://www.oldhousevineyards.com",
         "va_wine_url": "/wineries/76",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1485,6 +1837,8 @@
         "name": "Otium Cellars",
         "winery_url": "http://www.otiumcellars.com",
         "va_wine_url": "/wineries/1502",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1493,6 +1847,8 @@
         "name": "Ox Eye Vineyards",
         "winery_url": "http://www.OxEyeVineyards.com",
         "va_wine_url": "/wineries/1135",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1501,6 +1857,8 @@
         "name": "Paradise Springs Winery",
         "winery_url": "http://www.paradisespringswinery.com/",
         "va_wine_url": "/wineries/250",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1509,6 +1867,8 @@
         "name": "Peaks of Otter Winery",
         "winery_url": "http://www.IwineU.com",
         "va_wine_url": "/wineries/30",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1517,6 +1877,8 @@
         "name": "Pearmund Cellars",
         "winery_url": "http://www.PearmundCellars.com",
         "va_wine_url": "/wineries/112",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1525,6 +1887,8 @@
         "name": "Philip Carter Winery",
         "winery_url": "http://www.pcwinery.com",
         "va_wine_url": "/wineries/5",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1533,6 +1897,8 @@
         "name": "Pippin Hill Farm & Vineyards",
         "winery_url": "http://www.pippinhillfarm.com",
         "va_wine_url": "/wineries/1336",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1541,6 +1907,8 @@
         "name": "Plum Creek Winery",
         "winery_url": "http://tinyurl.com/nzjdp46",
         "va_wine_url": "/wineries/1707",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1549,6 +1917,8 @@
         "name": "Pollak Vineyards",
         "winery_url": "http://www.pollakvineyards.com",
         "va_wine_url": "/wineries/114",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1557,6 +1927,8 @@
         "name": "Potomac Point Winery",
         "winery_url": "http://www.potomacpointwinery.com",
         "va_wine_url": "/wineries/38",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1565,6 +1937,8 @@
         "name": "Potter's Craft Cider",
         "winery_url": "http://potterscraftcider.com/",
         "va_wine_url": "/wineries/1624",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1573,6 +1947,8 @@
         "name": "Preston Ridge Winery",
         "winery_url": "http://www.prestonridgewinery.com",
         "va_wine_url": "/wineries/1139",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1581,6 +1957,8 @@
         "name": "Prince Michel Vineyard",
         "winery_url": "http://www.princemichel.com",
         "va_wine_url": "/wineries/87",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1589,6 +1967,8 @@
         "name": "Pungo Ridge Winery",
         "winery_url": "http://www.pungoridgewinery.com",
         "va_wine_url": "/wineries/1503",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1597,6 +1977,8 @@
         "name": "Quattro Goombas Winery",
         "winery_url": "http://www.goombawine.com",
         "va_wine_url": "/wineries/91",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1605,6 +1987,8 @@
         "name": "Quievremont",
         "winery_url": "http://www.quievremont.com",
         "va_wine_url": "/wineries/1700",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1613,6 +1997,8 @@
         "name": "Ramulose Ridge Vineyards",
         "winery_url": "http://www.ramuloseridgevineyards.com/",
         "va_wine_url": "/wineries/1693",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1621,6 +2007,8 @@
         "name": "Rappahannock Cellars",
         "winery_url": "http://www.rcellars.com",
         "va_wine_url": "/wineries/52",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1629,6 +2017,8 @@
         "name": "RdV Vineyards",
         "winery_url": "http://www.rdvvineyards.com",
         "va_wine_url": "/wineries/1436",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1637,6 +2027,8 @@
         "name": "Rebec Vineyards Inc",
         "winery_url": "http://www.rebecwinery.com",
         "va_wine_url": "/wineries/55",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1645,6 +2037,8 @@
         "name": "Reynard Florence Vineyard",
         "winery_url": "http://www.reynardflorence.com/",
         "va_wine_url": "/wineries/1320",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1653,6 +2047,8 @@
         "name": "Rockbridge Vineyard",
         "winery_url": "http://www.rockbridgevineyard.com",
         "va_wine_url": "/wineries/12",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1661,6 +2057,8 @@
         "name": "Rogers Ford Farm Winery",
         "winery_url": "http://www.rogersfordwine.com",
         "va_wine_url": "/wineries/95",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1669,6 +2067,8 @@
         "name": "Rosemont Vineyards & Winery",
         "winery_url": "http://RosemontofVirginia.com",
         "va_wine_url": "/wineries/92",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1677,6 +2077,8 @@
         "name": "Rural Retreat Winery & Vineyards",
         "winery_url": "http://www.ruralretreatwinery.com",
         "va_wine_url": "/wineries/64",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1685,6 +2087,8 @@
         "name": "Sans Soucy Vineyards ",
         "winery_url": "http://www.sanssoucyvineyards.com",
         "va_wine_url": "/wineries/54",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1693,6 +2097,8 @@
         "name": "Sassafras Shade Vineyard",
         "winery_url": "http://www.sassafrasshade.com",
         "va_wine_url": "/wineries/1729",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1701,6 +2107,8 @@
         "name": "Saudé Creek Vineyards",
         "winery_url": "http://www.saudecreek.com",
         "va_wine_url": "/wineries/1133",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1709,6 +2117,8 @@
         "name": "Seven Doors Winery",
         "winery_url": "Www.sevendoorswinery.com",
         "va_wine_url": "/wineries/2354",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1717,6 +2127,8 @@
         "name": "Sharp Rock Vineyards",
         "winery_url": "http://www.sharprockvineyards.com",
         "va_wine_url": "/wineries/31",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1725,6 +2137,8 @@
         "name": "Shenandoah Vineyards",
         "winery_url": "http://www.ShenandoahVineyardsVA.com",
         "va_wine_url": "/wineries/117",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1733,6 +2147,8 @@
         "name": "Skippers Creek Vineyard",
         "winery_url": "http://skipperscreek.com/",
         "va_wine_url": "/wineries/1689",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1741,6 +2157,8 @@
         "name": "Slater Run Vineyards",
         "winery_url": "http://www.slaterrun.com",
         "va_wine_url": "/wineries/1992",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1749,6 +2167,8 @@
         "name": "Spring Run Vineyards",
         "winery_url": "http://www.springrunvineyards.com",
         "va_wine_url": "/wineries/1708",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1757,6 +2177,8 @@
         "name": "Stanburn Winery",
         "winery_url": "http://www.stanburnwinery.com",
         "va_wine_url": "/wineries/1136",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1765,6 +2187,8 @@
         "name": "Stinson Vineyards",
         "winery_url": "http://www.stinsonvineyards.com",
         "va_wine_url": "/wineries/1140",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1773,6 +2197,8 @@
         "name": "Stone House Meadery",
         "winery_url": "http://www.stonehousemeadery.com",
         "va_wine_url": "/wineries/1604",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1781,6 +2207,8 @@
         "name": "Stone Mountain Vineyards",
         "winery_url": "http://www.stonemountainvineyards.com",
         "va_wine_url": "/wineries/36",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1789,6 +2217,8 @@
         "name": "Stone Tower Winery",
         "winery_url": "http://www.stonetowerwinery.com/",
         "va_wine_url": "/wineries/1600",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1797,6 +2227,8 @@
         "name": "Sunset Hills Vineyard",
         "winery_url": "www.sunsethillsvineyard.com",
         "va_wine_url": "/wineries/103",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1805,6 +2237,8 @@
         "name": "Tarara Winery",
         "winery_url": "http://www.tarara.com",
         "va_wine_url": "/wineries/13",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1813,6 +2247,8 @@
         "name": "Terra Nebulo Vineyards",
         "winery_url": "http://www.terranebulo.com",
         "va_wine_url": "/wineries/1842",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1821,6 +2257,8 @@
         "name": "The Barns at Hamilton Station Vineyards",
         "winery_url": "http://www.thebarnsathamiltonstation.com",
         "va_wine_url": "/wineries/1504",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1829,6 +2267,8 @@
         "name": "The Dog and Oyster Vineyard",
         "winery_url": "http://www.hopeandglory.com/thevineyard/winery.html",
         "va_wine_url": "/wineries/1495",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1837,6 +2277,8 @@
         "name": "The Hague Winery",
         "winery_url": "http://www.thehaguewinery.com",
         "va_wine_url": "/wineries/215",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1845,6 +2287,8 @@
         "name": "The Homeplace Vineyard",
         "winery_url": "http://www.thehomeplacevineyard.com/",
         "va_wine_url": "/wineries/1129",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1853,6 +2297,8 @@
         "name": "The Vineyards & Winery at Lost Creek",
         "winery_url": "http://www.lostcreekwinery.com",
         "va_wine_url": "/wineries/81",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1861,6 +2307,8 @@
         "name": "The Wine Reserve at Waterford",
         "winery_url": "http://www.waterfordwinereserve.com",
         "va_wine_url": "/wineries/2262",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1869,6 +2317,8 @@
         "name": "The Winery at Bull Run",
         "winery_url": "http://www.wineryatbullrun.com",
         "va_wine_url": "/wineries/1591",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1877,6 +2327,8 @@
         "name": "The Winery at La Grange",
         "winery_url": "http://www.wineryatlagrange.com/",
         "va_wine_url": "/wineries/58",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1885,6 +2337,8 @@
         "name": "Thistle Gate Vineyard",
         "winery_url": "http://www.Thistlegatevineyard.com",
         "va_wine_url": "/wineries/1149",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1893,6 +2347,8 @@
         "name": "Three Fox Vineyards",
         "winery_url": "http://www.threefoxvineyards.com",
         "va_wine_url": "/wineries/60",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1901,6 +2357,8 @@
         "name": "Three Sisters of Shiney Rock",
         "winery_url": "http://ThreeSistersOfShineyrock.com",
         "va_wine_url": "/wineries/1615",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1909,6 +2367,8 @@
         "name": "Tomahawk Mill Winery",
         "winery_url": "http://www.tomahawkmill.com",
         "va_wine_url": "/wineries/94",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1917,6 +2377,8 @@
         "name": "Trump Winery",
         "winery_url": "http://www.TrumpWinery.com",
         "va_wine_url": "/wineries/1494",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1925,6 +2387,8 @@
         "name": "Turk Mountain Vineyards",
         "winery_url": "http://www.turkmountainvineyards.com",
         "va_wine_url": "/wineries/1141",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1933,6 +2397,8 @@
         "name": "Twin Oaks Tavern Winery",
         "winery_url": "http://www.twinoakstavernwinery.com",
         "va_wine_url": "/wineries/174",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1941,6 +2407,8 @@
         "name": "Two Twisted Posts Winery",
         "winery_url": "http://www.twotwistedposts.com",
         "va_wine_url": "/wineries/1716",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1949,6 +2417,8 @@
         "name": "Upper Shirley Vineyards",
         "winery_url": "http://www.uppershirley.com",
         "va_wine_url": "/wineries/1952",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1957,6 +2427,8 @@
         "name": "Valerie Hill Vineyard & Winery",
         "winery_url": "http://www.valeriehillwinery.com",
         "va_wine_url": "/wineries/1596",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1965,6 +2437,8 @@
         "name": "Valhalla Vineyards",
         "winery_url": "http://www.valhallawines.com",
         "va_wine_url": "/wineries/134",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1973,6 +2447,8 @@
         "name": "Valley Road Vineyards",
         "winery_url": "http://www.valleyroadwines.com",
         "va_wine_url": "/wineries/2242",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1981,6 +2457,8 @@
         "name": "Vault Field Vineyards",
         "winery_url": "http://www.vaultfield.com",
         "va_wine_url": "/wineries/74",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1989,6 +2467,8 @@
         "name": "Veramar Vineyard ",
         "winery_url": "http://veramar.com",
         "va_wine_url": "/wineries/3",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -1997,6 +2477,8 @@
         "name": "Veritas Winery",
         "winery_url": "http://www.veritaswines.com",
         "va_wine_url": "/wineries/4",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2005,6 +2487,8 @@
         "name": "Villa Appalaccia",
         "winery_url": "http://www.villaappalaccia.com",
         "va_wine_url": "/wineries/15",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2013,6 +2497,8 @@
         "name": "Village Winery",
         "winery_url": "http://www.villagewineryandvineyards.com",
         "va_wine_url": "/wineries/135",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2021,6 +2507,8 @@
         "name": "Vincent's Vineyard",
         "winery_url": "http://www.vincentsvineyard.com/",
         "va_wine_url": "/wineries/143",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2029,6 +2517,8 @@
         "name": "Vint Hill Craft Winery",
         "winery_url": "http://www.vinthillcraftwinery.com/",
         "va_wine_url": "/wineries/280",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2037,6 +2527,8 @@
         "name": "Vintners Cellar Winery of Yorktown",
         "winery_url": "",
         "va_wine_url": "/wineries/2365",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2045,6 +2537,8 @@
         "name": "Virginia Mountain Vineyards",
         "winery_url": "http://www.vmvines.com",
         "va_wine_url": "/wineries/78",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2053,6 +2547,8 @@
         "name": "Webster C Hall Vineyards",
         "winery_url": "http://www.websterchall.com/",
         "va_wine_url": "/wineries/1715",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2061,6 +2557,8 @@
         "name": "Weston Farm Vineyard and Winery ",
         "winery_url": "http://westonfarmvineyardandwinery.webs.com",
         "va_wine_url": "/wineries/933",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2069,6 +2567,8 @@
         "name": "West Wind Farm Vineyard and Winery",
         "winery_url": "http://www.westwindwine.com",
         "va_wine_url": "/wineries/23",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2077,6 +2577,8 @@
         "name": "Whitebarrel Winery",
         "winery_url": "http://www.whitebarrel.com",
         "va_wine_url": "/wineries/977",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2085,6 +2587,8 @@
         "name": "White Hall Vineyards",
         "winery_url": "http://www.whitehallvineyards.com",
         "va_wine_url": "/wineries/90",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2093,6 +2597,8 @@
         "name": "White Rock Vineyards & Winery",
         "winery_url": "http://whiterockwines.com",
         "va_wine_url": "/wineries/137",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2101,6 +2607,8 @@
         "name": "Wilderness Run Vineyards",
         "winery_url": "http://",
         "va_wine_url": "/wineries/1712",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2109,6 +2617,8 @@
         "name": "Wild Hare Cider",
         "winery_url": "",
         "va_wine_url": "/wineries/2360",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2117,6 +2627,8 @@
         "name": "Williamsburg Winery",
         "winery_url": "http://www.williamsburgwinery.com",
         "va_wine_url": "/wineries/29",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2125,6 +2637,8 @@
         "name": "Willowcroft Farm Vineyards",
         "winery_url": "http://www.willowcroftwine.com",
         "va_wine_url": "/wineries/97",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2133,6 +2647,8 @@
         "name": "Winchester Ciderworks",
         "winery_url": "http://www.winchesterciderworks.com",
         "va_wine_url": "/wineries/1713",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2141,6 +2657,8 @@
         "name": "Winding Road Cellars",
         "winery_url": "http://www.windingroadcellars.com/",
         "va_wine_url": "/wineries/1692",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2149,6 +2667,8 @@
         "name": "Winery 32",
         "winery_url": "http://www.winery32.com",
         "va_wine_url": "/wineries/1697",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2157,6 +2677,8 @@
         "name": "Winery at Kindred Pointe",
         "winery_url": "http://www.kindredpointe.com",
         "va_wine_url": "/wineries/1621",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2165,6 +2687,8 @@
         "name": "Wineworks Extended",
         "winery_url": "www.michaelshapswines.com",
         "va_wine_url": "/wineries/2232",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2173,6 +2697,8 @@
         "name": "Wisdom Oak Winery ",
         "winery_url": "https://www.wisdomoakwinery.com",
         "va_wine_url": "/wineries/96",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2181,6 +2707,8 @@
         "name": "Wisteria Farm & Vineyard",
         "winery_url": "http://wisteriavineyard.com/",
         "va_wine_url": "/wineries/243",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2189,6 +2717,8 @@
         "name": "Wolf Gap Vineyard & Winery",
         "winery_url": "http://www.wolfgapvineyard.com",
         "va_wine_url": "/wineries/138",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
@@ -2197,6 +2727,8 @@
         "name": "Zephaniah Farm Vineyard",
         "winery_url": "http://www.zephwine.com",
         "va_wine_url": "/wineries/116",
+        "phone": null,
+        "address": null,
         "region": null,
         "description": null,
         "wines": []
