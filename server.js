@@ -4,6 +4,7 @@ var request = require('request');
 var cheerio = require('cheerio');
 var app     = express();
 
+const port = process.env.PORT || 8080;
 const base_url = 'https://www.virginiawine.org';
 var wineries = [];
 
@@ -110,5 +111,5 @@ function writeFile(){
   })
 }
 
-app.listen('8081')
-console.log('Wine API and Harvester Running on port 8081 ...');
+app.listen(port)
+console.log('Wine API and Harvester Running on port ' + port + ' ...');
