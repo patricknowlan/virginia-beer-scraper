@@ -16,7 +16,7 @@
         "phone": "(571) 367 4760",
         "address": null,
         "region": "Region: Northern Virginia",
-        "description": "50 West Vineyards is a farm vineyard located on Route 50 in Middleburg, Virginia. It was named after the historic Route 50, which spans the entire width of the United States – from Ocean City, Maryland, to Sacramento, California. The tasting room is a converted horse stable that sits high on a bluff offering stunning views of the Bull Run Mountain range. 50 West is rich with history, from being located in Civil War battle area to being an old horse farm. We aim to share that history with you every time you visit.",
+        "description": "50 West Vineyards is a farm vineyard located on Route 50 in Middleburg, Virginia. It was named after the historic Route 50, which spans the entire width of the United States – from Ocean City, Maryland, to Sacramento, California. The tasting room is a converted horse stable that sits high on a bluff offering stunning views of the Bull Run Mountain range. 50 West is rich with history, from being located in Civil War battle area to being an old horse farm. We aim to share that history with you every time you visit.50 West Vineyards is proud to produce authentic, 100% Virginia wine. From growing grapes among five properties in Northern Virginia and the Shenandoah Valley, and hand-tending over 80,000 vines, 50 West strives to take great care in producing classic Bordeaux style red and white wines. Three grape varietals are grown onsite at 50 West including Cabernet Sauvignon, Albariño, and Sauvignon Blanc. 50 West combines old world winemaking techniques in a modern state of the art solar powered wine facility located at our sister winery, Sunset Hills Vineyard, and managed by Corry Craighill, winemaker and vineyard manager.",
         "wines": [
             {
                 "name": "2016 Albariño",
@@ -51,7 +51,7 @@
         "phone": "540-535-6689",
         "address": null,
         "region": "Region: Shenandoah Valley",
-        "description": "612 Vineyard welcomes you to unwind, sit back, savor enticing wine and enjoy our relaxing views at our petit vineyard nestled up against the northwest side of the Blue Ridge Mountains in beautiful Clarke County, Virginia.",
+        "description": "612 Vineyard welcomes you to unwind, sit back, savor enticing wine and enjoy our relaxing views at our petit vineyard nestled up against the northwest side of the Blue Ridge Mountains in beautiful Clarke County, Virginia.Delight on our wondrous enticing wines – from a lightly sweet Rose to a dry velvety Chambourcin, along with everything in between.Lisa Adams, Owner and Founder, fell in love with Northern Virginia and the Blue Ridge Mountains when relocating to Clarke County in 1996. Her passion for the importance of family and friends gathering together inspired the establishment of 612 Vineyard.Lisa shares her homestead as a place to congregate and relish with family and friends. She warmly invites you to 612 Vineyard to unwind your attitude as you embrace the mountainous views and surrounding farmlands. Leave your stresses behind and escape from the hustle and bustle of your everyday life. Relax with friends and family, reconnecting your kindred spirits, while enjoying our variety of wines the earth creates. It is a reminder of the good things the earth can give us.Feel at home in our tasting areas that are cozy and cool in the summer, and toasty in the winter with two fireplaces. Stroll onto our 75 ft. long scenic view porch, tasting room or take a seat under our shaded umbrella in the summer or near the fire pits in cooler weather. Be entertained with an array of music on our small covered stage.Before heading back home, visit the vast array of wine related items and featured works of various independent artists in our gift shop. Don’t forget to pick-up a bottle of our enticing wine to enjoy once you return home.",
         "wines": [
             {
                 "name": "612 Vineyard Chardonnay",
@@ -107,381 +107,1606 @@
         "name": "868 Estate Vineyards",
         "winery_url": "https://www.868EstateVineyards.com ",
         "va_wine_url": "/wineries/1590",
-        "phone": null,
+        "phone": "(540) 668-7008",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "Region: Northern Virginia",
+        "description": "868 Estate Vineyards is Northern Virginia’s unique destination vineyard, blending a spectacular location with outstanding wines and elegant dining.We invite you to join us in the tasting room to sample our award-winning wines and talk with our winemaker and staff about our philosophy of making good wine and pairing it with good food. Enjoy a gourmet meal at our onsite restaurant, Grandale Vintner's Table, or eat out in the pavilion at The Grill at 868.In our Tasting Room , we feature The Elevated Tasting, five sweet and savory bites from our gourmet restaurant, as well as made to order pizzas and lunch specials on weekends, to enhance your wine tasting experience!",
         "wines": []
     },
     {
         "name": "8 Chains North Winery",
         "winery_url": "http://www.8chainsnorth.com/",
         "va_wine_url": "/wineries/944",
-        "phone": null,
+        "phone": "571-439-2255",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "Region: Northern Virginia",
+        "description": "8 Chains North Winery, located in Waterford, Va., showcases handcrafted wines. Our philosophy is that great wines are made in the vineyard, and this careful attention to viticulture is evident in Old-World-yle wines that are complex and well-balanced.",
         "wines": []
     },
     {
         "name": "Abingdon Vineyard Winery",
         "winery_url": "http://www.abingdonwinery.com",
         "va_wine_url": "/wineries/11",
-        "phone": null,
+        "phone": "276-623-1255",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Blue Ridge",
+        "description": "Our vineyard and winery are part of 50 acres along the S. Holston River. We have 14 acres of vines with 8,500 plants. Enjoy beautiful grounds along the rustic  river  atmoshpere and friendly surroundings.Please Note that the googlemap marker is incorrect and we seem not to be able to change it after numerous tries. Take exit 19 from I-81 onto US58 east towards Damascus.  Go 5 miles to route 722 [Osceola Rd] and turn right. Proceed 2.4 miles along the yellow stripped road, turn right into our driveway just after a clockwise, hairpin turn.Also, goto www.vinoshipper.com to ship to more states than listed here.",
+        "wines": [
+            {
+                "name": "Chardonnay",
+                "va_wine_url": "/wines/913"
+            },
+            {
+                "name": "Riesling",
+                "va_wine_url": "/wines/911"
+            },
+            {
+                "name": "Traminette",
+                "va_wine_url": "/wines/910"
+            },
+            {
+                "name": "Viognier",
+                "va_wine_url": "/wines/218"
+            },
+            {
+                "name": "Other White Blends",
+                "va_wine_url": "/wines/84"
+            },
+            {
+                "name": "Chardonel",
+                "va_wine_url": "/wines/6532"
+            },
+            {
+                "name": "White Pinot Noir",
+                "va_wine_url": "/wines/6542"
+            },
+            {
+                "name": "Various Roses",
+                "va_wine_url": "/wines/83"
+            },
+            {
+                "name": "Cabernet Franc",
+                "va_wine_url": "/wines/1114"
+            },
+            {
+                "name": "Cabernet Sauvignon",
+                "va_wine_url": "/wines/917"
+            },
+            {
+                "name": "Chambourcin",
+                "va_wine_url": "/wines/914"
+            },
+            {
+                "name": "Norton",
+                "va_wine_url": "/wines/912"
+            },
+            {
+                "name": "Our Special Red",
+                "va_wine_url": "/wines/82"
+            },
+            {
+                "name": "Royal Blend",
+                "va_wine_url": "/wines/6522"
+            },
+            {
+                "name": "Other",
+                "va_wine_url": "/wines/80"
+            }
+        ]
     },
     {
         "name": "Above Ground Winery",
         "winery_url": "http://www.agwinery.com",
         "va_wine_url": "/wineries/1442",
-        "phone": null,
+        "phone": "",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "",
+        "description": "",
         "wines": []
     },
     {
         "name": "Afton Mountain Vineyards",
         "winery_url": "http://www.aftonmountainvineyards.com",
         "va_wine_url": "/wineries/22",
-        "phone": null,
+        "phone": "540-456-8667",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Afton Mountain Vineyards is one of Virginia's first farm wineries with our oldest vines dating from the late 1970's.  Our focus is on making wines of exceptional quality from our own estate-grown grapes. Our Tasting House is surrounded by vineyards, 360 degree mountain views and sits beside a 13 acre lake.  We grow 11 varieties on 25 acres. \"Grapes don't grow in ugly places\"® Come see for yourself!",
+        "wines": [
+            {
+                "name": "2016 Albariño",
+                "va_wine_url": "/wines/10343"
+            },
+            {
+                "name": "Estate Reserve Chardonnay",
+                "va_wine_url": "/wines/1518"
+            },
+            {
+                "name": "Gewurztraminer",
+                "va_wine_url": "/wines/1514"
+            },
+            {
+                "name": "2015 Rosé",
+                "va_wine_url": "/wines/178"
+            },
+            {
+                "name": "Cabernet Franc",
+                "va_wine_url": "/wines/1513"
+            },
+            {
+                "name": "Cabernet Sauvignon",
+                "va_wine_url": "/wines/1516"
+            },
+            {
+                "name": "2016 Merlot",
+                "va_wine_url": "/wines/2998"
+            },
+            {
+                "name": "Petit Verdot",
+                "va_wine_url": "/wines/2189"
+            },
+            {
+                "name": "Bacco",
+                "va_wine_url": "/wines/1726"
+            },
+            {
+                "name": "2012 Bollicine",
+                "va_wine_url": "/wines/176"
+            },
+            {
+                "name": "VDN",
+                "va_wine_url": "/wines/3452"
+            }
+        ]
     },
     {
         "name": "Albemarle CiderWorks",
         "winery_url": "http://www.albemarleciderworks.com",
         "va_wine_url": "/wineries/172",
-        "phone": null,
+        "phone": "434-297-2326",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Albemarle CiderWorks tasting room offers a rotating menu of samples of our premium craft ciders.  Our hours of operation are 11 AM to 5 PM, Wednesday through Sunday, with live music every weekend afternoon.  July through December 2016 we will be open Monday through Sunday, 11-5.  Our orchard fruit is available next door to the tasting room in season, and our catalog of nursery trees for sale is available November through March on our website.",
+        "wines": [
+            {
+                "name": "Jupiter's Legacy",
+                "va_wine_url": "/wines/1357"
+            },
+            {
+                "name": "Royal Pippin",
+                "va_wine_url": "/wines/1358"
+            },
+            {
+                "name": "Ragged Mountain",
+                "va_wine_url": "/wines/1488"
+            },
+            {
+                "name": "Old Virginia Winesap",
+                "va_wine_url": "/wines/1770"
+            },
+            {
+                "name": "Arkansas Black",
+                "va_wine_url": "/wines/4412"
+            },
+            {
+                "name": "Pomme Mary",
+                "va_wine_url": "/wines/4422"
+            },
+            {
+                "name": "GoldRush",
+                "va_wine_url": "/wines/4432"
+            },
+            {
+                "name": "2014 Black Twig",
+                "va_wine_url": "/wines/7202"
+            },
+            {
+                "name": "2014 Brut d' Albemarle",
+                "va_wine_url": "/wines/7212"
+            }
+        ]
     },
     {
         "name": "Altillo Vineyards",
         "winery_url": "http://www.altillovineyards.com",
         "va_wine_url": "/wineries/1132",
-        "phone": null,
+        "phone": "434-324-4160 \t",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Southern Virginia",
+        "description": "Formerly Altavista Vineyards, we are a small family-run vineyard and winery, an easy 30 minute drive South from Lynchburg VA, 6.5 miles off of US HWY 29. We specialize in limited production of finely crafted wines. Our vineyard currently produces shiraz, chardonnay, viognier, merlot, cabernet franc, and cabernet sauvignon.  We supplement our own production by purchases of a small amount of high quality grapes from other Virginia growers.Our small scale enables us to provide the care and attention to detail required to produce exceptional wines.  We appreciate the opportunity to share these wines with other lovers of fine wine. With each visit you can relax and feel at home.",
+        "wines": [
+            {
+                "name": "2009 Chardonnay",
+                "va_wine_url": "/wines/2009"
+            },
+            {
+                "name": "2009 Viognier",
+                "va_wine_url": "/wines/2010"
+            },
+            {
+                "name": "2009 Vista Blanca",
+                "va_wine_url": "/wines/2011"
+            },
+            {
+                "name": "Vista Rosa",
+                "va_wine_url": "/wines/2888"
+            },
+            {
+                "name": "2009 Cabernet Franc",
+                "va_wine_url": "/wines/2008"
+            },
+            {
+                "name": "2009 Meritage",
+                "va_wine_url": "/wines/2007"
+            }
+        ]
     },
     {
         "name": "American Way Country Wines",
         "winery_url": "http://AMERICANWAYCOUNTRYWINES.COM",
         "va_wine_url": "/wineries/1731",
-        "phone": null,
+        "phone": "434-262-1250",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Southern Virginia",
+        "description": "WE MAKE FRUIT WINES FROM OUR OWN FARM, INCLUDING BUT NOT LIMITED TO, APPLE, BLACKBERRY, CHERRY, ELDERBERRY, PEAR, PEACH, STRAWBERRY, PLUM, AND PUMPKIN, SOON TO BE ADDED ARE TOMATO, CANTALOUPE. AND RASPBERRY",
+        "wines": [
+            {
+                "name": "2014 PERLIOUS PEAR",
+                "va_wine_url": "/wines/3039"
+            },
+            {
+                "name": "2014 PEACH FUZZ SUPRISE",
+                "va_wine_url": "/wines/3040"
+            },
+            {
+                "name": "2014 BLACKBERRY KNIGHTS",
+                "va_wine_url": "/wines/3041"
+            },
+            {
+                "name": "2014 ELDERBERRY WINE",
+                "va_wine_url": "/wines/3042"
+            },
+            {
+                "name": "2014 SWEET SUMMER PLUM",
+                "va_wine_url": "/wines/3043"
+            },
+            {
+                "name": "2014 STRAWBERRY DREAMS",
+                "va_wine_url": "/wines/3044"
+            },
+            {
+                "name": "2014 APPLE WINE",
+                "va_wine_url": "/wines/3045"
+            },
+            {
+                "name": "2014 PUMPKIN WINE",
+                "va_wine_url": "/wines/3046"
+            },
+            {
+                "name": "2014 CHERRY WINE",
+                "va_wine_url": "/wines/3047"
+            },
+            {
+                "name": "WONDERFUL WATERMELON",
+                "va_wine_url": "/wines/6172"
+            },
+            {
+                "name": "BLUEBERRY",
+                "va_wine_url": "/wines/6182"
+            },
+            {
+                "name": "RASPBERRY",
+                "va_wine_url": "/wines/6192"
+            },
+            {
+                "name": "TOMATO ,RAISIN",
+                "va_wine_url": "/wines/6202"
+            },
+            {
+                "name": "CANTALOUPE",
+                "va_wine_url": "/wines/6212"
+            }
+        ]
     },
     {
         "name": "AmRhein's Wine Cellars",
         "winery_url": "http://www.AmRheins.com",
         "va_wine_url": "/wineries/86",
-        "phone": null,
+        "phone": "540-929-4632",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "Region: Virginia Mountains",
+        "description": "AmRhein is a German name meaning “on the Rhein” (Rhine) River. AmRhein’s Wine Cellars is a Virginia family owned and operated, estate-grown winery, specializing in wines with a German influence. Our vineyards were first planted in 1995 and our first crush occurred in 1999. We now have three vineyards (Bent Mountain, Franklin County and Botetourt) boasting 40 acres and yielding 20 varieties of grapes. Our wines have won numerous awards, and are considered to be some of the finest on the East Coast. With over 15 wines in classic styles of both reds and whites and in our own exclusive blends, AmRhein’s tempts every palate!",
         "wines": []
     },
     {
         "name": "Ankida Ridge Vineyards",
         "winery_url": "http://www.ankidaridge.com",
         "va_wine_url": "/wineries/1150",
-        "phone": null,
+        "phone": "434-922-7678",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Virginia’s “Little Burgundy”... Ankida Ridge - The Vrooman Family Farm & Vineyard is a family-run, micro-boutique vineyard, farm and winery located in Amherst County at 1800 feet on the eastern slope of the Blue Ridge Mountains. We grow exclusively Pinot Noir and Chardonnay.  With our first vintage in 2010, we received international acclaim for our elegant, Burgundian style wines.  On our low-vigor, granite soils, we practice sustainable, environmentally sensitive viticulture that offers our wines a true sense of place.A second label of wines, \"Rockgarden,\" is produced on site by our winemaker, Nathan Vrooman, from grapes purchased from area vineyards.  These hand-crafted wines are also receiving high praise.Strictly limited in production, our wines are highly sought after and can be enjoyed at select area restaurants (see website) or purchased at the winery, online or at Early Mountain Vineyards, Madison, VA, where we are a partner in the \"Best of Virginia\" program.",
+        "wines": [
+            {
+                "name": "2014 Chardonnay",
+                "va_wine_url": "/wines/2235"
+            },
+            {
+                "name": "2012 Rockgarden Rouge",
+                "va_wine_url": "/wines/8162"
+            },
+            {
+                "name": "2014 Pinot Noir",
+                "va_wine_url": "/wines/2236"
+            },
+            {
+                "name": "\"Vin Doux\" a Port style wine",
+                "va_wine_url": "/wines/8182"
+            },
+            {
+                "name": "2015 \"Vert\" a Vinho Verde style white",
+                "va_wine_url": "/wines/8172"
+            }
+        ]
     },
     {
         "name": "Arterra Wines",
         "winery_url": "http://www.arterrawines.com",
         "va_wine_url": "/wineries/1730",
-        "phone": null,
+        "phone": "540-422-3443",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "Region: Northern Virginia",
+        "description": "Born from over a decade of experience producing some of the highest quality wines in Virginia, the Arterra Wines tasting room opened in February 2015, showcasing the wines made by Jason Murray as well as the Gallery and Studio of Hawkmoth Arts featuring beautiful one-of-a-kind fine arts by Sandy Gray-Murray.",
         "wines": []
     },
     {
         "name": "Ashton Creek Vineyard",
         "winery_url": "http://www.ashtoncreekvineyard.com",
         "va_wine_url": "/wineries/1932",
-        "phone": null,
+        "phone": "804-896-1586",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "Region: Central Virginia",
+        "description": "Ashton Creek Vineyard is a working Vineyard, Winery and Event Center.  We are open 5 days a week to the Tasting Public, serving fine Virginia wines, ciders and select foods.  Specializing in corporate and private events and featuring a relaxed and enjoyable atmosphere.",
         "wines": []
     },
     {
         "name": "Aspen Dale Winery at The Barn",
         "winery_url": "http://www.aspendalewinery.com",
         "va_wine_url": "/wineries/212",
-        "phone": null,
+        "phone": "(540)364-1722",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Northern Virginia",
+        "description": "Our philosophy: We strive to produce and serve excellent wine, presented in a fun and unique way. We hope to encourage you to explore the wonders of wine and food. And we aim to insure that each time you visit, you feel at home and relaxed.Aspen Dale Winery at the Barn was founded in 2009, when visitors were first welcomed to the elegant yet relaxed atmosphere of our converted 200 year-old barn. Due to the growth in number of visitors, we now serve both in the barn, and have expanded our experience to include celebrations and group tastings in our 18th century Manor House.The winery sits on an historic 50 acre property in the heart of Virginia horse country.  Corn cribs, a silo, and a smoke house are but just a few of the hallmarks that speak of the agricultural  facets in Aspen Dale's past.Come enjoy a day at Aspen Dale in Fauquier County.  Stroll through grounds where you and your family might meet up with one of our Miniatures.  Climb the hill up to the vineyard with glass in hand, or just enjoy it from your gazebo seat near the winery.  Nothing beats a day with family, friends and fantastic wine in the country!For Parties of 8 or More: reservations@aspendalewinery.com",
+        "wines": [
+            {
+                "name": "2016 Islington",
+                "va_wine_url": "/wines/2941"
+            },
+            {
+                "name": "2016 Sarah's Chapeau",
+                "va_wine_url": "/wines/1609"
+            },
+            {
+                "name": "2015 Mary-Madeleine's",
+                "va_wine_url": "/wines/1610"
+            },
+            {
+                "name": "2015 Rockawalkin'",
+                "va_wine_url": "/wines/1606"
+            },
+            {
+                "name": "2015 Parris Country Blend",
+                "va_wine_url": "/wines/1607"
+            },
+            {
+                "name": "2015 Bridgetown Red",
+                "va_wine_url": "/wines/2942"
+            },
+            {
+                "name": "2015 Maria Sangria",
+                "va_wine_url": "/wines/2943"
+            }
+        ]
     },
     {
         "name": "Athena Vineyards & Winery",
         "winery_url": "http://www.athenavineyards.com",
         "va_wine_url": "/wineries/107",
-        "phone": null,
+        "phone": "",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "",
+        "description": "",
         "wines": []
     },
     {
         "name": "Autumn Hill Vineyards Blueridge Winery",
         "winery_url": "http://www.autumnhillwine.com",
         "va_wine_url": "/wineries/108",
-        "phone": null,
+        "phone": "(434) 985-6100",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Established in 1979 in the foothills of the Blue Ridge Mountains, Autumn Hill Vineyards has some of the oldest Chardonnay and Cabernet Sauvignon vines in Virginia. Our 13 arces of only Vinifera grapes: Chardonnay, Viognier, Cabernet Sauvignon, Merlot, Cabernet Franc, Malbec, Petit Verdot and Nebbiolo yield wines of special character and finese.We take pride in producing wine in a European tradition, but with a Virginia accent. Our estate bottled wines are available in limited quantities. Our red wines are fermented and hand punched down for maximum extraction and color,in addition they are bottled unfined and unfiltered. NO SWEET WINES HERE! We are open limited times during the year. Check our web site for dates, times and awards. Phone and internet sales year round. Join the Vintage Wine Club and enjoy our wines. One of Virginia's largest vinifera red wine selections.",
+        "wines": [
+            {
+                "name": "Chardonnay",
+                "va_wine_url": "/wines/741"
+            },
+            {
+                "name": "Viognier",
+                "va_wine_url": "/wines/735"
+            },
+            {
+                "name": "Cabernet Franc",
+                "va_wine_url": "/wines/743"
+            },
+            {
+                "name": "Cabernet Sauvignon",
+                "va_wine_url": "/wines/742"
+            },
+            {
+                "name": "Malbec",
+                "va_wine_url": "/wines/740"
+            },
+            {
+                "name": "Meritage Blends",
+                "va_wine_url": "/wines/739"
+            },
+            {
+                "name": "Merlot",
+                "va_wine_url": "/wines/738"
+            },
+            {
+                "name": "Nebbiolo",
+                "va_wine_url": "/wines/737"
+            },
+            {
+                "name": "Petit Verdot",
+                "va_wine_url": "/wines/736"
+            }
+        ]
     },
     {
         "name": "Barboursville Vineyards",
         "winery_url": "http://bbvwine.com",
         "va_wine_url": "/wineries/34",
-        "phone": null,
+        "phone": "(540) 832-3824",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "A magnificent and historic Virginia estate between Monticello and Montpelier, home to Virginia's most honored winery, founded in 1976 by a family prominent in Italian viticulture since 1821. Producer of Octagon, the most renowned red wine of Virginia.",
+        "wines": [
+            {
+                "name": "Chardonnay",
+                "va_wine_url": "/wines/1122"
+            },
+            {
+                "name": "Chardonnay Reserve",
+                "va_wine_url": "/wines/5642"
+            },
+            {
+                "name": "Pinot Grigio",
+                "va_wine_url": "/wines/240"
+            },
+            {
+                "name": "Sauvignon Blanc Reserve",
+                "va_wine_url": "/wines/243"
+            },
+            {
+                "name": "Viognier Reserve",
+                "va_wine_url": "/wines/244"
+            },
+            {
+                "name": "Vintage Rosé",
+                "va_wine_url": "/wines/1444"
+            },
+            {
+                "name": "Barbera Reserve",
+                "va_wine_url": "/wines/1123"
+            },
+            {
+                "name": "Cabernet Franc Reserve",
+                "va_wine_url": "/wines/1124"
+            },
+            {
+                "name": "Cabernet Sauvignon",
+                "va_wine_url": "/wines/1121"
+            },
+            {
+                "name": "Cabernet Sauvignon Reserve",
+                "va_wine_url": "/wines/5672"
+            },
+            {
+                "name": "Octagon",
+                "va_wine_url": "/wines/1120"
+            },
+            {
+                "name": "Merlot",
+                "va_wine_url": "/wines/1119"
+            },
+            {
+                "name": "Merlot Reserve",
+                "va_wine_url": "/wines/5682"
+            },
+            {
+                "name": "Nebbiolo Reserve",
+                "va_wine_url": "/wines/1118"
+            },
+            {
+                "name": "Petit Verdot Reserve",
+                "va_wine_url": "/wines/5692"
+            },
+            {
+                "name": "Sangiovese Reserve",
+                "va_wine_url": "/wines/242"
+            },
+            {
+                "name": "Barboursville Brut Cuvée 1814",
+                "va_wine_url": "/wines/246"
+            },
+            {
+                "name": "Barboursville Brut Rosé Cuvée 1814",
+                "va_wine_url": "/wines/5702"
+            },
+            {
+                "name": "Phileo",
+                "va_wine_url": "/wines/5712"
+            },
+            {
+                "name": "Paxxito",
+                "va_wine_url": "/wines/5722"
+            }
+        ]
     },
     {
         "name": "Barrel Oak Winery",
         "winery_url": "http://www.barreloak.com",
         "va_wine_url": "/wineries/102",
-        "phone": null,
+        "phone": "540-364-6402",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Northern Virginia",
+        "description": "Relax and discover our destination winery just off I-66, one hour west of DC and a world away. Enjoy award-winning wine, sweeping historic vistas, live music, and glorious sunsets from our extensive patio and picnic grounds. Take a tour of our wine cellar or a horseback ride through our vineyards. Our family and dog-friendly winery is the perfect place to spend the day!",
+        "wines": [
+            {
+                "name": "2014 Barrel Chardonnay",
+                "va_wine_url": "/wines/2165"
+            },
+            {
+                "name": "2014 Estate Chardonnay",
+                "va_wine_url": "/wines/2355"
+            },
+            {
+                "name": "2013 Petit Manseng",
+                "va_wine_url": "/wines/2667"
+            },
+            {
+                "name": "2013 Goldie",
+                "va_wine_url": "/wines/4762"
+            },
+            {
+                "name": "2014 Bowhaus White",
+                "va_wine_url": "/wines/696"
+            },
+            {
+                "name": "2012 Reserve Cabernet Franc",
+                "va_wine_url": "/wines/2167"
+            },
+            {
+                "name": "2013 Cabernet Sauvignon",
+                "va_wine_url": "/wines/2178"
+            },
+            {
+                "name": "Chocolate Lab",
+                "va_wine_url": "/wines/1737"
+            },
+            {
+                "name": "2013 Meritage",
+                "va_wine_url": "/wines/6952"
+            },
+            {
+                "name": "2013 Merlot",
+                "va_wine_url": "/wines/2026"
+            },
+            {
+                "name": "2013 Norton",
+                "va_wine_url": "/wines/2668"
+            },
+            {
+                "name": "2012 Petit Verdot",
+                "va_wine_url": "/wines/2300"
+            },
+            {
+                "name": "2013 Bowhaus Red",
+                "va_wine_url": "/wines/1774"
+            },
+            {
+                "name": "2014 Rosé",
+                "va_wine_url": "/wines/4692"
+            },
+            {
+                "name": "2013 Syrah",
+                "va_wine_url": "/wines/6962"
+            },
+            {
+                "name": "2014 Peanut's Petit Cuvee",
+                "va_wine_url": "/wines/4682"
+            }
+        ]
     },
     {
         "name": "Barren Ridge Vineyards",
         "winery_url": "http://www.barrenridgevineyards.com",
         "va_wine_url": "/wineries/32",
-        "phone": null,
+        "phone": "540-248-3300",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Shenandoah Valley",
+        "description": "Located on the Higgs family’s former apple orchard, Barren Ridge Vineyards is now home to Augusta County’s premier winery. John and Shelby Higgs cleared the overgrown land and planted it with grapevines that now produce fourteen award-winning wines. They also converted their 1890′s apple barn into a state-of-the-art winery, preserving the original structure and wood beams. The Tasting Room features carefully handcrafted wines that are available daily for tastings. The winery is open seven days a week for complimentary tours, and the patio is always ready for picnics and sunset-viewing.",
+        "wines": [
+            {
+                "name": "2016 CHARDONNAY",
+                "va_wine_url": "/wines/10373"
+            },
+            {
+                "name": "2016 TRAMINETTE",
+                "va_wine_url": "/wines/231"
+            },
+            {
+                "name": "2016 VIDAL BLANC",
+                "va_wine_url": "/wines/230"
+            },
+            {
+                "name": "2016 VIOGNIER",
+                "va_wine_url": "/wines/229"
+            },
+            {
+                "name": "2015 TINKLING SPRING",
+                "va_wine_url": "/wines/2019"
+            },
+            {
+                "name": "2016 HARMONY",
+                "va_wine_url": "/wines/2021"
+            },
+            {
+                "name": "2016 ROSE",
+                "va_wine_url": "/wines/228"
+            },
+            {
+                "name": "2016 CABERNET FRANC",
+                "va_wine_url": "/wines/235"
+            },
+            {
+                "name": "2010 MERITAGE",
+                "va_wine_url": "/wines/1732"
+            },
+            {
+                "name": "2015 MERLOT",
+                "va_wine_url": "/wines/234"
+            },
+            {
+                "name": "2015 PETIT VERDOT",
+                "va_wine_url": "/wines/233"
+            },
+            {
+                "name": "2015 RED BARREN",
+                "va_wine_url": "/wines/2018"
+            },
+            {
+                "name": "2016 TOURIGA",
+                "va_wine_url": "/wines/10374"
+            },
+            {
+                "name": "2015 CHRISTOF",
+                "va_wine_url": "/wines/1733"
+            }
+        ]
     },
     {
         "name": "Beliveau Estate Winery",
         "winery_url": "http://www.BeliveauEstate.com",
         "va_wine_url": "/wineries/1477",
-        "phone": null,
+        "phone": "540-961-0505",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Blue Ridge",
+        "description": "Beliveau Estate Winery is situated on 165 spectacular acres with on-site hiking, shaded picnic areas, award winning wines, and ward winning bed and breakfast. Lite food fare is available for purchase.Beliveau Estate has been named a top Southwest Virginia wedding venue by Virginia Living Magazine. Beliveau Estate also hosts corporate retreats and family reunions.",
+        "wines": [
+            {
+                "name": "2014 Pristine",
+                "va_wine_url": "/wines/9222"
+            },
+            {
+                "name": "2013 Mystique",
+                "va_wine_url": "/wines/9212"
+            },
+            {
+                "name": "2015 Captivate",
+                "va_wine_url": "/wines/9192"
+            },
+            {
+                "name": "2015 Reflection",
+                "va_wine_url": "/wines/9242"
+            },
+            {
+                "name": "2015 Destiny",
+                "va_wine_url": "/wines/9202"
+            },
+            {
+                "name": "2015 Lovers Quest",
+                "va_wine_url": "/wines/9232"
+            },
+            {
+                "name": "2013 Crown Jewel",
+                "va_wine_url": "/wines/9252"
+            },
+            {
+                "name": "2014 Discovery",
+                "va_wine_url": "/wines/9272"
+            },
+            {
+                "name": "2014 Fireside Chat",
+                "va_wine_url": "/wines/10339"
+            },
+            {
+                "name": "2015 Warm Glow",
+                "va_wine_url": "/wines/9352"
+            },
+            {
+                "name": "2013 Serenity",
+                "va_wine_url": "/wines/9372"
+            },
+            {
+                "name": "2015 Soul Singer",
+                "va_wine_url": "/wines/9322"
+            },
+            {
+                "name": "2015 Sweet Surrender",
+                "va_wine_url": "/wines/9362"
+            },
+            {
+                "name": "2015 Trailblazer",
+                "va_wine_url": "/wines/9312"
+            },
+            {
+                "name": "2013 Portal",
+                "va_wine_url": "/wines/9332"
+            },
+            {
+                "name": "2013 Sunset Sipper",
+                "va_wine_url": "/wines/9342"
+            }
+        ]
     },
     {
         "name": "Big Fish Cider Co.",
         "winery_url": "https://www.bigfishcider.com",
         "va_wine_url": "/wineries/2342",
-        "phone": null,
+        "phone": "5404682322",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Virginia Mountains",
+        "description": "Big Fish Cider Co is a microcidery in Monterey, Virginia making ciders using locally grown apples and traditional techniques to create completely new flavors. Our cider is available in a range of off-dry to semi-sweet blends and seasonal offerings.  Big Fish has won best in show, gold, silver and bronze awards at the Great Lakes Cider and Perry Competition.",
+        "wines": [
+            {
+                "name": "2016 Allegheny Gold",
+                "va_wine_url": "/wines/10152"
+            },
+            {
+                "name": "2015 Crabbottom Pippin",
+                "va_wine_url": "/wines/10162"
+            },
+            {
+                "name": "2016 Elevation",
+                "va_wine_url": "/wines/10172"
+            },
+            {
+                "name": "2016 Monterey Maple",
+                "va_wine_url": "/wines/10182"
+            },
+            {
+                "name": "2016 Shady Lane Shandy",
+                "va_wine_url": "/wines/10192"
+            },
+            {
+                "name": "2016 Church Hill Blush",
+                "va_wine_url": "/wines/10202"
+            },
+            {
+                "name": "2016 Mellifera",
+                "va_wine_url": "/wines/10212"
+            }
+        ]
     },
     {
         "name": "Blacksnake Meadery",
         "winery_url": "http://www.blacksnakemead.com",
         "va_wine_url": "/wineries/65",
-        "phone": null,
+        "phone": "540-834-6172",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Blue Ridge",
+        "description": "Blacksnake Meadery is a farm winery specializing in honey wines, or meads.  Virginia Wildflower honey is used to produce the mead.  Wildflower and Summer Lea meads are produced entirely from our own honey.  Featured wines range from a sweet dessert mead to dry meads which highlight the floral character of the honey, rather than its sweetness.",
+        "wines": [
+            {
+                "name": "Lime Bee Brew",
+                "va_wine_url": "/wines/438"
+            },
+            {
+                "name": "Hoppy Bee Brew",
+                "va_wine_url": "/wines/439"
+            },
+            {
+                "name": "Sweet Virginia",
+                "va_wine_url": "/wines/441"
+            },
+            {
+                "name": "Meloluna",
+                "va_wine_url": "/wines/931"
+            },
+            {
+                "name": "Wildflower",
+                "va_wine_url": "/wines/1441"
+            },
+            {
+                "name": "Summer Lea",
+                "va_wine_url": "/wines/3152"
+            },
+            {
+                "name": "Ginny Raz",
+                "va_wine_url": "/wines/3162"
+            }
+        ]
     },
     {
         "name": "Blenheim Vineyards",
         "winery_url": "http://www.blenheimvineyards.com",
         "va_wine_url": "/wineries/89",
-        "phone": null,
+        "phone": "434-293-5366",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Blenheim Vineyards is a winery dedicated to making high quality wines that reflect the climate, soil and beauty of the landscape. Founded in 2000 on the historic Blenheim estate in Albemarle County, the goal at Blenheim Vineyards is to bottle wine from single vineyards and small parcels to capture the distinct characteristics of each site.Designed by owner Dave Matthews and master craftsman William Johnson, the winery at Blenheim Vineyards provides a unique and intimate setting for tasting wine. Its great windows allow visitors to gaze out over vineyards to Jefferson's \"sea view\" beyond.  Paneled glass floors provide a bird's-eye view of the wine production facilities below.",
+        "wines": [
+            {
+                "name": "2013 Chardonnay",
+                "va_wine_url": "/wines/604"
+            },
+            {
+                "name": "2013 Blenheim Farm Chardonnay",
+                "va_wine_url": "/wines/3712"
+            },
+            {
+                "name": "2013 Viognier",
+                "va_wine_url": "/wines/600"
+            },
+            {
+                "name": "2013 Painted White",
+                "va_wine_url": "/wines/2838"
+            },
+            {
+                "name": "2013 Roussanne",
+                "va_wine_url": "/wines/3662"
+            },
+            {
+                "name": "2014 White Table Wine",
+                "va_wine_url": "/wines/3672"
+            },
+            {
+                "name": "2014 Rosé",
+                "va_wine_url": "/wines/3692"
+            },
+            {
+                "name": "2013 Cabernet Franc",
+                "va_wine_url": "/wines/605"
+            },
+            {
+                "name": "2013 Cabernet Sauvignon",
+                "va_wine_url": "/wines/2840"
+            },
+            {
+                "name": "2013 Merlot",
+                "va_wine_url": "/wines/602"
+            },
+            {
+                "name": "2013 Petit Verdot",
+                "va_wine_url": "/wines/601"
+            },
+            {
+                "name": "2013 Painted Red",
+                "va_wine_url": "/wines/2839"
+            },
+            {
+                "name": "2014 Red Table Wine",
+                "va_wine_url": "/wines/3682"
+            },
+            {
+                "name": "2013 Grenache",
+                "va_wine_url": "/wines/3702"
+            }
+        ]
     },
     {
         "name": "Blue Bee Cider",
         "winery_url": "http://www.bluebeecider.com",
         "va_wine_url": "/wineries/1611",
-        "phone": null,
+        "phone": "804-231-0280",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Located in the historic Scott's Addition district in Richmond, Blue Bee Cider is Virginia's first urban cidery.Blue Bee Cider produces seasonal, artisanal ciders, pressing apples when they are ripe in the fall, fermenting them over the winter and bottling them for sale in the spring.The name for Blue Bee Cider is derived from a common name for one of Virginia's native bees, osmia lignaria, or the blue orchard bee. These hardworking bees are solitary and wild, emerging early in the cool spring just in time to pollinate cider apple blossoms.",
+        "wines": [
+            {
+                "name": "2012 Aragon 1904",
+                "va_wine_url": "/wines/2712"
+            },
+            {
+                "name": "2012 Charred Ordinary",
+                "va_wine_url": "/wines/2713"
+            },
+            {
+                "name": "Hopsap Shandy",
+                "va_wine_url": "/wines/7062"
+            },
+            {
+                "name": "Fanfare",
+                "va_wine_url": "/wines/7072"
+            },
+            {
+                "name": "Mill Race Bramble",
+                "va_wine_url": "/wines/7082"
+            },
+            {
+                "name": "Firecracker",
+                "va_wine_url": "/wines/7092"
+            },
+            {
+                "name": "Harvest Ration",
+                "va_wine_url": "/wines/7102"
+            }
+        ]
     },
     {
         "name": "Bluemont Vineyard",
         "winery_url": "http://BluemontVineyard.com",
         "va_wine_url": "/wineries/67",
-        "phone": null,
+        "phone": "540 554 8439",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Shenandoah Valley",
+        "description": "Bluemont Vineyard was conceived in a love affair between agriculture and wine. Established in 2007, This small country winery is a natural extension of Great Country Farms (CSA) across the street. As a small-run winery, an average of 5000 carefully crafted cases of wine are produced each year. Discover a broad spectrum of wines with an emphasis on quality of product as well as skill, enthusiasm and artistry of the team of people creating each unique vintage.The Stable at Bluemont Vineyard is also available for private meetings, events and weddings.",
+        "wines": [
+            {
+                "name": "2014 Petit Manseng",
+                "va_wine_url": "/wines/2676"
+            },
+            {
+                "name": "2014 951 Estate Petit Manseng, \"The Chicken\"",
+                "va_wine_url": "/wines/5312"
+            },
+            {
+                "name": "2014 2014 Vidal Blanc, \"The Cow\"",
+                "va_wine_url": "/wines/451"
+            },
+            {
+                "name": "2014 2014 Viognier,  \"The Goat\"",
+                "va_wine_url": "/wines/5302"
+            },
+            {
+                "name": "2014 Farm Table White",
+                "va_wine_url": "/wines/2677"
+            },
+            {
+                "name": "2014 The Donkey",
+                "va_wine_url": "/wines/5292"
+            },
+            {
+                "name": "2010 Cabernet Franc, \"The Horse\"",
+                "va_wine_url": "/wines/2661"
+            },
+            {
+                "name": "2012 Meritage 2012 (S-VGC)",
+                "va_wine_url": "/wines/5352"
+            },
+            {
+                "name": "2013 2013 Merlot, \"The Ram\"",
+                "va_wine_url": "/wines/453"
+            },
+            {
+                "name": "2012 951 Estate Merlot,  \"The Ram\"",
+                "va_wine_url": "/wines/2660"
+            },
+            {
+                "name": "2010 Merlot \"The Ram\" Reserve",
+                "va_wine_url": "/wines/5362"
+            },
+            {
+                "name": "2013 Norton, \"The Pig\"",
+                "va_wine_url": "/wines/5342"
+            },
+            {
+                "name": "Norton \"The Pig\" non-vintage 2011-2012",
+                "va_wine_url": "/wines/5372"
+            },
+            {
+                "name": "2013 Farm Table Red",
+                "va_wine_url": "/wines/2678"
+            },
+            {
+                "name": "2014 The Peach",
+                "va_wine_url": "/wines/5282"
+            }
+        ]
     },
     {
         "name": "Blue Ridge Vineyard",
         "winery_url": "http://www.blueridgevineyard.com",
         "va_wine_url": "/wineries/105",
-        "phone": null,
+        "phone": "(540) 798-7642",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Shenandoah Valley",
+        "description": "Located at the head of the Shenandoah Valley with magnificent views in the heart of Blue Ridge Mountain country. Pinot Noir, Riesling, Gewurtztraminer, Cabernet Franc, and Traminette wines are crafted from old growth vines. Enjoy a picnic and walk the mountain trails on the 300-acre farm. Plan your wedding, reunion, or corporate event in our spacious barn.",
+        "wines": [
+            {
+                "name": "Gewurztraminer",
+                "va_wine_url": "/wines/936"
+            },
+            {
+                "name": "Riesling",
+                "va_wine_url": "/wines/934"
+            },
+            {
+                "name": "Traminette",
+                "va_wine_url": "/wines/718"
+            },
+            {
+                "name": "Other White Blends",
+                "va_wine_url": "/wines/719"
+            },
+            {
+                "name": "Cabernet Franc",
+                "va_wine_url": "/wines/937"
+            },
+            {
+                "name": "Pinot Noir",
+                "va_wine_url": "/wines/935"
+            },
+            {
+                "name": "Other Red Blends",
+                "va_wine_url": "/wines/720"
+            },
+            {
+                "name": "Other",
+                "va_wine_url": "/wines/721"
+            }
+        ]
     },
     {
         "name": "Bluestone Vineyard",
         "winery_url": "http://www.bluestonevineyard.com",
         "va_wine_url": "/wineries/1156",
-        "phone": null,
+        "phone": "540-828-0099",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Shenandoah Valley",
+        "description": "Located in the western Shenandoah Valley, Bluestone Vineyard offers impressive views of the mountains and surrounding farm land.  Enjoy the view of our hillside vineyard from our tasting room as you taste our wines and experience a little of the Valley's atmosphere and friendliness.Parties of 8 or more must schedule an appointment for tastings with a deposit of their tasting fee.Dogs on a leash are always welcome at Bluestone Vineyard.  Due to a policy set by the Virginia Department of Agriculture and Consumer Service we cannot allow dogs inside the Tasting Room.  We are sorry for any inconveniences this may cause, but would love for your dog to enjoy the patio and other outdoor areas on the property.",
+        "wines": [
+            {
+                "name": "2015 Chardonnay",
+                "va_wine_url": "/wines/4262"
+            },
+            {
+                "name": "2017 Stainless Steel Chardonnay",
+                "va_wine_url": "/wines/10395"
+            },
+            {
+                "name": "2016 Petit Manseng",
+                "va_wine_url": "/wines/8822"
+            },
+            {
+                "name": "2014 Estate Grown Blue Ice",
+                "va_wine_url": "/wines/2157"
+            },
+            {
+                "name": "2016 Estate Grown Vidal Blanc",
+                "va_wine_url": "/wines/4212"
+            },
+            {
+                "name": "2015 Viognier",
+                "va_wine_url": "/wines/4232"
+            },
+            {
+                "name": "Beau",
+                "va_wine_url": "/wines/2006"
+            },
+            {
+                "name": "2017 Rosé",
+                "va_wine_url": "/wines/10396"
+            },
+            {
+                "name": "2014 Cabernet Franc",
+                "va_wine_url": "/wines/4282"
+            },
+            {
+                "name": "2014 Cabernet Sauvignon",
+                "va_wine_url": "/wines/4302"
+            },
+            {
+                "name": "2015 The Steep Face",
+                "va_wine_url": "/wines/4312"
+            },
+            {
+                "name": "2014 Merlot",
+                "va_wine_url": "/wines/4292"
+            },
+            {
+                "name": "2013 Dry Dock",
+                "va_wine_url": "/wines/4352"
+            },
+            {
+                "name": "2014 Petit Verdot",
+                "va_wine_url": "/wines/4322"
+            },
+            {
+                "name": "Crooked and Weedy",
+                "va_wine_url": "/wines/2145"
+            },
+            {
+                "name": "2013 Cadenza",
+                "va_wine_url": "/wines/4272"
+            },
+            {
+                "name": "2013 Houndstooth",
+                "va_wine_url": "/wines/4332"
+            },
+            {
+                "name": "2016 Moscato",
+                "va_wine_url": "/wines/2637"
+            }
+        ]
     },
     {
         "name": "Blue Valley Vineyard and Winery",
         "winery_url": "http://www.BlueValleyVineyardandWinery.com",
         "va_wine_url": "/wineries/1706",
-        "phone": null,
+        "phone": "(540)364-2347",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Northern Virginia",
+        "description": "Blue Valley Winery is owned and operated by the Zissios family whose deep love of wine and old-world sensibilities are blended into every acre and bottle produced.  World-class, award-winning winemaker John Levenberg, and Assistant Winemaker Tyler Henley complete the winemaking team.",
+        "wines": [
+            {
+                "name": "2015 Estate Chardonnay",
+                "va_wine_url": "/wines/8712"
+            },
+            {
+                "name": "2013 Pinot Gris",
+                "va_wine_url": "/wines/8672"
+            },
+            {
+                "name": "2013 Sauvignon Blanc",
+                "va_wine_url": "/wines/8682"
+            },
+            {
+                "name": "2013 Viognier",
+                "va_wine_url": "/wines/8692"
+            },
+            {
+                "name": "2014 Memories",
+                "va_wine_url": "/wines/8702"
+            },
+            {
+                "name": "2013 Heritage",
+                "va_wine_url": "/wines/8722"
+            },
+            {
+                "name": "2014 Heritage",
+                "va_wine_url": "/wines/8732"
+            },
+            {
+                "name": "2015 Virginia Rosé",
+                "va_wine_url": "/wines/8742"
+            },
+            {
+                "name": "2014 Chambourcin Rosé",
+                "va_wine_url": "/wines/8752"
+            },
+            {
+                "name": "2014 Merlot Rosé",
+                "va_wine_url": "/wines/8762"
+            },
+            {
+                "name": "2013 Merlot",
+                "va_wine_url": "/wines/8802"
+            },
+            {
+                "name": "2014 Petit Verdot",
+                "va_wine_url": "/wines/8792"
+            },
+            {
+                "name": "2014 Tradition",
+                "va_wine_url": "/wines/8772"
+            },
+            {
+                "name": "2014 Celebration",
+                "va_wine_url": "/wines/8782"
+            },
+            {
+                "name": "2014 Remembrance",
+                "va_wine_url": "/wines/8812"
+            }
+        ]
     },
     {
         "name": "Bodie Vineyards",
         "winery_url": "http://www.bodievineyards.com",
         "va_wine_url": "/wineries/968",
-        "phone": null,
+        "phone": "(804) 598-2240",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "We are a small Farm Winery located near Flat Rock in Powhatan County, VA.  We are the first licensed farm winery in Powhatan County.We currently offer two varieties of wine for sale.  Our Michaux Blanc is a semi-dry white wine from the Cayuga grape and our Rochette Rouge is a semi-dry red wine from the Buffalo grape.Group tasting and tours are available.  Please call to reserve a Special Event!",
+        "wines": [
+            {
+                "name": "Michaux Blanc",
+                "va_wine_url": "/wines/1829"
+            },
+            {
+                "name": "Rochette Rouge",
+                "va_wine_url": "/wines/1830"
+            }
+        ]
     },
     {
         "name": "Bogati Winery",
         "winery_url": "http://www.bogatibodega.com",
         "va_wine_url": "/wineries/1625",
-        "phone": null,
+        "phone": "540-338-1144",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Northern Virginia",
+        "description": "Bogati Winery is a small winery and wine bar located in the old Hill High Orchard building on Rt 7 in western Loudoun County, near Round Hill, Purcellville and Leesburg. Easily accessible from Northern Virginia, Fairfax County, Arlington, Alexandria and Washington, D.C., the goal of Bogati Winery is to provide a respite and escape from the hustle and bustle, a place to enjoy and explore our hand-made, Virginian wine a world away from traffic and the DC commute.Bogati is owned and operated by the Bogaty family (of Veramar Vineyard acclaim). Two generations of our family pour our hearts and souls into crafting the best wine imaginable from grapes we grow right here in Virginia. When you step into Bogati's doors, you enter a world of winemaking that goes back thousands of years and spans the globe. From Malbec to Seyval Blanc to our signature \"Fat Ass Red\" blend, we want every wine we create to give our guests the best experience that Virginia wine can offer.Our chic, unique tasting room and outdoor terrace are perfect as a place to savor our wines and simply relax and meet friends. We also offer free, high-speed wifi in our tasting room for those who want to bring a laptop and be productive. And since our space is so wonderfully rich in character and class, the venue is perfect for intimate wedding ceremonies, receptions and other private parties when you need an event venue near Leesburg or Purcellville, and an easy drive from Washington, D.C.",
+        "wines": [
+            {
+                "name": "B-Thin",
+                "va_wine_url": "/wines/8202"
+            },
+            {
+                "name": "2015 Pinot Grigio",
+                "va_wine_url": "/wines/8242"
+            },
+            {
+                "name": "2015 Seyval Blanc",
+                "va_wine_url": "/wines/8252"
+            },
+            {
+                "name": "2015 Viognier",
+                "va_wine_url": "/wines/8262"
+            },
+            {
+                "name": "Tango Blu",
+                "va_wine_url": "/wines/8232"
+            },
+            {
+                "name": "2015 Malbec",
+                "va_wine_url": "/wines/8272"
+            },
+            {
+                "name": "Collection I",
+                "va_wine_url": "/wines/8212"
+            },
+            {
+                "name": "Fat Ass",
+                "va_wine_url": "/wines/8222"
+            }
+        ]
     },
     {
         "name": "Bold Rock Cider",
         "winery_url": "http://www.boldrock.com/",
         "va_wine_url": "/wineries/1720",
-        "phone": null,
+        "phone": "",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "Region: Central Virginia",
+        "description": "",
         "wines": []
     },
     {
         "name": "Boxwood Estate Winery",
         "winery_url": "http://www.boxwoodwinery.com",
         "va_wine_url": "/wineries/111",
-        "phone": null,
+        "phone": "(540) 687-8778",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Northern Virginia",
+        "description": "Boxwood Estate Winery is committed to making premium red wines from 100% estate grown grapes in the Bordeaux tradition, but with their own distinct Virginia expression. An area steeped in revolutionary and civil war history legendary for its equestrian activity. Boxwood Farm is owned by John Kent Cooke, a former owner and president of the NFL Washington Redskins. World famous winemaker, Stephane Derenoncourt consults.",
+        "wines": [
+            {
+                "name": "2011  Rose'",
+                "va_wine_url": "/wines/2252"
+            },
+            {
+                "name": "2009 Topiary",
+                "va_wine_url": "/wines/2247"
+            },
+            {
+                "name": "2009 Boxwood",
+                "va_wine_url": "/wines/2248"
+            },
+            {
+                "name": "2009 Trellis",
+                "va_wine_url": "/wines/2251"
+            },
+            {
+                "name": "2010 Topiary 2010",
+                "va_wine_url": "/wines/2254"
+            },
+            {
+                "name": "2010 Trellis",
+                "va_wine_url": "/wines/2458"
+            },
+            {
+                "name": "2010 Boxwood 2010",
+                "va_wine_url": "/wines/2459"
+            }
+        ]
     },
     {
         "name": "Bozzo Vineyards",
         "winery_url": "",
         "va_wine_url": "/wineries/2359",
-        "phone": null,
+        "phone": "",
         "address": null,
-        "region": null,
-        "description": null,
+        "region": "",
+        "description": "",
         "wines": []
     },
     {
         "name": "Breaux Vineyards",
         "winery_url": "http://www.breauxvineyards.com",
         "va_wine_url": "/wineries/35",
-        "phone": null,
+        "phone": "(540) 668-6299",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Northern Virginia",
+        "description": "Voted \"Favorite Winery in Virginia\" the last 4 years in a row,  Breaux Vineyards is a family owned and operated winery in Loudoun County, VA. The 404 acre estate has over 104 acres planted in 18 different grape varieties.  Nestled between the hills, our vineyard plantings extend up the Short Hill Mountain.Long vistas of the Blue Ridge Mountains can be enjoyed from our tasting room, Patio Madeleine and our landscaped terraces.We are located only an hour from metropolitan DC, Dulles and BWI airports and a short distance from historic Harpers Ferry, WV.",
+        "wines": [
+            {
+                "name": "2016 Madeleine's Chardonnay",
+                "va_wine_url": "/wines/261"
+            },
+            {
+                "name": "2016 Chardonnay Reserve",
+                "va_wine_url": "/wines/10384"
+            },
+            {
+                "name": "2016 Sauvignon Blanc",
+                "va_wine_url": "/wines/255"
+            },
+            {
+                "name": "2016 Jolie Blond",
+                "va_wine_url": "/wines/254"
+            },
+            {
+                "name": "2016 Chère Marie",
+                "va_wine_url": "/wines/252"
+            },
+            {
+                "name": "2015 Cellar Club Vidal Blanc",
+                "va_wine_url": "/wines/10387"
+            },
+            {
+                "name": "2016 Orleans",
+                "va_wine_url": "/wines/10390"
+            },
+            {
+                "name": "2016 Vieux Carre (Orange-Style Wine)",
+                "va_wine_url": "/wines/10388"
+            },
+            {
+                "name": "2016 Viognier",
+                "va_wine_url": "/wines/251"
+            },
+            {
+                "name": "2006 Soleil",
+                "va_wine_url": "/wines/2511"
+            },
+            {
+                "name": "2015 Jennifer's Jambalaya",
+                "va_wine_url": "/wines/2512"
+            },
+            {
+                "name": "Appalachian Sunset",
+                "va_wine_url": "/wines/10383"
+            },
+            {
+                "name": "Equation White",
+                "va_wine_url": "/wines/10386"
+            },
+            {
+                "name": "2016 Rose",
+                "va_wine_url": "/wines/9892"
+            },
+            {
+                "name": "2016 Lineage Rose (Special Edition)",
+                "va_wine_url": "/wines/10382"
+            },
+            {
+                "name": "Equation Rose",
+                "va_wine_url": "/wines/10385"
+            },
+            {
+                "name": "2015 Marquis de Lafayette",
+                "va_wine_url": "/wines/2509"
+            },
+            {
+                "name": "2014 Cabernet Sauvignon",
+                "va_wine_url": "/wines/262"
+            },
+            {
+                "name": "2016 Vin Gris (White Malbec)",
+                "va_wine_url": "/wines/10389"
+            },
+            {
+                "name": "Equation Red",
+                "va_wine_url": "/wines/259"
+            },
+            {
+                "name": "2013 Meritage",
+                "va_wine_url": "/wines/2508"
+            },
+            {
+                "name": "2014 Merlot",
+                "va_wine_url": "/wines/258"
+            },
+            {
+                "name": "2012 Nebbiolo",
+                "va_wine_url": "/wines/257"
+            },
+            {
+                "name": "2015 Breauxmance",
+                "va_wine_url": "/wines/10391"
+            }
+        ]
     },
     {
         "name": "Brent Manor Vineyards",
         "winery_url": "http://brentmanorvineyards.com/",
         "va_wine_url": "/wineries/1782",
-        "phone": null,
+        "phone": "(434) 826 -0722",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Closed for the season! Reopening 04/01/2017!Nestled in the hills of Virginia Wine Country in beautiful Nelson County just South of Charlottesville, The Brent Manor Vineyards welcomes you to a mix of the New World and the Old World. When you visit our tasting room, you get to experience our wines, along with other select Virginia wines, and in addition, we are bringing the Old World in as well by offering a variety of Portuguese wines.",
+        "wines": [
+            {
+                "name": "2015 Sauvignon Blanc",
+                "va_wine_url": "/wines/7772"
+            },
+            {
+                "name": "2015 Traminette",
+                "va_wine_url": "/wines/7782"
+            },
+            {
+                "name": "2014 Viognier",
+                "va_wine_url": "/wines/5872"
+            },
+            {
+                "name": "2015 Rosado",
+                "va_wine_url": "/wines/8392"
+            },
+            {
+                "name": "2014 Chambourcin",
+                "va_wine_url": "/wines/5862"
+            },
+            {
+                "name": "2015 Tintão",
+                "va_wine_url": "/wines/8382"
+            }
+        ]
     },
     {
         "name": "Bright Meadows Farm",
         "winery_url": "http://www.brightmeadows.com",
         "va_wine_url": "/wineries/66",
-        "phone": null,
+        "phone": "434 349 5349",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Southern Virginia",
+        "description": "Bright Meadows Farm is nestled among the rolling hills of historic Halifax County on the site of a 19th century tobacco plantation.Housed in a beautifully restored 117 year old barn serving seven wines and southern hospitality.",
+        "wines": [
+            {
+                "name": "Vidal Blanc",
+                "va_wine_url": "/wines/443"
+            },
+            {
+                "name": "Chambourcin",
+                "va_wine_url": "/wines/447"
+            },
+            {
+                "name": "Concord",
+                "va_wine_url": "/wines/446"
+            },
+            {
+                "name": "Meritage Blends",
+                "va_wine_url": "/wines/445"
+            },
+            {
+                "name": "Norton",
+                "va_wine_url": "/wines/444"
+            },
+            {
+                "name": "Various Fruit Wines",
+                "va_wine_url": "/wines/442"
+            }
+        ]
     },
     {
         "name": "Brightwood Vineyard & Farm",
         "winery_url": "http://www.brightwoodvineyardandfarm.com",
         "va_wine_url": "/wineries/1144",
-        "phone": null,
+        "phone": "540-717-2165",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Central Virginia",
+        "description": "Winery open by appointment: please call (540) 717-2165 to schedule wine tastings and farm tours.  You can find our wines @ the Charlottesville Farmer's Market on Saturdays from April through October.We are a diversified, organically certified family farm with chickens, goats, sheep, vegetables year round, herbs, raspberries, blackberries and our centerpiece elderberries.  Guest cottage.  See website for more details.",
+        "wines": [
+            {
+                "name": "Elderberry - Dry",
+                "va_wine_url": "/wines/1913"
+            },
+            {
+                "name": "Elderberry - Sweet",
+                "va_wine_url": "/wines/1929"
+            },
+            {
+                "name": "Blackberry",
+                "va_wine_url": "/wines/2867"
+            },
+            {
+                "name": "Elderflower Semi Dry:",
+                "va_wine_url": "/wines/1914"
+            },
+            {
+                "name": "Elderflower - Sweet:",
+                "va_wine_url": "/wines/1932"
+            },
+            {
+                "name": "All American Red",
+                "va_wine_url": "/wines/5602"
+            }
+        ]
     },
     {
         "name": "Brix & Columns Vineyards",
         "winery_url": "",
         "va_wine_url": "/wineries/2352",
-        "phone": null,
+        "phone": "540-421-0339",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Shenandoah Valley",
+        "description": "Come enjoy our spectacular view while sipping on one of our delicious wines. We are located in the Shenandoah Valley, 20 minutes from Harrisonburg and eight minutes from Massanutten Village.",
+        "wines": [
+            {
+                "name": "2013 Chardonnay",
+                "va_wine_url": "/wines/10223"
+            },
+            {
+                "name": "2016 Viognier",
+                "va_wine_url": "/wines/10224"
+            },
+            {
+                "name": "2014 Rosé",
+                "va_wine_url": "/wines/10226"
+            },
+            {
+                "name": "2015 Cabernet Franc",
+                "va_wine_url": "/wines/10227"
+            },
+            {
+                "name": "2015 Petit Verdot",
+                "va_wine_url": "/wines/10228"
+            },
+            {
+                "name": "2015 McGahey Reserve Red",
+                "va_wine_url": "/wines/10229"
+            }
+        ]
     },
     {
         "name": "Brooks Mill Winery",
         "winery_url": "http://www.brooksmillwine.com",
         "va_wine_url": "/wineries/175",
-        "phone": null,
+        "phone": "540-721-5215",
         "address": null,
-        "region": null,
-        "description": null,
-        "wines": []
+        "region": "Region: Virginia Mountains",
+        "description": "Welcome to Brooks Mill Winery. A family owned and operated winery located near Smith Mountain Lake in Franklin County Virginia. We offer delicious fruit wines for all personal tastes.",
+        "wines": [
+            {
+                "name": "Various Fruit Wines",
+                "va_wine_url": "/wines/1284"
+            }
+        ]
     },
     {
         "name": "Burnley Vineyards",

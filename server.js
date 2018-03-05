@@ -12,25 +12,20 @@ app.get('/api/wineries', function(req, res){
 })
 
 app.get('/harvest', function(req, res){
-  // Let's scrape Anchorman 2
   let wineries_url = base_url + '/wineries/all';
 
   request(wineries_url, function(error, response, html){
     if(!error){
       var $ = cheerio.load(html);
-      let test1 = $('.standard-list > li').html();
-      console.log('TESTONE', test1);
 
       $('.standard-list > li').each(function(i, elm) {
           let va_wine_url = $(this).children('strong').find('a').attr('href');
           let name = $(this).children('strong').text();
           let winery_url = $(this).children('.standard-link').text();
           let winery = createWinery(name, winery_url, va_wine_url);
-          // console.log($(this).text());
+
           wineries.push(winery);
       });
-
-      // console.log(wineries);
 
       scrapeWineryData(0);
 
@@ -41,13 +36,13 @@ app.get('/harvest', function(req, res){
   })
 })
 
-function createWineryList(){
 
-}
-
+//Recursive function for scraping all the winery pages and not crash the site :) hopefully
 function scrapeWineryData(index){
 
-  if(index > 2) {
+  // if(index > wineries.length) {
+    if(index > 40) {
+
     return;
   }
 
@@ -56,18 +51,26 @@ function scrapeWineryData(index){
     request(url, function(error, response, html){
       if(!error){
 
-        //scrape the data for the winery page
+        //Scrape the data for the winery page
         let $ = cheerio.load(html);
-        let region = $('.description h3').text()
-        let description = $('.description').find('p')[1].children[0].data;
+        let region = $('.description h3').text();
         let phone = $('#phone-card').text();
 
-        //update the wine array with winery and wine data from the web page
+        //Description needs special attention because its multiple paragraphs
+        let description = "";
+
+        //Loop through the multiple paragraphs, scrape each paragraph, and concatenate with description
+        $('.description').find('p').each(function(i, elm) {
+          paragraphText = $(this).text().replace(/(\r\n|\n|\r)/gm,"").trim();
+          description += paragraphText;
+        });
+
+        //Update the wine array with winery and wine data from the web page
         wineries[index].description = description;
         wineries[index].region = region;
         wineries[index].phone = phone
 
-        //loop through the wines section of the winery page and grab wine data
+        //Loop through the wines section of the winery page and grab wine data
         $('.detail-list-inner-list > li').each(function(i, elm) {
           let wine_name = $(this).text();
           let va_wine_url = $(this).find('a').attr('href');;
@@ -75,14 +78,17 @@ function scrapeWineryData(index){
           wineries[index].wines.push({'name': wine_name, 'va_wine_url': va_wine_url});
         });
 
-        if(index === 2){
+        console.log("Success - Harvested " + wineries[index].name + " Information");
+
+        // if(index === wineries.length){
+          if(index === 40){
+
           writeFile();
         }
 
         index ++;
 
         scrapeWineryData(index);
-
 
         }
     })
@@ -109,4 +115,4 @@ function writeFile(){
 }
 
 app.listen('8081')
-console.log('Wine Scraper Server Running on port 8081 ...');
+console.log('Wine API and Harvester Running on port 8081 ...');
