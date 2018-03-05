@@ -40,9 +40,7 @@ app.get('/harvest', function(req, res){
 //Recursive function for scraping all the winery pages and not crash the site :) hopefully
 function scrapeWineryData(index){
 
-  // if(index > wineries.length) {
-    if(index > 40) {
-
+  if(index > wineries.length - 1) {
     return;
   }
 
@@ -80,9 +78,7 @@ function scrapeWineryData(index){
 
         console.log("Success - Harvested " + wineries[index].name + " Information");
 
-        // if(index === wineries.length){
-          if(index === 40){
-
+        if(index === wineries.length - 1){
           writeFile();
         }
 
