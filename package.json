@@ -5,8 +5,9 @@
   "main": "server.js",
   "author": "patricknowlan",
   "dependencies": {
+    "cheerio": "latest",
+    "cors": "^2.8.4",
     "express": "latest",
-    "request": "latest",
-    "cheerio": "latest"
+    "request": "latest"
   }
 }

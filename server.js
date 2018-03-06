@@ -3,6 +3,7 @@ var fs          = require('fs');
 var request     = require('request');
 var cheerio     = require('cheerio');
 var path        = require("path");
+var cors        = require('cors');
 var app         = express();
 var winery_data = require('./wineries.json');
 
@@ -11,6 +12,9 @@ const base_url = 'https://www.virginiawine.org';
 
 var wineries = [];
 var wine_count = 0;
+
+
+app.use(cors());
 
 app.get("/", function(req, res) {
   res.sendFile(path.join(__dirname, "./index.html"));
