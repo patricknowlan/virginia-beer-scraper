@@ -2,6 +2,7 @@ var express     = require('express');
 var fs          = require('fs');
 var request     = require('request');
 var cheerio     = require('cheerio');
+var path        = require("path");
 var app         = express();
 var winery_data = require('./wineries.json');
 
@@ -10,6 +11,10 @@ const base_url = 'https://www.virginiawine.org';
 
 var wineries = [];
 var wine_count = 0;
+
+app.get("/", function(req, res) {
+  res.sendFile(path.join(__dirname, "./index.html"));
+});
 
 //API route to send all of the wineries and their wines. Eventually will be broken out into multiple GET routes
 app.get('/api/wineries', function(req, res){
