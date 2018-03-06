@@ -9,6 +9,7 @@ const port = process.env.PORT || 8080;
 const base_url = 'https://www.virginiawine.org';
 
 var wineries = [];
+var wine_count = 0;
 
 //API route to send all of the wineries and their wines. Eventually will be broken out into multiple GET routes
 app.get('/api/wineries', function(req, res){
@@ -79,11 +80,13 @@ function scrapeWineryData(index){
           let va_wine_url = $(this).find('a').attr('href');;
           wine_name = wine_name.replace(/(\r\n|\n|\r)/gm,"").trim();
           wineries[index].wines.push({'name': wine_name, 'va_wine_url': va_wine_url});
+          wine_count += wineries[index].wines.length;
         });
 
         console.log("Success - Harvested " + wineries[index].name + " Information");
 
         if(index === wineries.length - 1){
+          console.log("Harvested " + wineries.length + " wineries and " + wine_count + " wines.");
           writeFile();
         }
 
@@ -111,7 +114,7 @@ function createWinery(name, winery_url, va_wine_url) {
 
 function writeFile(){
   fs.writeFile('wineries.json', JSON.stringify(wineries, null, 4), function(err){
-    console.log('File successfully written! - Check your project directory for the output.json file');
+    console.log('File successfully written! - Check the project directory for the wineries.json file');
   })
 }
 
