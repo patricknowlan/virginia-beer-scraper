@@ -1,17 +1,21 @@
-var express = require('express');
-var fs      = require('fs');
-var request = require('request');
-var cheerio = require('cheerio');
-var app     = express();
+var express     = require('express');
+var fs          = require('fs');
+var request     = require('request');
+var cheerio     = require('cheerio');
+var app         = express();
+var winery_data = require('./wineries.json');
 
 const port = process.env.PORT || 8080;
 const base_url = 'https://www.virginiawine.org';
+
 var wineries = [];
 
+//API route to send all of the wineries and their wines. Eventually will be broken out into multiple GET routes
 app.get('/api/wineries', function(req, res){
-  res.json(wineries)
+  res.json(winery_data)
 })
 
+//API route to run the harvester and scrape + update all of the wine data
 app.get('/harvest', function(req, res){
   let wineries_url = base_url + '/wineries/all';
 
@@ -106,7 +110,7 @@ function createWinery(name, winery_url, va_wine_url) {
 }
 
 function writeFile(){
-  fs.writeFile('output.json', JSON.stringify(wineries, null, 4), function(err){
+  fs.writeFile('wineries.json', JSON.stringify(wineries, null, 4), function(err){
     console.log('File successfully written! - Check your project directory for the output.json file');
   })
 }
