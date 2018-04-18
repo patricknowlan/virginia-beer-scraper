@@ -92,6 +92,24 @@ function scrapeWineryData(index){
           wine_count += wineries[index].wines.length;
         });
 
+        var address1 = $('h2').filter(function() {
+          return $(this).text().trim() === 'Location';
+        }).next().text();
+        var address2 = $('h2').filter(function() {
+          return $(this).text().trim() === 'Location';
+        }).next().next().text();
+
+        address = address1 + address2;
+        address = address.replace(/\s\s+/g, ' ');
+        wineries[index].address = address;
+
+        // let address = $('.sidebar > .card > .card-wrapper').find('span');
+        console.log("***************");
+        console.log("address");
+        console.log(address);
+        console.log("***************");
+
+
         console.log("Success - Harvested " + wineries[index].name + " Information");
 
         if(index === wineries.length - 1){
