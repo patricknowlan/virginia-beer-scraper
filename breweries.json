@@ -1,5 +1,5 @@
 [{
-  "a": "2272 West Great Neck Road, Virginia Beach",
+  "address": "2272 West Great Neck Road, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "2272 West Great Neck Road",
@@ -10,22 +10,22 @@
   "cty": "US",
   "id": 153197209,
   "lat": 36.911006,
-  "nm": "Deadline Brewing Project"
+  "name": "Deadline Brewing Project"
 }, {
-  "a": "1805 Kempsville Road, Virginia Beach",
+  "address": "1805 Kempsville Road, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "1805 Kempsville Road",
   "lng": -76.189362,
   "city": "Virginia Beach",
   "ov": "Back Bay's Farmhouse Brewing Co",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197220,
   "lat": 36.783065,
-  "nm": "Back Bay's Farmhouse Brewing Co"
+  "name": "Back Bay's Farmhouse Brewing Co"
 }, {
-  "a": "150 Ridgemont Road, Middletown",
+  "address": "150 Ridgemont Road, Middletown",
   "b": 0,
   "c": "F",
   "s": "150 Ridgemont Road",
@@ -36,9 +36,9 @@
   "cty": "US",
   "id": 134281831,
   "lat": 38.9956,
-  "nm": "Backroom Brewery"
+  "name": "Backroom Brewery"
 }, {
-  "a": "33 Perchwood Drive, Fredericksburg",
+  "address": "33 Perchwood Drive, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "33 Perchwood Drive",
@@ -49,9 +49,9 @@
   "cty": "US",
   "id": 134279389,
   "lat": 38.384518,
-  "nm": "Adventure Brewing Company"
+  "name": "Adventure Brewing Company"
 }, {
-  "a": "739 Kessler Mill Road, Salem",
+  "address": "739 Kessler Mill Road, Salem",
   "b": 0,
   "c": "F",
   "s": "739 Kessler Mill Road",
@@ -62,9 +62,9 @@
   "cty": "US",
   "id": 135073306,
   "lat": 37.309198,
-  "nm": "Parkway Brewing Company LLC"
+  "name": "Parkway Brewing Company LLC"
 }, {
-  "a": "11109 Plank Road, Spotsylvania Courthouse",
+  "address": "11109 Plank Road, Spotsylvania Courthouse",
   "b": 0,
   "c": "F",
   "s": "11109 Plank Road",
@@ -75,9 +75,9 @@
   "cty": "US",
   "id": 134278901,
   "lat": 38.324479,
-  "nm": "1781 Brewing Co"
+  "name": "1781 Brewing Co"
 }, {
-  "a": "3025 Shore Drive, Virginia Beach",
+  "address": "3025 Shore Drive, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "3025 Shore Drive",
@@ -88,9 +88,9 @@
   "cty": "US",
   "id": 135073326,
   "lat": 36.909794,
-  "nm": "Pleasure House Brewing"
+  "name": "Pleasure House Brewing"
 }, {
-  "a": "45980 Waterview Plaza, Sterling",
+  "address": "45980 Waterview Plaza, Sterling",
   "b": 0,
   "c": "F",
   "s": "45980 Waterview Plaza",
@@ -101,9 +101,9 @@
   "cty": "US",
   "id": 135085888,
   "lat": 39.033445,
-  "nm": "Sweetwater Tavern"
+  "name": "Sweetwater Tavern"
 }, {
-  "a": "321 West 7th Street, Richmond",
+  "address": "321 West 7th Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "321 West 7th Street",
@@ -114,9 +114,9 @@
   "cty": "US",
   "id": 134285118,
   "lat": 37.526668,
-  "nm": "Legend Brewing Co"
+  "name": "Legend Brewing Co"
 }, {
-  "a": "4520 Daly Drive, Chantilly",
+  "address": "4520 Daly Drive, Chantilly",
   "b": 0,
   "c": "F",
   "s": "4520 Daly Drive",
@@ -127,22 +127,22 @@
   "cty": "US",
   "id": 143983221,
   "lat": 38.884349,
-  "nm": "Ono Brewing Company"
+  "name": "Ono Brewing Company"
 }, {
-  "a": "315 Market Street SE, Roanoke",
+  "address": "315 Market Street SE, Roanoke",
   "b": 0,
   "c": "F",
   "s": "315 Market Street SE",
   "lng": -79.914315,
   "city": "Roanoke",
   "ov": "Deschutes Brewery East Coast Site",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 139614245,
   "lat": 37.30019,
-  "nm": "Deschutes Brewery East Coast Site"
+  "name": "Deschutes Brewery East Coast Site"
 }, {
-  "a": "18701 Foggy Bottom Road, Bluemont",
+  "address": "18701 Foggy Bottom Road, Bluemont",
   "b": 0,
   "c": "F",
   "s": "18701 Foggy Bottom Road",
@@ -153,9 +153,9 @@
   "cty": "US",
   "id": 134283597,
   "lat": 39.100713,
-  "nm": "Dirt Farm Brewing"
+  "name": "Dirt Farm Brewing"
 }, {
-  "a": "6633 Viscoe Road, Radford",
+  "address": "6633 Viscoe Road, Radford",
   "b": 0,
   "c": "F",
   "s": "6633 Viscoe Road",
@@ -166,9 +166,9 @@
   "cty": "US",
   "id": 135085958,
   "lat": 37.146043,
-  "nm": "The River Company Restaurant and Brewery"
+  "name": "The River Company Restaurant and Brewery"
 }, {
-  "a": "11047 Pierson Drive #b, Fredericksburg",
+  "address": "11047 Pierson Drive #b, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "11047 Pierson Drive #b",
@@ -179,9 +179,9 @@
   "cty": "US",
   "id": 134285197,
   "lat": 38.260773,
-  "nm": "Maltese Brewing Company LLC"
+  "name": "Maltese Brewing Company LLC"
 }, {
-  "a": "2508 Jefferson Hwy Ste 1, Waynesboro",
+  "address": "2508 Jefferson Hwy Ste 1, Waynesboro",
   "b": 0,
   "c": "F",
   "s": "2508 Jefferson Hwy Ste 1",
@@ -192,9 +192,9 @@
   "cty": "US",
   "id": 135073831,
   "lat": 38.086836,
-  "nm": "Seven Arrows Brewing LLC"
+  "name": "Seven Arrows Brewing LLC"
 }, {
-  "a": "110 College Street #b, Clarksville",
+  "address": "110 College Street #b, Clarksville",
   "b": 0,
   "c": "F",
   "s": "110 College Street #b",
@@ -205,9 +205,9 @@
   "cty": "US",
   "id": 134282918,
   "lat": 36.61868,
-  "nm": "Buggs Island Brewing Company LLC"
+  "name": "Buggs Island Brewing Company LLC"
 }, {
-  "a": "81 Patch Road, Hampton",
+  "address": "81 Patch Road, Hampton",
   "b": 0,
   "c": "F",
   "s": "81 Patch Road",
@@ -218,9 +218,9 @@
   "cty": "US",
   "id": 135085953,
   "lat": 37.00888,
-  "nm": "The Oozlefinch Craft Brewery"
+  "name": "The Oozlefinch Craft Brewery"
 }, {
-  "a": "116 East 25th Street, Norfolk",
+  "address": "116 East 25th Street, Norfolk",
   "b": 0,
   "c": "F",
   "s": "116 East 25th Street",
@@ -231,9 +231,9 @@
   "cty": "US",
   "id": 135145770,
   "lat": 36.870304,
-  "nm": "Rip Rap Brewing Co."
+  "name": "Rip Rap Brewing Co."
 }, {
-  "a": "7134 Farm Station Road, Warrenton",
+  "address": "7134 Farm Station Road, Warrenton",
   "b": 0,
   "c": "F",
   "s": "7134 Farm Station Road",
@@ -244,9 +244,9 @@
   "cty": "US",
   "id": 134285500,
   "lat": 38.743909,
-  "nm": "Old Bust Head Brewing Company"
+  "name": "Old Bust Head Brewing Company"
 }, {
-  "a": "120 West Wolfe Street, Harrisonburg",
+  "address": "120 West Wolfe Street, Harrisonburg",
   "b": 0,
   "c": "F",
   "s": "120 West Wolfe Street",
@@ -257,9 +257,9 @@
   "cty": "US",
   "id": 135086135,
   "lat": 38.451994,
-  "nm": "Wolfe Street Brewing"
+  "name": "Wolfe Street Brewing"
 }, {
-  "a": "2277 Dabney Road, Richmond",
+  "address": "2277 Dabney Road, Richmond",
   "b": 0,
   "c": "F",
   "s": "2277 Dabney Road",
@@ -270,9 +270,9 @@
   "cty": "US",
   "id": 135073886,
   "lat": 37.586376,
-  "nm": "Strangeways Brewing"
+  "name": "Strangeways Brewing"
 }, {
-  "a": "1180 Seminole Trail, Charlottesville",
+  "address": "1180 Seminole Trail, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "1180 Seminole Trail",
@@ -283,9 +283,9 @@
   "cty": "US",
   "id": 145929381,
   "lat": 38.070249,
-  "nm": "Reason Beer"
+  "name": "Reason Beer"
 }, {
-  "a": "3066 Gate House Plaza, Falls Church",
+  "address": "3066 Gate House Plaza, Falls Church",
   "b": 0,
   "c": "F",
   "s": "3066 Gate House Plaza",
@@ -296,9 +296,9 @@
   "cty": "US",
   "id": 135085864,
   "lat": 38.866569,
-  "nm": "Sweetwater Tavern"
+  "name": "Sweetwater Tavern"
 }, {
-  "a": "7679 Limestone Drive #130, Gainesville",
+  "address": "7679 Limestone Drive #130, Gainesville",
   "b": 0,
   "c": "F",
   "s": "7679 Limestone Drive #130",
@@ -309,22 +309,22 @@
   "cty": "US",
   "id": 135086012,
   "lat": 38.790415,
-  "nm": "Tin Cannon Brewing Co. (TCBC)"
+  "name": "Tin Cannon Brewing Co. (TCBC)"
 }, {
-  "a": "212 East Washington Street, Suffolk",
+  "address": "212 East Washington Street, Suffolk",
   "b": 0,
   "c": "F",
   "s": "212 East Washington Street",
   "lng": -76.58029,
   "city": "Suffolk",
   "ov": "Brick & Mortar Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197190,
   "lat": 36.727745,
-  "nm": "Brick & Mortar Brewing Company"
+  "name": "Brick & Mortar Brewing Company"
 }, {
-  "a": "1717 East Franklin Street, Richmond",
+  "address": "1717 East Franklin Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "1717 East Franklin Street",
@@ -335,9 +335,9 @@
   "cty": "US",
   "id": 166752919,
   "lat": 37.533826,
-  "nm": "Lickinghole Goodwater Brew Pub"
+  "name": "Lickinghole Goodwater Brew Pub"
 }, {
-  "a": "9436 Center Point Lane, Manassas",
+  "address": "9436 Center Point Lane, Manassas",
   "b": 0,
   "c": "F",
   "s": "9436 Center Point Lane",
@@ -348,9 +348,9 @@
   "cty": "US",
   "id": 134284889,
   "lat": 38.752225,
-  "nm": "Heritage Brewing Co"
+  "name": "Heritage Brewing Co"
 }, {
-  "a": "1805 Laskin Road, Virginia Beach",
+  "address": "1805 Laskin Road, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "1805 Laskin Road",
@@ -361,9 +361,9 @@
   "cty": "US",
   "id": 135086061,
   "lat": 36.849099,
-  "nm": "Wasserhund Brewing Company"
+  "name": "Wasserhund Brewing Company"
 }, {
-  "a": "2425 Robert E Lee Road, Powhatan",
+  "address": "2425 Robert E Lee Road, Powhatan",
   "b": 0,
   "c": "F",
   "s": "2425 Robert E Lee Road",
@@ -374,22 +374,22 @@
   "cty": "US",
   "id": 139437152,
   "lat": 37.597382,
-  "nm": "Fine Creek Brewing Company"
+  "name": "Fine Creek Brewing Company"
 }, {
-  "a": "3071 Jefferson Davis Highway, Stafford",
+  "address": "3071 Jefferson Davis Highway, Stafford",
   "b": 0,
   "c": "F",
   "s": "3071 Jefferson Davis Highway",
   "lng": -77.399801,
   "city": "Stafford",
   "ov": "Wild Run Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 135086081,
   "lat": 38.471234,
-  "nm": "Wild Run Brewing Company"
+  "name": "Wild Run Brewing Company"
 }, {
-  "a": "9419 Main Street, Manassas",
+  "address": "9419 Main Street, Manassas",
   "b": 0,
   "c": "F",
   "s": "9419 Main Street",
@@ -400,9 +400,9 @@
   "cty": "US",
   "id": 146004486,
   "lat": 38.750646,
-  "nm": "Sinistral Brewing Company"
+  "name": "Sinistral Brewing Company"
 }, {
-  "a": "11424 Washington Plaza West, Reston",
+  "address": "11424 Washington Plaza West, Reston",
   "b": 0,
   "c": "F",
   "s": "11424 Washington Plaza West",
@@ -413,9 +413,9 @@
   "cty": "US",
   "id": 134285086,
   "lat": 38.968425,
-  "nm": "Lake Anne Brew House LLC"
+  "name": "Lake Anne Brew House LLC"
 }, {
-  "a": "42245 Black Hops Lane, Leesburg",
+  "address": "42245 Black Hops Lane, Leesburg",
   "b": 0,
   "c": "F",
   "s": "42245 Black Hops Lane",
@@ -426,9 +426,9 @@
   "cty": "US",
   "id": 135086054,
   "lat": 39.22336,
-  "nm": "Vanish Farmwoods Brewery"
+  "name": "Vanish Farmwoods Brewery"
 }, {
-  "a": "44 West Church Street, Kilmarnock",
+  "address": "44 West Church Street, Kilmarnock",
   "b": 0,
   "c": "F",
   "s": "44 West Church Street",
@@ -439,22 +439,22 @@
   "cty": "US",
   "id": 167068081,
   "lat": 37.710709,
-  "nm": "Kilmarnock Brewhaus"
+  "name": "Kilmarnock Brewhaus"
 }, {
-  "a": "234 West King Street, Strasburg",
+  "address": "234 West King Street, Strasburg",
   "b": 0,
   "c": "F",
   "s": "234 West King Street",
   "lng": -78.364121,
   "city": "Strasburg",
   "ov": "Siblings' Rivalry Brewery, LLC",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197480,
   "lat": 38.989936,
-  "nm": "Siblings' Rivalry Brewery, LLC"
+  "name": "Siblings' Rivalry Brewery, LLC"
 }, {
-  "a": "727 Granby Street, Norfolk",
+  "address": "727 Granby Street, Norfolk",
   "b": 0,
   "c": "F",
   "s": "727 Granby Street",
@@ -465,9 +465,9 @@
   "cty": "US",
   "id": 142924067,
   "lat": 36.855161,
-  "nm": "Bearded Bird Brewing"
+  "name": "Bearded Bird Brewing"
 }, {
-  "a": "20 South Mason Street, Harrisonburg",
+  "address": "20 South Mason Street, Harrisonburg",
   "b": 0,
   "c": "F",
   "s": "20 South Mason Street",
@@ -478,9 +478,9 @@
   "cty": "US",
   "id": 165464158,
   "lat": 38.448824,
-  "nm": "Friendly Fermenter"
+  "name": "Friendly Fermenter"
 }, {
-  "a": "23600 Overland Drive #180, Sterling",
+  "address": "23600 Overland Drive #180, Sterling",
   "b": 0,
   "c": "F",
   "s": "23600 Overland Drive #180",
@@ -491,9 +491,9 @@
   "cty": "US",
   "id": 134285430,
   "lat": 38.962999,
-  "nm": "Ocelot Brewing Company"
+  "name": "Ocelot Brewing Company"
 }, {
-  "a": "2410 Ownby Lane, Richmond",
+  "address": "2410 Ownby Lane, Richmond",
   "b": 0,
   "c": "F",
   "s": "2410 Ownby Lane",
@@ -504,35 +504,35 @@
   "cty": "US",
   "id": 134284523,
   "lat": 37.565032,
-  "nm": "Hardywood Park Craft Brewery LLC"
+  "name": "Hardywood Park Craft Brewery LLC"
 }, {
-  "a": "505 18th Street, Virginia Beach",
+  "address": "505 18th Street, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "505 18th Street",
   "lng": -75.980225,
   "city": "Virginia Beach",
   "ov": "Vibrant Shore Brewing Co.",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 168873726,
   "lat": 36.845637,
-  "nm": "Vibrant Shore Brewing Co."
+  "name": "Vibrant Shore Brewing Co."
 }, {
-  "a": "504 North King Street, Hampton",
+  "address": "504 North King Street, Hampton",
   "b": 0,
   "c": "F",
   "s": "504 North King Street",
   "lng": -76.345383,
   "city": "Hampton",
   "ov": "The Vanguard Brewpub and Distillery",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 168875482,
   "lat": 37.031283,
-  "nm": "The Vanguard Brewpub and Distillery"
+  "name": "The Vanguard Brewpub and Distillery"
 }, {
-  "a": "310 East Market Street, Leesburg",
+  "address": "310 East Market Street, Leesburg",
   "b": 0,
   "c": "F",
   "s": "310 East Market Street",
@@ -543,9 +543,9 @@
   "cty": "US",
   "id": 134285151,
   "lat": 39.112764,
-  "nm": "Loudoun Brewing Co"
+  "name": "Loudoun Brewing Co"
 }, {
-  "a": "1717 Oak Lake Boulevard, Midlothian",
+  "address": "1717 Oak Lake Boulevard, Midlothian",
   "b": 0,
   "c": "F",
   "s": "1717 Oak Lake Boulevard",
@@ -556,9 +556,9 @@
   "cty": "US",
   "id": 135073872,
   "lat": 37.456036,
-  "nm": "Steam Bell Beer Works"
+  "name": "Steam Bell Beer Works"
 }, {
-  "a": "204 Challenger Way, Hampton",
+  "address": "204 Challenger Way, Hampton",
   "b": 0,
   "c": "F",
   "s": "204 Challenger Way",
@@ -569,22 +569,22 @@
   "cty": "US",
   "id": 135073857,
   "lat": 37.099888,
-  "nm": "St. George Brewing Company"
+  "name": "St. George Brewing Company"
 }, {
-  "a": "735 East 23rd Street, Norfolk",
+  "address": "735 East 23rd Street, Norfolk",
   "b": 0,
   "c": "F",
   "s": "735 East 23rd Street",
   "lng": -76.278584,
   "city": "Norfolk",
   "ov": "Maker's Craft Brewery",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197230,
   "lat": 36.868138,
-  "nm": "Maker's Craft Brewery"
+  "name": "Maker's Craft Brewery"
 }, {
-  "a": "561 Valley Street, Scottsville",
+  "address": "561 Valley Street, Scottsville",
   "b": 0,
   "c": "F",
   "s": "561 Valley Street",
@@ -595,9 +595,9 @@
   "cty": "US",
   "id": 134284998,
   "lat": 37.800472,
-  "nm": "James River Brewery"
+  "name": "James River Brewery"
 }, {
-  "a": "1129 Boissevain Avenue, Norfolk",
+  "address": "1129 Boissevain Avenue, Norfolk",
   "b": 0,
   "c": "F",
   "s": "1129 Boissevain Avenue",
@@ -608,9 +608,9 @@
   "cty": "US",
   "id": 134282709,
   "lat": 36.864732,
-  "nm": "Benchtop Brewing Company"
+  "name": "Benchtop Brewing Company"
 }, {
-  "a": "32173 Government Road, Damascus",
+  "address": "32173 Government Road, Damascus",
   "b": 0,
   "c": "F",
   "s": "32173 Government Road",
@@ -621,9 +621,9 @@
   "cty": "US",
   "id": 135085947,
   "lat": 36.640222,
-  "nm": "The Damascus Brewery"
+  "name": "The Damascus Brewery"
 }, {
-  "a": "2351 Glade Road, Blacksburg",
+  "address": "2351 Glade Road, Blacksburg",
   "b": 0,
   "c": "F",
   "s": "2351 Glade Road",
@@ -634,9 +634,9 @@
   "cty": "US",
   "id": 135073778,
   "lat": 37.237313,
-  "nm": "Rising Silo Brewery"
+  "name": "Rising Silo Brewery"
 }, {
-  "a": "555 International Parkway, Daleville",
+  "address": "555 International Parkway, Daleville",
   "b": 0,
   "c": "F",
   "s": "555 International Parkway",
@@ -647,9 +647,9 @@
   "cty": "US",
   "id": 144175524,
   "lat": 37.435476,
-  "nm": "Ballast Point: Virginia"
+  "name": "Ballast Point: Virginia"
 }, {
-  "a": "14250 Sweetwater Lane, Centreville",
+  "address": "14250 Sweetwater Lane, Centreville",
   "b": 0,
   "c": "F",
   "s": "14250 Sweetwater Lane",
@@ -660,9 +660,9 @@
   "cty": "US",
   "id": 135085856,
   "lat": 38.829236,
-  "nm": "Sweetwater Tavern"
+  "name": "Sweetwater Tavern"
 }, {
-  "a": "9901 Discovery Boulevard, Manassas",
+  "address": "9901 Discovery Boulevard, Manassas",
   "b": 0,
   "c": "F",
   "s": "9901 Discovery Boulevard",
@@ -673,9 +673,9 @@
   "cty": "US",
   "id": 153381249,
   "lat": 38.742932,
-  "nm": "Farm Brew Live"
+  "name": "Farm Brew Live"
 }, {
-  "a": "1470 South Main Street #120, Blacksburg",
+  "address": "1470 South Main Street #120, Blacksburg",
   "b": 0,
   "c": "F",
   "s": "1470 South Main Street #120",
@@ -686,9 +686,9 @@
   "cty": "US",
   "id": 134282935,
   "lat": 37.213508,
-  "nm": "Bull & Bones Brewhaus & Grill"
+  "name": "Bull & Bones Brewhaus & Grill"
 }, {
-  "a": "217 South Liberty Street #105, Harrisonburg",
+  "address": "217 South Liberty Street #105, Harrisonburg",
   "b": 0,
   "c": "F",
   "s": "217 South Liberty Street #105",
@@ -699,9 +699,9 @@
   "cty": "US",
   "id": 135073287,
   "lat": 38.44719,
-  "nm": "Pale Fire Brewing Co"
+  "name": "Pale Fire Brewing Co"
 }, {
-  "a": "23 North Loudoun Street, Winchester",
+  "address": "23 North Loudoun Street, Winchester",
   "b": 0,
   "c": "F",
   "s": "23 North Loudoun Street",
@@ -712,22 +712,22 @@
   "cty": "US",
   "id": 134279524,
   "lat": 39.184273,
-  "nm": "AleSatian Brewing Co"
+  "name": "AleSatian Brewing Co"
 }, {
-  "a": "115 South 15th Street, Richmond",
+  "address": "115 South 15th Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "115 South 15th Street",
   "lng": -77.431289,
   "city": "Richmond",
   "ov": "Shiplock Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 175236528,
   "lat": 37.533115,
-  "nm": "Shiplock Brewing"
+  "name": "Shiplock Brewing"
 }, {
-  "a": "4176 Swover Creek Road, Edinburg",
+  "address": "4176 Swover Creek Road, Edinburg",
   "b": 0,
   "c": "F",
   "s": "4176 Swover Creek Road",
@@ -738,9 +738,9 @@
   "cty": "US",
   "id": 139441094,
   "lat": 38.841443,
-  "nm": "Swover Creek Farms Farm Brewery"
+  "name": "Swover Creek Farms Farm Brewery"
 }, {
-  "a": "200 Mosbys Run, Roseland",
+  "address": "200 Mosbys Run, Roseland",
   "b": 0,
   "c": "F",
   "s": "200 Mosbys Run",
@@ -751,9 +751,9 @@
   "cty": "US",
   "id": 134283572,
   "lat": 37.871268,
-  "nm": "Devils Backbone Brewing Co"
+  "name": "Devils Backbone Brewing Co"
 }, {
-  "a": "4561 Virginia Beach Boulevard, Virginia Beach",
+  "address": "4561 Virginia Beach Boulevard, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "4561 Virginia Beach Boulevard",
@@ -764,22 +764,22 @@
   "cty": "US",
   "id": 134283778,
   "lat": 36.843206,
-  "nm": "Gordon Biersch Brewery Restaurant - Virginia Beach"
+  "name": "Gordon Biersch Brewery Restaurant - Virginia Beach"
 }, {
-  "a": "1529 West Main Street, Richmond",
+  "address": "1529 West Main Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "1529 West Main Street",
   "lng": -77.460552,
   "city": "Richmond",
   "ov": "Canon & Draw Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 145015737,
   "lat": 37.547217,
-  "nm": "Canon & Draw Brewing Company"
+  "name": "Canon & Draw Brewing Company"
 }, {
-  "a": "22455 Davis Drive, Sterling",
+  "address": "22455 Davis Drive, Sterling",
   "b": 0,
   "c": "F",
   "s": "22455 Davis Drive",
@@ -790,22 +790,22 @@
   "cty": "US",
   "id": 134283532,
   "lat": 38.994762,
-  "nm": "Crooked Run Central"
+  "name": "Crooked Run Central"
 }, {
-  "a": "8096 Flannery Court, Manassas",
+  "address": "8096 Flannery Court, Manassas",
   "b": 0,
   "c": "F",
   "s": "8096 Flannery Court",
   "lng": -77.557271,
   "city": "Manassas",
   "ov": "Tin Cannon Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153382917,
   "lat": 38.783108,
-  "nm": "Tin Cannon Brewing"
+  "name": "Tin Cannon Brewing"
 }, {
-  "a": "44652 Guilford Drive #114, Ashburn",
+  "address": "44652 Guilford Drive #114, Ashburn",
   "b": 0,
   "c": "F",
   "s": "44652 Guilford Drive #114",
@@ -816,9 +816,9 @@
   "cty": "US",
   "id": 134285515,
   "lat": 39.0239,
-  "nm": "Old Ox Brewery"
+  "name": "Old Ox Brewery"
 }, {
-  "a": "101 Executive Drive, Sterling",
+  "address": "101 Executive Drive, Sterling",
   "b": 0,
   "c": "F",
   "s": "101 Executive Drive",
@@ -829,9 +829,9 @@
   "cty": "US",
   "id": 146273520,
   "lat": 38.984397,
-  "nm": "Twinpanzee Brewing Co."
+  "name": "Twinpanzee Brewing Co."
 }, {
-  "a": "11800 West Broad Street #2098, Richmond",
+  "address": "11800 West Broad Street #2098, Richmond",
   "b": 0,
   "c": "F",
   "s": "11800 West Broad Street #2098",
@@ -842,9 +842,9 @@
   "cty": "US",
   "id": 135073795,
   "lat": 37.656888,
-  "nm": "Rock Bottom Restaurant & Brewery"
+  "name": "Rock Bottom Restaurant & Brewery"
 }, {
-  "a": "3060 Riner Road, Christiansburg",
+  "address": "3060 Riner Road, Christiansburg",
   "b": 0,
   "c": "F",
   "s": "3060 Riner Road",
@@ -855,9 +855,9 @@
   "cty": "US",
   "id": 158543367,
   "lat": 37.087701,
-  "nm": "Sinkland Farms Brewery"
+  "name": "Sinkland Farms Brewery"
 }, {
-  "a": "22 Zerkel Street, Luray",
+  "address": "22 Zerkel Street, Luray",
   "b": 0,
   "c": "F",
   "s": "22 Zerkel Street",
@@ -868,9 +868,9 @@
   "cty": "US",
   "id": 139438866,
   "lat": 38.664745,
-  "nm": "Hawksbill Brewing Co"
+  "name": "Hawksbill Brewing Co"
 }, {
-  "a": "221 Moore Street, Bristol",
+  "address": "221 Moore Street, Bristol",
   "b": 0,
   "c": "F",
   "s": "221 Moore Street",
@@ -881,22 +881,22 @@
   "cty": "US",
   "id": 135073920,
   "lat": 36.597745,
-  "nm": "Studio Brew LLC"
+  "name": "Studio Brew LLC"
 }, {
-  "a": "122 East Main Street, Front Royal",
+  "address": "122 East Main Street, Front Royal",
   "b": 0,
   "c": "F",
   "s": "122 East Main Street",
   "lng": -78.191967,
   "city": "Front Royal",
   "ov": "Front Royal Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197475,
   "lat": 38.918061,
-  "nm": "Front Royal Brewing Company"
+  "name": "Front Royal Brewing Company"
 }, {
-  "a": "1140 International Parkway, Fredericksburg",
+  "address": "1140 International Parkway, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "1140 International Parkway",
@@ -907,9 +907,9 @@
   "cty": "US",
   "id": 134278949,
   "lat": 38.36228,
-  "nm": "6 Bears & A Goat Brewing Company"
+  "name": "6 Bears & A Goat Brewing Company"
 }, {
-  "a": "189-B Ewell Road, Williamsburg",
+  "address": "189-B Ewell Road, Williamsburg",
   "b": 0,
   "c": "F",
   "s": "189-B Ewell Road",
@@ -920,9 +920,9 @@
   "cty": "US",
   "id": 135086104,
   "lat": 37.320719,
-  "nm": "AleWerks Brewing Company"
+  "name": "AleWerks Brewing Company"
 }, {
-  "a": "14140 Parke Long Court #A-C, Chantilly",
+  "address": "14140 Parke Long Court #A-C, Chantilly",
   "b": 0,
   "c": "F",
   "s": "14140 Parke Long Court #A-C",
@@ -933,9 +933,9 @@
   "cty": "US",
   "id": 134285279,
   "lat": 38.892234,
-  "nm": "Mustang Sally Brewing Company LLC"
+  "name": "Mustang Sally Brewing Company LLC"
 }, {
-  "a": "34 East Broad Way, Lovettsville",
+  "address": "34 East Broad Way, Lovettsville",
   "b": 0,
   "c": "F",
   "s": "34 East Broad Way",
@@ -946,9 +946,9 @@
   "cty": "US",
   "id": 134285188,
   "lat": 39.271696,
-  "nm": "Mad Horse Brewpub"
+  "name": "Mad Horse Brewpub"
 }, {
-  "a": "1296 Battlefield Boulevard South #104, Chesapeake",
+  "address": "1296 Battlefield Boulevard South #104, Chesapeake",
   "b": 0,
   "c": "F",
   "s": "1296 Battlefield Boulevard South #104",
@@ -959,9 +959,9 @@
   "cty": "US",
   "id": 134282742,
   "lat": 36.678666,
-  "nm": "Big Ugly Brewing Company LLC"
+  "name": "Big Ugly Brewing Company LLC"
 }, {
-  "a": "3950 Wheeler Avenue, Alexandria",
+  "address": "3950 Wheeler Avenue, Alexandria",
   "b": 0,
   "c": "F",
   "s": "3950 Wheeler Avenue",
@@ -972,9 +972,9 @@
   "cty": "US",
   "id": 135073334,
   "lat": 38.807959,
-  "nm": "Port City Brewing Company"
+  "name": "Port City Brewing Company"
 }, {
-  "a": "4522 Chicken City Road, Chincoteague Island",
+  "address": "4522 Chicken City Road, Chincoteague Island",
   "b": 0,
   "c": "F",
   "s": "4522 Chicken City Road",
@@ -985,9 +985,9 @@
   "cty": "US",
   "id": 144173247,
   "lat": 37.930518,
-  "nm": "Black Narrows Brewing"
+  "name": "Black Narrows Brewing"
 }, {
-  "a": "6135 Rockfish Gap Turnpike, Crozet",
+  "address": "6135 Rockfish Gap Turnpike, Crozet",
   "b": 0,
   "c": "F",
   "s": "6135 Rockfish Gap Turnpike",
@@ -998,22 +998,22 @@
   "cty": "US",
   "id": 135073482,
   "lat": 38.048378,
-  "nm": "Pro Re Nata Brewing Company, LLC"
+  "name": "Pro Re Nata Brewing Company, LLC"
 }, {
-  "a": "515 8th Street Southwest, Roanoke",
+  "address": "515 8th Street Southwest, Roanoke",
   "b": 0,
   "c": "F",
   "s": "515 8th Street Southwest",
   "lng": -79.955766,
   "city": "Roanoke",
   "ov": "A Few Old Goats Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 166696009,
   "lat": 37.27039,
-  "nm": "A Few Old Goats Brewing"
+  "name": "A Few Old Goats Brewing"
 }, {
-  "a": "111 East Main Street, Charlottesville",
+  "address": "111 East Main Street, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "111 East Main Street",
@@ -1024,9 +1024,9 @@
   "cty": "US",
   "id": 139437050,
   "lat": 38.030905,
-  "nm": "Brasserie Saison"
+  "name": "Brasserie Saison"
 }, {
-  "a": "3331 West Moore Street, Richmond",
+  "address": "3331 West Moore Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "3331 West Moore Street",
@@ -1037,9 +1037,9 @@
   "cty": "US",
   "id": 135096276,
   "lat": 37.569865,
-  "nm": "Väsen Brewing Company"
+  "name": "Väsen Brewing Company"
 }, {
-  "a": "1410 South Main Street, Blacksburg",
+  "address": "1410 South Main Street, Blacksburg",
   "b": 0,
   "c": "F",
   "s": "1410 South Main Street",
@@ -1050,9 +1050,9 @@
   "cty": "US",
   "id": 134285105,
   "lat": 37.215289,
-  "nm": "Right Mind Brewing"
+  "name": "Right Mind Brewing"
 }, {
-  "a": "106 South Railroad Avenue, Ashland",
+  "address": "106 South Railroad Avenue, Ashland",
   "b": 0,
   "c": "F",
   "s": "106 South Railroad Avenue",
@@ -1063,9 +1063,9 @@
   "cty": "US",
   "id": 134283373,
   "lat": 37.758393,
-  "nm": "Center of the Universe Origin"
+  "name": "Center of the Universe Origin"
 }, {
-  "a": "946 Grady Avenue, Charlottesville",
+  "address": "946 Grady Avenue, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "946 Grady Avenue",
@@ -1076,9 +1076,9 @@
   "cty": "US",
   "id": 135085996,
   "lat": 38.038105,
-  "nm": "Three Notch'd Brewing Company"
+  "name": "Three Notch'd Brewing Company"
 }, {
-  "a": "8532 Terminal Road #l, Lorton",
+  "address": "8532 Terminal Road #l, Lorton",
   "b": 0,
   "c": "F",
   "s": "8532 Terminal Road #l",
@@ -1089,9 +1089,9 @@
   "cty": "US",
   "id": 134283705,
   "lat": 38.727601,
-  "nm": "Forge Brew Works"
+  "name": "Forge Brew Works"
 }, {
-  "a": "7861 Tysons Corner Center, McLean",
+  "address": "7861 Tysons Corner Center, McLean",
   "b": 0,
   "c": "F",
   "s": "7861 Tysons Corner Center",
@@ -1102,9 +1102,9 @@
   "cty": "US",
   "id": 134283805,
   "lat": 38.917468,
-  "nm": "Gordon Biersch Brewery Restaurant"
+  "name": "Gordon Biersch Brewery Restaurant"
 }, {
-  "a": "7801 Pocahontas Trail, Williamsburg",
+  "address": "7801 Pocahontas Trail, Williamsburg",
   "b": 0,
   "c": "F",
   "s": "7801 Pocahontas Trail",
@@ -1115,9 +1115,9 @@
   "cty": "US",
   "id": 134280288,
   "lat": 37.237906,
-  "nm": "Anheuser Busch"
+  "name": "Anheuser Busch"
 }, {
-  "a": "47 Main Street, Sperryville",
+  "address": "47 Main Street, Sperryville",
   "b": 0,
   "c": "F",
   "s": "47 Main Street",
@@ -1128,9 +1128,9 @@
   "cty": "US",
   "id": 134284917,
   "lat": 38.657745,
-  "nm": "Hopkins Ordinary Ale Works"
+  "name": "Hopkins Ordinary Ale Works"
 }, {
-  "a": "9519 Critzers Shop Road, Afton",
+  "address": "9519 Critzers Shop Road, Afton",
   "b": 0,
   "c": "F",
   "s": "9519 Critzers Shop Road",
@@ -1141,9 +1141,9 @@
   "cty": "US",
   "id": 134282846,
   "lat": 38.016134,
-  "nm": "Blue Mountain Brewery"
+  "name": "Blue Mountain Brewery"
 }, {
-  "a": "2505 Horse Pasture Road, Virginia Beach",
+  "address": "2505 Horse Pasture Road, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "2505 Horse Pasture Road",
@@ -1154,9 +1154,9 @@
   "cty": "US",
   "id": 135086161,
   "lat": 36.786347,
-  "nm": "Young Veterans Brewing Company"
+  "name": "Young Veterans Brewing Company"
 }, {
-  "a": "241 East Market Street, Harrisonburg",
+  "address": "241 East Market Street, Harrisonburg",
   "b": 0,
   "c": "F",
   "s": "241 East Market Street",
@@ -1167,9 +1167,9 @@
   "cty": "US",
   "id": 135086005,
   "lat": 38.448706,
-  "nm": "Three Notchd Brewing Company"
+  "name": "Three Notchd Brewing Company"
 }, {
-  "a": "520 Mill Street Northeast, Vienna",
+  "address": "520 Mill Street Northeast, Vienna",
   "b": 0,
   "c": "F",
   "s": "520 Mill Street Northeast",
@@ -1180,9 +1180,9 @@
   "cty": "US",
   "id": 134283037,
   "lat": 38.907732,
-  "nm": "Caboose Brewing Company LLC"
+  "name": "Caboose Brewing Company LLC"
 }, {
-  "a": "41 Piedmont Avenue, Bristol",
+  "address": "41 Piedmont Avenue, Bristol",
   "b": 0,
   "c": "F",
   "s": "41 Piedmont Avenue",
@@ -1193,22 +1193,22 @@
   "cty": "US",
   "id": 134282902,
   "lat": 36.596295,
-  "nm": "Bristol Station Brews & Taproom"
+  "name": "Bristol Station Brews & Taproom"
 }, {
-  "a": "8300 Merrifield Avenue, Fairfax",
+  "address": "8300 Merrifield Avenue, Fairfax",
   "b": 0,
   "c": "F",
   "s": "8300 Merrifield Avenue",
   "lng": -77.231386,
   "city": "Fairfax",
   "ov": "Mosaic Brew Works",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197328,
   "lat": 38.878395,
-  "nm": "Mosaic Brew Works"
+  "name": "Mosaic Brew Works"
 }, {
-  "a": "16622 Broad Street, Saint Paul",
+  "address": "16622 Broad Street, Saint Paul",
   "b": 0,
   "c": "F",
   "s": "16622 Broad Street",
@@ -1219,9 +1219,9 @@
   "cty": "US",
   "id": 135073940,
   "lat": 36.904818,
-  "nm": "Sugar Hill Brewing Company"
+  "name": "Sugar Hill Brewing Company"
 }, {
-  "a": "15381 Kings Highway #b, Montross",
+  "address": "15381 Kings Highway #b, Montross",
   "b": 0,
   "c": "F",
   "s": "15381 Kings Highway #b",
@@ -1232,9 +1232,9 @@
   "cty": "US",
   "id": 134285230,
   "lat": 38.093182,
-  "nm": "Montross Brewery"
+  "name": "Montross Brewery"
 }, {
-  "a": "523 Shenandoah Avenue Northwest, Roanoke",
+  "address": "523 Shenandoah Avenue Northwest, Roanoke",
   "b": 0,
   "c": "F",
   "s": "523 Shenandoah Avenue Northwest",
@@ -1245,9 +1245,9 @@
   "cty": "US",
   "id": 135073845,
   "lat": 37.275118,
-  "nm": "Soaring Ridge Craft Brewers"
+  "name": "Soaring Ridge Craft Brewers"
 }, {
-  "a": "202 Harrison Street Southeast, Leesburg",
+  "address": "202 Harrison Street Southeast, Leesburg",
   "b": 0,
   "c": "F",
   "s": "202 Harrison Street Southeast",
@@ -1258,22 +1258,22 @@
   "cty": "US",
   "id": 134285170,
   "lat": 39.11258,
-  "nm": "Mac Dowell Brew Kitchen"
+  "name": "Mac Dowell Brew Kitchen"
 }, {
-  "a": "Lebanon",
+  "address": "Lebanon",
   "b": 0,
   "c": "F",
   "s": "",
   "lng": -82.080131,
   "city": "Lebanon",
   "ov": "Wicked Cedar Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 172041600,
   "lat": 36.900942,
-  "nm": "Wicked Cedar Brewing Company"
+  "name": "Wicked Cedar Brewing Company"
 }, {
-  "a": "8420 Kao Circle, Manassas",
+  "address": "8420 Kao Circle, Manassas",
   "b": 0,
   "c": "F",
   "s": "8420 Kao Circle",
@@ -1284,9 +1284,9 @@
   "cty": "US",
   "id": 134282299,
   "lat": 38.761757,
-  "nm": "BadWolf Brewhouse"
+  "name": "BadWolf Brewhouse"
 }, {
-  "a": "34266 Williams Gap Road, Round Hill",
+  "address": "34266 Williams Gap Road, Round Hill",
   "b": 0,
   "c": "F",
   "s": "34266 Williams Gap Road",
@@ -1297,9 +1297,9 @@
   "cty": "US",
   "id": 153197289,
   "lat": 39.121366,
-  "nm": "B Chord Brewing Company"
+  "name": "B Chord Brewing Company"
 }, {
-  "a": "4100 Knolls Point Drive, Goochland",
+  "address": "4100 Knolls Point Drive, Goochland",
   "b": 0,
   "c": "F",
   "s": "4100 Knolls Point Drive",
@@ -1310,9 +1310,9 @@
   "cty": "US",
   "id": 134285126,
   "lat": 37.743288,
-  "nm": "Lickinghole Creek Craft Brewery"
+  "name": "Lickinghole Creek Craft Brewery"
 }, {
-  "a": "350 Park Street Southeast, Abingdon",
+  "address": "350 Park Street Southeast, Abingdon",
   "b": 0,
   "c": "F",
   "s": "350 Park Street Southeast",
@@ -1323,9 +1323,9 @@
   "cty": "US",
   "id": 135086131,
   "lat": 36.712306,
-  "nm": "Wolf Hills Brewing Company"
+  "name": "Wolf Hills Brewing Company"
 }, {
-  "a": "25 Main Street, Smithfield",
+  "address": "25 Main Street, Smithfield",
   "b": 0,
   "c": "F",
   "s": "25 Main Street",
@@ -1336,22 +1336,22 @@
   "cty": "US",
   "id": 135086070,
   "lat": 36.982531,
-  "nm": "Wharf Hill Brewing Company"
+  "name": "Wharf Hill Brewing Company"
 }, {
-  "a": "Orange",
+  "address": "Orange",
   "b": 0,
   "c": "F",
   "s": "",
   "lng": -78.110834,
   "city": "Orange",
   "ov": "Ascetic Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 172041049,
   "lat": 38.245411,
-  "nm": "Ascetic Brewing"
+  "name": "Ascetic Brewing"
 }, {
-  "a": "2117 Bruno Drive, Goodview",
+  "address": "2117 Bruno Drive, Goodview",
   "b": 0,
   "c": "F",
   "s": "2117 Bruno Drive",
@@ -1362,22 +1362,22 @@
   "cty": "US",
   "id": 135086078,
   "lat": 37.23171,
-  "nm": "White Rock Vineyard Winery & Brew Haus"
+  "name": "White Rock Vineyard Winery & Brew Haus"
 }, {
-  "a": "177 East King Street, Strasburg",
+  "address": "177 East King Street, Strasburg",
   "b": 0,
   "c": "F",
   "s": "177 East King Street",
   "lng": -78.360481,
   "city": "Strasburg",
   "ov": "Box Office Brewery",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197424,
   "lat": 38.989003,
-  "nm": "Box Office Brewery"
+  "name": "Box Office Brewery"
 }, {
-  "a": "800 North Main Street, Harrisonburg",
+  "address": "800 North Main Street, Harrisonburg",
   "b": 0,
   "c": "F",
   "s": "800 North Main Street",
@@ -1388,22 +1388,22 @@
   "cty": "US",
   "id": 134282911,
   "lat": 38.457613,
-  "nm": "Brothers Craft Brewing"
+  "name": "Brothers Craft Brewing"
 }, {
-  "a": "1128 Hull Street, Richmond",
+  "address": "1128 Hull Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "1128 Hull Street",
   "lng": -77.443836,
   "city": "Richmond",
   "ov": "Manastoh Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 172040883,
   "lat": 37.520845,
-  "nm": "Manastoh Brewing"
+  "name": "Manastoh Brewing"
 }, {
-  "a": "2709 South Oakland Street, Arlington",
+  "address": "2709 South Oakland Street, Arlington",
   "b": 0,
   "c": "F",
   "s": "2709 South Oakland Street",
@@ -1414,9 +1414,9 @@
   "cty": "US",
   "id": 134285371,
   "lat": 38.843653,
-  "nm": "New District Brewing Company"
+  "name": "New District Brewing Company"
 }, {
-  "a": "332 Webbs Mill Road North, Floyd",
+  "address": "332 Webbs Mill Road North, Floyd",
   "b": 0,
   "c": "F",
   "s": "332 Webbs Mill Road North",
@@ -1427,9 +1427,9 @@
   "cty": "US",
   "id": 146003690,
   "lat": 36.921246,
-  "nm": "Buffalo Mountain Brewery"
+  "name": "Buffalo Mountain Brewery"
 }, {
-  "a": "9269 Redemption Way, Midland",
+  "address": "9269 Redemption Way, Midland",
   "b": 0,
   "c": "F",
   "s": "9269 Redemption Way",
@@ -1440,9 +1440,9 @@
   "cty": "US",
   "id": 135073377,
   "lat": 38.65331,
-  "nm": "Powers Farm & Brewery"
+  "name": "Powers Farm & Brewery"
 }, {
-  "a": "6118 Lakeside Avenue, Henrico",
+  "address": "6118 Lakeside Avenue, Henrico",
   "b": 0,
   "c": "F",
   "s": "6118 Lakeside Avenue",
@@ -1453,9 +1453,9 @@
   "cty": "US",
   "id": 134283650,
   "lat": 37.615196,
-  "nm": "Final Gravity Brewing Co"
+  "name": "Final Gravity Brewing Co"
 }, {
-  "a": "12425 Dillingham Square, Lake Ridge",
+  "address": "12425 Dillingham Square, Lake Ridge",
   "b": 0,
   "c": "F",
   "s": "12425 Dillingham Square",
@@ -1466,9 +1466,9 @@
   "cty": "US",
   "id": 135086065,
   "lat": 38.684363,
-  "nm": "Water's End Brewery"
+  "name": "Water's End Brewery"
 }, {
-  "a": "608 Preston Ave Ste A, Charlottesville",
+  "address": "608 Preston Ave Ste A, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "608 Preston Ave Ste A",
@@ -1479,9 +1479,9 @@
   "cty": "US",
   "id": 135073729,
   "lat": 38.03502,
-  "nm": "Random Row Brewing Company"
+  "name": "Random Row Brewing Company"
 }, {
-  "a": "1 High Street, Portsmouth",
+  "address": "1 High Street, Portsmouth",
   "b": 0,
   "c": "F",
   "s": "1 High Street",
@@ -1492,9 +1492,9 @@
   "cty": "US",
   "id": 153421913,
   "lat": 36.834847,
-  "nm": "Legend Brewing Depot"
+  "name": "Legend Brewing Depot"
 }, {
-  "a": "700 Thimble Shoals Boulevard, Newport News",
+  "address": "700 Thimble Shoals Boulevard, Newport News",
   "b": 0,
   "c": "F",
   "s": "700 Thimble Shoals Boulevard",
@@ -1505,22 +1505,22 @@
   "cty": "US",
   "id": 135086021,
   "lat": 37.084591,
-  "nm": "Tradition Brewing Company"
+  "name": "Tradition Brewing Company"
 }, {
-  "a": "2036 Exploration Way, Hampton",
+  "address": "2036 Exploration Way, Hampton",
   "b": 0,
   "c": "F",
   "s": "2036 Exploration Way",
   "lng": -76.402589,
   "city": "Hampton",
   "ov": "Capstan Bar Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 145929108,
   "lat": 37.08315,
-  "nm": "Capstan Bar Brewing Company"
+  "name": "Capstan Bar Brewing Company"
 }, {
-  "a": "40 Brewery Drive, Hardy, VA",
+  "address": "40 Brewery Drive, Hardy, VA",
   "b": 0,
   "c": "F",
   "s": "40 Brewery Drive",
@@ -1531,9 +1531,9 @@
   "cty": "US",
   "id": 135079245,
   "lat": 37.118545,
-  "nm": "Sunken City Brewing Co"
+  "name": "Sunken City Brewing Co"
 }, {
-  "a": "50 North Wind Lane, Lexington",
+  "address": "50 North Wind Lane, Lexington",
   "b": 0,
   "c": "F",
   "s": "50 North Wind Lane",
@@ -1544,9 +1544,9 @@
   "cty": "US",
   "id": 134283588,
   "lat": 37.81389,
-  "nm": "Devils Backbone Brewing Co"
+  "name": "Devils Backbone Brewing Co"
 }, {
-  "a": "760 West 22nd Street, Norfolk",
+  "address": "760 West 22nd Street, Norfolk",
   "b": 0,
   "c": "F",
   "s": "760 West 22nd Street",
@@ -1557,22 +1557,22 @@
   "cty": "US",
   "id": 134283454,
   "lat": 36.871772,
-  "nm": "Coelacanth Brewing Co"
+  "name": "Coelacanth Brewing Co"
 }, {
-  "a": "704 Dawn Street, Richmond",
+  "address": "704 Dawn Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "704 Dawn Street",
   "lng": -77.441413,
   "city": "Richmond",
   "ov": "Tabol Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 161818411,
   "lat": 37.562324,
-  "nm": "Tabol Brewing"
+  "name": "Tabol Brewing"
 }, {
-  "a": "142 West Commercial Street, Winchester",
+  "address": "142 West Commercial Street, Winchester",
   "b": 0,
   "c": "F",
   "s": "142 West Commercial Street",
@@ -1583,22 +1583,22 @@
   "cty": "US",
   "id": 134283617,
   "lat": 39.195368,
-  "nm": "Escutcheon Brewing Co"
+  "name": "Escutcheon Brewing Co"
 }, {
-  "a": "Sanctuary Trail Drive, Henrico",
+  "address": "Sanctuary Trail Drive, Henrico",
   "b": 0,
   "c": "F",
   "s": "Sanctuary Trail Drive",
   "lng": -77.652039,
   "city": "Henrico",
   "ov": "Hardywood Park Craft Brewery: West Creek",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 168315753,
   "lat": 37.614126,
-  "nm": "Hardywood Park Craft Brewery: West Creek"
+  "name": "Hardywood Park Craft Brewery: West Creek"
 }, {
-  "a": "50 Catoctin Circle Northeast #100, Leesburg",
+  "address": "50 Catoctin Circle Northeast #100, Leesburg",
   "b": 0,
   "c": "F",
   "s": "50 Catoctin Circle Northeast #100",
@@ -1609,9 +1609,9 @@
   "cty": "US",
   "id": 134283606,
   "lat": 39.112644,
-  "nm": "Dog Money Restaurant & Brewery"
+  "name": "Dog Money Restaurant & Brewery"
 }, {
-  "a": "1300 North Fillmore Street, Arlington",
+  "address": "1300 North Fillmore Street, Arlington",
   "b": 0,
   "c": "F",
   "s": "1300 North Fillmore Street",
@@ -1622,9 +1622,9 @@
   "cty": "US",
   "id": 146273389,
   "lat": 38.887915,
-  "nm": "Heritage Brewing Co. Market Common Brewpub & Roastery"
+  "name": "Heritage Brewing Co. Market Common Brewpub & Roastery"
 }, {
-  "a": "Great Valley Lane, Natural Bridge",
+  "address": "Great Valley Lane, Natural Bridge",
   "b": 0,
   "c": "F",
   "s": "Great Valley Lane",
@@ -1635,9 +1635,9 @@
   "cty": "US",
   "id": 134283942,
   "lat": 37.680817,
-  "nm": "Great Valley Farm Brewery"
+  "name": "Great Valley Farm Brewery"
 }, {
-  "a": "409 Salem Avenue Southwest, Roanoke",
+  "address": "409 Salem Avenue Southwest, Roanoke",
   "b": 0,
   "c": "F",
   "s": "409 Salem Avenue Southwest",
@@ -1648,22 +1648,22 @@
   "cty": "US",
   "id": 146273587,
   "lat": 37.272376,
-  "nm": "Big Lick Brewing Company - West Station"
+  "name": "Big Lick Brewing Company - West Station"
 }, {
-  "a": "Beech Grove Road, Roseland",
+  "address": "Beech Grove Road, Roseland",
   "b": 0,
   "c": "F",
   "s": "Beech Grove Road",
   "lng": -78.953271,
   "city": "Roseland",
   "ov": "Bitter Pils Brewery",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 172040991,
   "lat": 37.879023,
-  "nm": "Bitter Pils Brewery"
+  "name": "Bitter Pils Brewery"
 }, {
-  "a": "11 South King Street, Leesburg",
+  "address": "11 South King Street, Leesburg",
   "b": 0,
   "c": "F",
   "s": "11 South King Street",
@@ -1674,9 +1674,9 @@
   "cty": "US",
   "id": 142924228,
   "lat": 39.115045,
-  "nm": "Black Hoof Brewing Co"
+  "name": "Black Hoof Brewing Co"
 }, {
-  "a": "2054 Jamestown Road, Williamsburg",
+  "address": "2054 Jamestown Road, Williamsburg",
   "b": 0,
   "c": "F",
   "s": "2054 Jamestown Road",
@@ -1687,9 +1687,9 @@
   "cty": "US",
   "id": 153197148,
   "lat": 37.226859,
-  "nm": "Billsburg Brewery"
+  "name": "Billsburg Brewery"
 }, {
-  "a": "185 Homeplace Drive, Gate City",
+  "address": "185 Homeplace Drive, Gate City",
   "b": 0,
   "c": "F",
   "s": "185 Homeplace Drive",
@@ -1700,9 +1700,9 @@
   "cty": "US",
   "id": 134282957,
   "lat": 36.626663,
-  "nm": "Busted Still Brewery"
+  "name": "Busted Still Brewery"
 }, {
-  "a": "9406 Battle Street, Manassas",
+  "address": "9406 Battle Street, Manassas",
   "b": 0,
   "c": "F",
   "s": "9406 Battle Street",
@@ -1713,22 +1713,22 @@
   "cty": "US",
   "id": 144255210,
   "lat": 38.751338,
-  "nm": "BadWolf Public House"
+  "name": "BadWolf Public House"
 }, {
-  "a": "5104 Colley Avenue, Norfolk",
+  "address": "5104 Colley Avenue, Norfolk",
   "b": 0,
   "c": "F",
   "s": "5104 Colley Avenue",
   "lng": -76.294779,
   "city": "Norfolk",
   "ov": "Elation Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 168873833,
   "lat": 36.889623,
-  "nm": "Elation Brewing"
+  "name": "Elation Brewing"
 }, {
-  "a": "307 Meadow Street, Galax",
+  "address": "307 Meadow Street, Galax",
   "b": 0,
   "c": "F",
   "s": "307 Meadow Street",
@@ -1739,9 +1739,9 @@
   "cty": "US",
   "id": 134283502,
   "lat": 36.656617,
-  "nm": "Creek Bottom Brewing LLC"
+  "name": "Creek Bottom Brewing LLC"
 }, {
-  "a": "41 Beckham Street, Warrenton",
+  "address": "41 Beckham Street, Warrenton",
   "b": 0,
   "c": "F",
   "s": "41 Beckham Street",
@@ -1752,9 +1752,9 @@
   "cty": "US",
   "id": 135086155,
   "lat": 38.711983,
-  "nm": "Wort Hog Brewing Co"
+  "name": "Wort Hog Brewing Co"
 }, {
-  "a": "7223 Centreville Road, Manassas",
+  "address": "7223 Centreville Road, Manassas",
   "b": 0,
   "c": "F",
   "s": "7223 Centreville Road",
@@ -1765,9 +1765,9 @@
   "cty": "US",
   "id": 174185290,
   "lat": 38.798894,
-  "nm": "Eavesdrop Brewery"
+  "name": "Eavesdrop Brewery"
 }, {
-  "a": "1010 East Main Street, Waynesboro",
+  "address": "1010 East Main Street, Waynesboro",
   "b": 0,
   "c": "F",
   "s": "1010 East Main Street",
@@ -1778,9 +1778,9 @@
   "cty": "US",
   "id": 134282514,
   "lat": 38.062807,
-  "nm": "Basic City Beer Co"
+  "name": "Basic City Beer Co"
 }, {
-  "a": "1419 Princess Anne Street, Fredericksburg",
+  "address": "1419 Princess Anne Street, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "1419 Princess Anne Street",
@@ -1791,9 +1791,9 @@
   "cty": "US",
   "id": 135073748,
   "lat": 38.307925,
-  "nm": "Red Dragon Brewery"
+  "name": "Red Dragon Brewery"
 }, {
-  "a": "14389 Potomac Mills Road, Woodbridge",
+  "address": "14389 Potomac Mills Road, Woodbridge",
   "b": 0,
   "c": "F",
   "s": "14389 Potomac Mills Road",
@@ -1804,9 +1804,9 @@
   "cty": "US",
   "id": 134285531,
   "lat": 38.636487,
-  "nm": "Ornery Beer Co"
+  "name": "Ornery Beer Co"
 }, {
-  "a": "22620 Davis Drive #110, Sterling",
+  "address": "22620 Davis Drive #110, Sterling",
   "b": 0,
   "c": "F",
   "s": "22620 Davis Drive #110",
@@ -1817,9 +1817,9 @@
   "cty": "US",
   "id": 134282694,
   "lat": 38.992233,
-  "nm": "Beltway Brewing Co"
+  "name": "Beltway Brewing Co"
 }, {
-  "a": "2410 Granite Ridge Road, Rockville",
+  "address": "2410 Granite Ridge Road, Rockville",
   "b": 0,
   "c": "F",
   "s": "2410 Granite Ridge Road",
@@ -1830,9 +1830,9 @@
   "cty": "US",
   "id": 134285214,
   "lat": 37.698371,
-  "nm": "Midnight Brewery LLC"
+  "name": "Midnight Brewery LLC"
 }, {
-  "a": "70 Main Street, Boones Mill",
+  "address": "70 Main Street, Boones Mill",
   "b": 0,
   "c": "F",
   "s": "70 Main Street",
@@ -1843,35 +1843,35 @@
   "cty": "US",
   "id": 134284005,
   "lat": 37.114967,
-  "nm": "Hammer & Forge Brewing Company"
+  "name": "Hammer & Forge Brewing Company"
 }, {
-  "a": "9278 Rockfish Valley Highway, Afton",
+  "address": "9278 Rockfish Valley Highway, Afton",
   "b": 0,
   "c": "F",
   "s": "9278 Rockfish Valley Highway",
   "lng": -78.833428,
   "city": "Afton",
   "ov": "Brewing Tree Beer Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 172040956,
   "lat": 37.96719,
-  "nm": "Brewing Tree Beer Company"
+  "name": "Brewing Tree Beer Company"
 }, {
-  "a": "130 East Main Street, Purcellville",
+  "address": "130 East Main Street, Purcellville",
   "b": 0,
   "c": "F",
   "s": "130 East Main Street",
   "lng": -77.71357,
   "city": "Purcellville",
   "ov": "Dragon Hops Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197307,
   "lat": 39.136326,
-  "nm": "Dragon Hops Brewing"
+  "name": "Dragon Hops Brewing"
 }, {
-  "a": "14051 Crown Court, Dale City",
+  "address": "14051 Crown Court, Dale City",
   "b": 0,
   "c": "F",
   "s": "14051 Crown Court",
@@ -1882,9 +1882,9 @@
   "cty": "US",
   "id": 134283995,
   "lat": 38.650268,
-  "nm": "Growling Bear Brewing Company"
+  "name": "Growling Bear Brewing Company"
 }, {
-  "a": "21 East Main Street, Salem",
+  "address": "21 East Main Street, Salem",
   "b": 0,
   "c": "F",
   "s": "21 East Main Street",
@@ -1895,9 +1895,9 @@
   "cty": "US",
   "id": 144173486,
   "lat": 37.293101,
-  "nm": "Olde Salem Brewing Company"
+  "name": "Olde Salem Brewing Company"
 }, {
-  "a": "165 Old Ridge Road, Lovingston",
+  "address": "165 Old Ridge Road, Lovingston",
   "b": 0,
   "c": "F",
   "s": "165 Old Ridge Road",
@@ -1908,9 +1908,9 @@
   "cty": "US",
   "id": 135086141,
   "lat": 37.829458,
-  "nm": "Wood Ridge Farm Brewery"
+  "name": "Wood Ridge Farm Brewery"
 }, {
-  "a": "3 Shuttle Court, Hampton",
+  "address": "3 Shuttle Court, Hampton",
   "b": 0,
   "c": "F",
   "s": "3 Shuttle Court",
@@ -1921,9 +1921,9 @@
   "cty": "US",
   "id": 167073119,
   "lat": 37.101076,
-  "nm": "The Original Larry's Hard Lemonade Brewing Co"
+  "name": "The Original Larry's Hard Lemonade Brewing Co"
 }, {
-  "a": "1301 Roseneath Road, Richmond",
+  "address": "1301 Roseneath Road, Richmond",
   "b": 0,
   "c": "F",
   "s": "1301 Roseneath Road",
@@ -1934,9 +1934,9 @@
   "cty": "US",
   "id": 135085965,
   "lat": 37.568415,
-  "nm": "The Veil Brewing Company"
+  "name": "The Veil Brewing Company"
 }, {
-  "a": "211 West 24th Street, Norfolk",
+  "address": "211 West 24th Street, Norfolk",
   "b": 0,
   "c": "F",
   "s": "211 West 24th Street",
@@ -1947,9 +1947,9 @@
   "cty": "US",
   "id": 134285402,
   "lat": 36.869855,
-  "nm": "O'Connor Brewing Company"
+  "name": "O'Connor Brewing Company"
 }, {
-  "a": "5770 Dow Avenue, Alexandria",
+  "address": "5770 Dow Avenue, Alexandria",
   "b": 0,
   "c": "F",
   "s": "5770 Dow Avenue",
@@ -1960,9 +1960,9 @@
   "cty": "US",
   "id": 135073346,
   "lat": 38.804502,
-  "nm": "Portner Brewhouse"
+  "name": "Portner Brewhouse"
 }, {
-  "a": "801 State Street, Bristol",
+  "address": "801 State Street, Bristol",
   "b": 0,
   "c": "F",
   "s": "801 State Street",
@@ -1973,9 +1973,9 @@
   "cty": "US",
   "id": 153197270,
   "lat": 36.595195,
-  "nm": "State Street Brewing"
+  "name": "State Street Brewing"
 }, {
-  "a": "101 Loudoun Street Southeast, Leesburg",
+  "address": "101 Loudoun Street Southeast, Leesburg",
   "b": 0,
   "c": "F",
   "s": "101 Loudoun Street Southeast",
@@ -1986,9 +1986,9 @@
   "cty": "US",
   "id": 145928894,
   "lat": 39.113652,
-  "nm": "Bike TrAle Brewing"
+  "name": "Bike TrAle Brewing"
 }, {
-  "a": "9776 Center Street, Manassas",
+  "address": "9776 Center Street, Manassas",
   "b": 0,
   "c": "F",
   "s": "9776 Center Street",
@@ -1999,9 +1999,9 @@
   "cty": "US",
   "id": 134282469,
   "lat": 38.753524,
-  "nm": "BadWolf Phunk Haus"
+  "name": "BadWolf Phunk Haus"
 }, {
-  "a": "350 Lansdowne Road, Fredericksburg",
+  "address": "350 Lansdowne Road, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "350 Lansdowne Road",
@@ -2012,9 +2012,9 @@
   "cty": "US",
   "id": 145304796,
   "lat": 38.272998,
-  "nm": "Strangeways Brewing"
+  "name": "Strangeways Brewing"
 }, {
-  "a": "7000 Newington Road, Lorton",
+  "address": "7000 Newington Road, Lorton",
   "b": 0,
   "c": "F",
   "s": "7000 Newington Road",
@@ -2025,9 +2025,9 @@
   "cty": "US",
   "id": 134283634,
   "lat": 38.739105,
-  "nm": "Fair Winds Brewing Company"
+  "name": "Fair Winds Brewing Company"
 }, {
-  "a": "106 South Street East, Charlottesville",
+  "address": "106 South Street East, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "106 South Street East",
@@ -2038,9 +2038,9 @@
   "cty": "US",
   "id": 135073850,
   "lat": 38.029424,
-  "nm": "South Street Brewery"
+  "name": "South Street Brewery"
 }, {
-  "a": "Brambleton Plaza, Brambleton",
+  "address": "Brambleton Plaza, Brambleton",
   "b": 0,
   "c": "F",
   "s": "Brambleton Plaza",
@@ -2051,9 +2051,9 @@
   "cty": "US",
   "id": 134285143,
   "lat": 38.984219,
-  "nm": "Lost Rhino Retreat"
+  "name": "Lost Rhino Retreat"
 }, {
-  "a": "5391 Three Notched Road, Crozet",
+  "address": "5391 Three Notched Road, Crozet",
   "b": 0,
   "c": "F",
   "s": "5391 Three Notched Road",
@@ -2064,9 +2064,9 @@
   "cty": "US",
   "id": 135073864,
   "lat": 38.06921,
-  "nm": "Starr Hill Brewery"
+  "name": "Starr Hill Brewery"
 }, {
-  "a": "521 Prince George Street, Williamsburg",
+  "address": "521 Prince George Street, Williamsburg",
   "b": 0,
   "c": "F",
   "s": "521 Prince George Street",
@@ -2077,9 +2077,9 @@
   "cty": "US",
   "id": 146003451,
   "lat": 37.272864,
-  "nm": "Amber Ox Kitchen & Brewery"
+  "name": "Amber Ox Kitchen & Brewery"
 }, {
-  "a": "18043 Jefferson Davis Highway, Ruther Glen",
+  "address": "18043 Jefferson Davis Highway, Ruther Glen",
   "b": 0,
   "c": "F",
   "s": "18043 Jefferson Davis Highway",
@@ -2090,9 +2090,9 @@
   "cty": "US",
   "id": 135073812,
   "lat": 38.018387,
-  "nm": "Rusty Beaver Brewery"
+  "name": "Rusty Beaver Brewery"
 }, {
-  "a": "400 East Ridgeway Street, Clifton Forge",
+  "address": "400 East Ridgeway Street, Clifton Forge",
   "b": 0,
   "c": "F",
   "s": "400 East Ridgeway Street",
@@ -2103,9 +2103,9 @@
   "cty": "US",
   "id": 167058464,
   "lat": 37.815209,
-  "nm": "Jack Mason's Tavern"
+  "name": "Jack Mason's Tavern"
 }, {
-  "a": "201 Waters Place #102, Culpeper",
+  "address": "201 Waters Place #102, Culpeper",
   "b": 0,
   "c": "F",
   "s": "201 Waters Place #102",
@@ -2116,22 +2116,22 @@
   "cty": "US",
   "id": 134282549,
   "lat": 38.471932,
-  "nm": "Beer Hound Brewery"
+  "name": "Beer Hound Brewery"
 }, {
-  "a": "504 North King Street, Hampton",
+  "address": "504 North King Street, Hampton",
   "b": 0,
   "c": "F",
   "s": "504 North King Street",
   "lng": -76.345383,
   "city": "Hampton",
   "ov": "Caiseal Beer & Spirits Co",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197197,
   "lat": 37.031283,
-  "nm": "Caiseal Beer & Spirits Co"
+  "name": "Caiseal Beer & Spirits Co"
 }, {
-  "a": "3135 Dillons Mill Road, Callaway",
+  "address": "3135 Dillons Mill Road, Callaway",
   "b": 0,
   "c": "F",
   "s": "3135 Dillons Mill Road",
@@ -2142,9 +2142,9 @@
   "cty": "US",
   "id": 134283439,
   "lat": 37.095883,
-  "nm": "Chaos Mountain Brewing"
+  "name": "Chaos Mountain Brewing"
 }, {
-  "a": "4300 Williamsburg Avenue, Richmond",
+  "address": "4300 Williamsburg Avenue, Richmond",
   "b": 0,
   "c": "F",
   "s": "4300 Williamsburg Avenue",
@@ -2155,9 +2155,9 @@
   "cty": "US",
   "id": 135073881,
   "lat": 37.521272,
-  "nm": "Stone Brewing Richmond"
+  "name": "Stone Brewing Richmond"
 }, {
-  "a": "135 Salem Avenue Southwest #100, Roanoke",
+  "address": "135 Salem Avenue Southwest #100, Roanoke",
   "b": 0,
   "c": "F",
   "s": "135 Salem Avenue Southwest #100",
@@ -2168,22 +2168,22 @@
   "cty": "US",
   "id": 134282730,
   "lat": 37.272669,
-  "nm": "Big Lick Brewing Company LLC"
+  "name": "Big Lick Brewing Company LLC"
 }, {
-  "a": "North Carolina Road, Manquin",
+  "address": "North Carolina Road, Manquin",
   "b": 0,
   "c": "F",
   "s": "North Carolina Road",
   "lng": -77.173623,
   "city": "Manquin",
   "ov": "Dragon Run Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 150221193,
   "lat": 37.681617,
-  "nm": "Dragon Run Brewing"
+  "name": "Dragon Run Brewing"
 }, {
-  "a": "301 South East Street, Culpeper",
+  "address": "301 South East Street, Culpeper",
   "b": 0,
   "c": "F",
   "s": "301 South East Street",
@@ -2194,9 +2194,9 @@
   "cty": "US",
   "id": 134283640,
   "lat": 38.471636,
-  "nm": "Far Gohn Brewing Co"
+  "name": "Far Gohn Brewing Co"
 }, {
-  "a": "495 Cooperative Way, Arrington",
+  "address": "495 Cooperative Way, Arrington",
   "b": 0,
   "c": "F",
   "s": "495 Cooperative Way",
@@ -2207,9 +2207,9 @@
   "cty": "US",
   "id": 134282822,
   "lat": 37.710405,
-  "nm": "Blue Mountain Barrel House"
+  "name": "Blue Mountain Barrel House"
 }, {
-  "a": "401 2nd Street, Williamsburg",
+  "address": "401 2nd Street, Williamsburg",
   "b": 0,
   "c": "F",
   "s": "401 2nd Street",
@@ -2220,9 +2220,9 @@
   "cty": "US",
   "id": 135085980,
   "lat": 37.27215,
-  "nm": "The Virginia Beer Company"
+  "name": "The Virginia Beer Company"
 }, {
-  "a": "510 Grove Street, Bedford",
+  "address": "510 Grove Street, Bedford",
   "b": 0,
   "c": "F",
   "s": "510 Grove Street",
@@ -2233,9 +2233,9 @@
   "cty": "US",
   "id": 144173869,
   "lat": 37.335615,
-  "nm": "Beale's Brewery & BBQ"
+  "name": "Beale's Brewery & BBQ"
 }, {
-  "a": "3228 Academy Avenue, Portsmouth",
+  "address": "3228 Academy Avenue, Portsmouth",
   "b": 0,
   "c": "F",
   "s": "3228 Academy Avenue",
@@ -2246,9 +2246,9 @@
   "cty": "US",
   "id": 145929217,
   "lat": 36.862247,
-  "nm": "MoMac Brewing Company"
+  "name": "MoMac Brewing Company"
 }, {
-  "a": "390 Kings Highway #109, Fredericksburg",
+  "address": "390 Kings Highway #109, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "390 Kings Highway #109",
@@ -2259,9 +2259,9 @@
   "cty": "US",
   "id": 134284906,
   "lat": 38.287717,
-  "nm": "Highmark Brewing Company"
+  "name": "Highmark Brewing Company"
 }, {
-  "a": "120 South Lewis Street, Staunton",
+  "address": "120 South Lewis Street, Staunton",
   "b": 0,
   "c": "F",
   "s": "120 South Lewis Street",
@@ -2272,9 +2272,9 @@
   "cty": "US",
   "id": 135073753,
   "lat": 38.147601,
-  "nm": "Redbeard Brewing Company, LLC"
+  "name": "Redbeard Brewing Company, LLC"
 }, {
-  "a": "257 Sunset Park Drive, Herndon",
+  "address": "257 Sunset Park Drive, Herndon",
   "b": 0,
   "c": "F",
   "s": "257 Sunset Park Drive",
@@ -2285,35 +2285,35 @@
   "cty": "US",
   "id": 134281171,
   "lat": 38.95637,
-  "nm": "Aslin Beer Co"
+  "name": "Aslin Beer Co"
 }, {
-  "a": "2198 Stone Road, Cape Charles",
+  "address": "2198 Stone Road, Cape Charles",
   "b": 0,
   "c": "F",
   "s": "2198 Stone Road",
   "lng": -75.998016,
   "city": "Cape Charles",
   "ov": "Cape Charles Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 146004157,
   "lat": 37.269341,
-  "nm": "Cape Charles Brewing Company"
+  "name": "Cape Charles Brewing Company"
 }, {
-  "a": "110 East Fairfax Street, Falls Church",
+  "address": "110 East Fairfax Street, Falls Church",
   "b": 0,
   "c": "F",
   "s": "110 East Fairfax Street",
   "lng": -77.171842,
   "city": "Falls Church",
   "ov": "Audacious Aleworks",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 167048613,
   "lat": 38.88037,
-  "nm": "Audacious Aleworks"
+  "name": "Audacious Aleworks"
 }, {
-  "a": "198 Ambriar Plaza, Amherst",
+  "address": "198 Ambriar Plaza, Amherst",
   "b": 0,
   "c": "F",
   "s": "198 Ambriar Plaza",
@@ -2324,9 +2324,9 @@
   "cty": "US",
   "id": 134285135,
   "lat": 37.564986,
-  "nm": "Loose Shoe Brewing Company LLC"
+  "name": "Loose Shoe Brewing Company LLC"
 }, {
-  "a": "5203 Hatcher Street, Richmond",
+  "address": "5203 Hatcher Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "5203 Hatcher Street",
@@ -2337,9 +2337,9 @@
   "cty": "US",
   "id": 135086031,
   "lat": 37.512586,
-  "nm": "Triple Crossing Brewing - Fulton"
+  "name": "Triple Crossing Brewing - Fulton"
 }, {
-  "a": "1715 Summit Avenue, Richmond",
+  "address": "1715 Summit Avenue, Richmond",
   "b": 0,
   "c": "F",
   "s": "1715 Summit Avenue",
@@ -2350,22 +2350,22 @@
   "cty": "US",
   "id": 134284936,
   "lat": 37.568909,
-  "nm": "Isley Brewing Company"
+  "name": "Isley Brewing Company"
 }, {
-  "a": "1209 Hull Street, Richmond",
+  "address": "1209 Hull Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "1209 Hull Street",
   "lng": -77.444592,
   "city": "Richmond",
   "ov": "Dogtown Brewing Co.",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 166494008,
   "lat": 37.521086,
-  "nm": "Dogtown Brewing Co."
+  "name": "Dogtown Brewing Co."
 }, {
-  "a": "21730 Red Rum Drive #142, Ashburn",
+  "address": "21730 Red Rum Drive #142, Ashburn",
   "b": 0,
   "c": "F",
   "s": "21730 Red Rum Drive #142",
@@ -2376,9 +2376,9 @@
   "cty": "US",
   "id": 134285160,
   "lat": 39.016129,
-  "nm": "Lost Rhino Brewing Company (MA Hagerman Brewing Co.)"
+  "name": "Lost Rhino Brewing Company (MA Hagerman Brewing Co.)"
 }, {
-  "a": "205 Harrison Street Southeast, Leesburg",
+  "address": "205 Harrison Street Southeast, Leesburg",
   "b": 0,
   "c": "F",
   "s": "205 Harrison Street Southeast",
@@ -2389,22 +2389,22 @@
   "cty": "US",
   "id": 134283524,
   "lat": 39.112355,
-  "nm": "Crooked Run Brewing LLC"
+  "name": "Crooked Run Brewing LLC"
 }, {
-  "a": "1040 Owensville Road, Charlottesville",
+  "address": "1040 Owensville Road, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "1040 Owensville Road",
   "lng": -78.59488,
   "city": "Charlottesville",
   "ov": "Meriwether Springs Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 134285207,
   "lat": 38.066825,
-  "nm": "Meriwether Springs Brewing Company"
+  "name": "Meriwether Springs Brewing Company"
 }, {
-  "a": "1571 Mount Calvary Road, Brookneal",
+  "address": "1571 Mount Calvary Road, Brookneal",
   "b": 0,
   "c": "F",
   "s": "1571 Mount Calvary Road",
@@ -2415,9 +2415,9 @@
   "cty": "US",
   "id": 135073869,
   "lat": 37.060314,
-  "nm": "Staunton River Brewing Company"
+  "name": "Staunton River Brewing Company"
 }, {
-  "a": "2444 Pleasure House Road, Virginia Beach",
+  "address": "2444 Pleasure House Road, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "2444 Pleasure House Road",
@@ -2428,9 +2428,9 @@
   "cty": "US",
   "id": 134283465,
   "lat": 36.913509,
-  "nm": "Commonwealth Brewing Co"
+  "name": "Commonwealth Brewing Co"
 }, {
-  "a": "108 North 21st Street, Purcellville",
+  "address": "108 North 21st Street, Purcellville",
   "b": 0,
   "c": "F",
   "s": "108 North 21st Street",
@@ -2441,9 +2441,9 @@
   "cty": "US",
   "id": 134284956,
   "lat": 39.137042,
-  "nm": "Jack's Run Brewing Company"
+  "name": "Jack's Run Brewing Company"
 }, {
-  "a": "320 North Cameron Street, Winchester",
+  "address": "320 North Cameron Street, Winchester",
   "b": 0,
   "c": "F",
   "s": "320 North Cameron Street",
@@ -2454,9 +2454,9 @@
   "cty": "US",
   "id": 135086122,
   "lat": 39.186963,
-  "nm": "Winchester Brew Works"
+  "name": "Winchester Brew Works"
 }, {
-  "a": "614 Norfolk Avenue, Virginia Beach",
+  "address": "614 Norfolk Avenue, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "614 Norfolk Avenue",
@@ -2467,9 +2467,9 @@
   "cty": "US",
   "id": 134281443,
   "lat": 36.837449,
-  "nm": "Back Bay Brewing"
+  "name": "Back Bay Brewing"
 }, {
-  "a": "4035 Electric Road #b, Roanoke",
+  "address": "4035 Electric Road #b, Roanoke",
   "b": 0,
   "c": "F",
   "s": "4035 Electric Road #b",
@@ -2480,9 +2480,9 @@
   "cty": "US",
   "id": 134282495,
   "lat": 37.223579,
-  "nm": "Barrel Chest Wine and Beer"
+  "name": "Barrel Chest Wine and Beer"
 }, {
-  "a": "1626 Ownby Lane, Richmond",
+  "address": "1626 Ownby Lane, Richmond",
   "b": 0,
   "c": "F",
   "s": "1626 Ownby Lane",
@@ -2493,9 +2493,9 @@
   "cty": "US",
   "id": 134283106,
   "lat": 37.563939,
-  "nm": "Castleburg Brewery LLC"
+  "name": "Castleburg Brewery LLC"
 }, {
-  "a": "15670 Ashbury Church Road, Purcellville",
+  "address": "15670 Ashbury Church Road, Purcellville",
   "b": 0,
   "c": "F",
   "s": "15670 Ashbury Church Road",
@@ -2506,9 +2506,9 @@
   "cty": "US",
   "id": 134285477,
   "lat": 39.183927,
-  "nm": "Old 690 Brewing Company"
+  "name": "Old 690 Brewing Company"
 }, {
-  "a": "834 Springhill Road, Staunton",
+  "address": "834 Springhill Road, Staunton",
   "b": 0,
   "c": "F",
   "s": "834 Springhill Road",
@@ -2519,9 +2519,9 @@
   "cty": "US",
   "id": 135073724,
   "lat": 38.161636,
-  "nm": "Queen City Brewing Ltd"
+  "name": "Queen City Brewing Ltd"
 }, {
-  "a": "103 West Beverley Street, Staunton",
+  "address": "103 West Beverley Street, Staunton",
   "b": 0,
   "c": "F",
   "s": "103 West Beverley Street",
@@ -2532,9 +2532,9 @@
   "cty": "US",
   "id": 139440836,
   "lat": 38.149599,
-  "nm": "Shenandoah Valley Brewing Company"
+  "name": "Shenandoah Valley Brewing Company"
 }, {
-  "a": "318 West Main Street, Tazewell",
+  "address": "318 West Main Street, Tazewell",
   "b": 0,
   "c": "F",
   "s": "318 West Main Street",
@@ -2545,22 +2545,22 @@
   "cty": "US",
   "id": 153197263,
   "lat": 37.113463,
-  "nm": "Painted Peak Brewing Co"
+  "name": "Painted Peak Brewing Co"
 }, {
-  "a": "1519 Stuarts Draft Highway, Stuarts Draft",
+  "address": "1519 Stuarts Draft Highway, Stuarts Draft",
   "b": 0,
   "c": "F",
   "s": "1519 Stuarts Draft Highway",
   "lng": -79.082746,
   "city": "Stuarts Draft",
   "ov": "Blazing Barrel Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197414,
   "lat": 38.041094,
-  "nm": "Blazing Barrel Brewing Company"
+  "name": "Blazing Barrel Brewing Company"
 }, {
-  "a": "235 North Market Street, Petersburg",
+  "address": "235 North Market Street, Petersburg",
   "b": 0,
   "c": "F",
   "s": "235 North Market Street",
@@ -2571,9 +2571,9 @@
   "cty": "US",
   "id": 134279874,
   "lat": 37.230916,
-  "nm": "Ammo Brewing"
+  "name": "Ammo Brewing"
 }, {
-  "a": "2930 West Broad Street, Richmond",
+  "address": "2930 West Broad Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "2930 West Broad Street",
@@ -2584,22 +2584,22 @@
   "cty": "US",
   "id": 135085989,
   "lat": 37.56435,
-  "nm": "Three Notchd Brewing Co"
+  "name": "Three Notchd Brewing Co"
 }, {
-  "a": "Branch Road, Scottsville",
+  "address": "Branch Road, Scottsville",
   "b": 0,
   "c": "F",
   "s": "Branch Road",
   "lng": -78.365055,
   "city": "Scottsville",
   "ov": "Antioch Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 139436413,
   "lat": 37.877613,
-  "nm": "Antioch Brewing Company"
+  "name": "Antioch Brewing Company"
 }, {
-  "a": "110 West Main Street, Orange",
+  "address": "110 West Main Street, Orange",
   "b": 0,
   "c": "F",
   "s": "110 West Main Street",
@@ -2610,22 +2610,22 @@
   "cty": "US",
   "id": 135086114,
   "lat": 38.244954,
-  "nm": "Willow Spring Brewery"
+  "name": "Willow Spring Brewery"
 }, {
-  "a": "895 West Main Street, Smithfield",
+  "address": "895 West Main Street, Smithfield",
   "b": 0,
   "c": "F",
   "s": "895 West Main Street",
   "lng": -76.651344,
   "city": "Smithfield",
   "ov": "757 Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 168875342,
   "lat": 36.972444,
-  "nm": "757 Brewing Company"
+  "name": "757 Brewing Company"
 }, {
-  "a": "444 West Broad Street #i, Falls Church",
+  "address": "444 West Broad Street #i, Falls Church",
   "b": 0,
   "c": "F",
   "s": "444 West Broad Street #i",
@@ -2636,9 +2636,9 @@
   "cty": "US",
   "id": 134285178,
   "lat": 38.886658,
-  "nm": "Mad Fox Brewing Company LLC"
+  "name": "Mad Fox Brewing Company LLC"
 }, {
-  "a": "2409 Bowdens Ferry Road, Norfolk",
+  "address": "2409 Bowdens Ferry Road, Norfolk",
   "b": 0,
   "c": "F",
   "s": "2409 Bowdens Ferry Road",
@@ -2649,9 +2649,9 @@
   "cty": "US",
   "id": 135085941,
   "lat": 36.876082,
-  "nm": "Bold Mariner Brewing Company"
+  "name": "Bold Mariner Brewing Company"
 }, {
-  "a": "113 South Foushee Street, Richmond",
+  "address": "113 South Foushee Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "113 South Foushee Street",
@@ -2662,9 +2662,9 @@
   "cty": "US",
   "id": 135086043,
   "lat": 37.541588,
-  "nm": "Triple Crossing Brewing Company"
+  "name": "Triple Crossing Brewing Company"
 }, {
-  "a": "9925 Discovery Blvd, Manassas",
+  "address": "9925 Discovery Blvd, Manassas",
   "b": 0,
   "c": "F",
   "s": "9925 Discovery Blvd",
@@ -2675,9 +2675,9 @@
   "cty": "US",
   "id": 139436247,
   "lat": 38.742414,
-  "nm": "2 Silos Brewing Co"
+  "name": "2 Silos Brewing Co"
 }, {
-  "a": "375 Madrid Road, Waynesboro",
+  "address": "375 Madrid Road, Waynesboro",
   "b": 0,
   "c": "F",
   "s": "375 Madrid Road",
@@ -2688,9 +2688,9 @@
   "cty": "US",
   "id": 135147478,
   "lat": 38.160019,
-  "nm": "Stable Craft Brewing"
+  "name": "Stable Craft Brewing"
 }, {
-  "a": "3445 West Cary Street, Richmond",
+  "address": "3445 West Cary Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "3445 West Cary Street",
@@ -2701,9 +2701,9 @@
   "cty": "US",
   "id": 134283748,
   "lat": 37.554798,
-  "nm": "Garden Grove Brewing Co"
+  "name": "Garden Grove Brewing Co"
 }, {
-  "a": "401 East Grace Street, Richmond",
+  "address": "401 East Grace Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "401 East Grace Street",
@@ -2714,9 +2714,9 @@
   "cty": "US",
   "id": 134283396,
   "lat": 37.542322,
-  "nm": "Champion Brewing Co"
+  "name": "Champion Brewing Co"
 }, {
-  "a": "328 Laskin Road, Virginia Beach",
+  "address": "328 Laskin Road, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "328 Laskin Road",
@@ -2727,9 +2727,9 @@
   "cty": "US",
   "id": 134284914,
   "lat": 36.859162,
-  "nm": "Home Republic"
+  "name": "Home Republic"
 }, {
-  "a": "106 George Street, Fredericksburg",
+  "address": "106 George Street, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "106 George Street",
@@ -2740,9 +2740,9 @@
   "cty": "US",
   "id": 135073854,
   "lat": 38.302698,
-  "nm": "Spencer Devon Brewing LLC"
+  "name": "Spencer Devon Brewing LLC"
 }, {
-  "a": "313 32nd Street, Virginia Beach",
+  "address": "313 32nd Street, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "313 32nd Street",
@@ -2753,9 +2753,9 @@
   "cty": "US",
   "id": 146003620,
   "lat": 36.860373,
-  "nm": "Smartmouth Brewing Co. - Virginia Beach"
+  "name": "Smartmouth Brewing Co. - Virginia Beach"
 }, {
-  "a": "423 3rd Street, Petersburg",
+  "address": "423 3rd Street, Petersburg",
   "b": 0,
   "c": "F",
   "s": "423 3rd Street",
@@ -2766,9 +2766,9 @@
   "cty": "US",
   "id": 135086023,
   "lat": 37.233363,
-  "nm": "Trapezium Brewing Co."
+  "name": "Trapezium Brewing Co."
 }, {
-  "a": "15201 Potomac Town Place #110, Woodbridge",
+  "address": "15201 Potomac Town Place #110, Woodbridge",
   "b": 0,
   "c": "F",
   "s": "15201 Potomac Town Place #110",
@@ -2779,9 +2779,9 @@
   "cty": "US",
   "id": 134282889,
   "lat": 38.627209,
-  "nm": "Brew Republic Bierwerks"
+  "name": "Brew Republic Bierwerks"
 }, {
-  "a": "6 Old Whitmore Avenue, Roanoke",
+  "address": "6 Old Whitmore Avenue, Roanoke",
   "b": 0,
   "c": "F",
   "s": "6 Old Whitmore Avenue",
@@ -2792,9 +2792,9 @@
   "cty": "US",
   "id": 144174227,
   "lat": 37.257002,
-  "nm": "Starr Hill Pilot Brewery & Side Stage"
+  "name": "Starr Hill Pilot Brewery & Side Stage"
 }, {
-  "a": "3200 West Leigh Street, Richmond",
+  "address": "3200 West Leigh Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "3200 West Leigh Street",
@@ -2805,9 +2805,9 @@
   "cty": "US",
   "id": 134281026,
   "lat": 37.568407,
-  "nm": "Ardent Craft Ales"
+  "name": "Ardent Craft Ales"
 }, {
-  "a": "3300 Dill Smith Drive #d, Fredericksburg",
+  "address": "3300 Dill Smith Drive #d, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "3300 Dill Smith Drive #d",
@@ -2818,9 +2818,9 @@
   "cty": "US",
   "id": 134279399,
   "lat": 38.279455,
-  "nm": "Adventure Brewing Company"
+  "name": "Adventure Brewing Company"
 }, {
-  "a": "123 East Court Street, Woodstock",
+  "address": "123 East Court Street, Woodstock",
   "b": 0,
   "c": "F",
   "s": "123 East Court Street",
@@ -2831,9 +2831,9 @@
   "cty": "US",
   "id": 135086148,
   "lat": 38.881654,
-  "nm": "Woodstock Brew House"
+  "name": "Woodstock Brew House"
 }, {
-  "a": "600 Craghead Street, Danville",
+  "address": "600 Craghead Street, Danville",
   "b": 0,
   "c": "F",
   "s": "600 Craghead Street",
@@ -2844,9 +2844,9 @@
   "cty": "US",
   "id": 142922539,
   "lat": 36.584925,
-  "nm": "Ballad Brewing"
+  "name": "Ballad Brewing"
 }, {
-  "a": "14 West Boscawen Street, Winchester",
+  "address": "14 West Boscawen Street, Winchester",
   "b": 0,
   "c": "F",
   "s": "14 West Boscawen Street",
@@ -2857,22 +2857,22 @@
   "cty": "US",
   "id": 146043627,
   "lat": 39.184196,
-  "nm": "Broken Window Brewing Co."
+  "name": "Broken Window Brewing Co."
 }, {
-  "a": "1443 Lakeside Circle, Salem",
+  "address": "1443 Lakeside Circle, Salem",
   "b": 0,
   "c": "F",
   "s": "1443 Lakeside Circle",
   "lng": -80.030318,
   "city": "Salem",
   "ov": "Ober Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 144010570,
   "lat": 37.304668,
-  "nm": "Ober Brewing Company"
+  "name": "Ober Brewing Company"
 }, {
-  "a": "2461 Rockfish Valley Highway, Nellysford",
+  "address": "2461 Rockfish Valley Highway, Nellysford",
   "b": 0,
   "c": "F",
   "s": "2461 Rockfish Valley Highway",
@@ -2883,9 +2883,9 @@
   "cty": "US",
   "id": 135086096,
   "lat": 37.887793,
-  "nm": "Wild Wolf Brewing Company"
+  "name": "Wild Wolf Brewing Company"
 }, {
-  "a": "16015 John Marshall Highway, Broad Run",
+  "address": "16015 John Marshall Highway, Broad Run",
   "b": 0,
   "c": "F",
   "s": "16015 John Marshall Highway",
@@ -2896,22 +2896,22 @@
   "cty": "US",
   "id": 139521276,
   "lat": 38.818371,
-  "nm": "The Farm Brewery at Broad Run"
+  "name": "The Farm Brewery at Broad Run"
 }, {
-  "a": "211 21st Street, Virginia Beach",
+  "address": "211 21st Street, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "211 21st Street",
   "lng": -75.976433,
   "city": "Virginia Beach",
   "ov": "The Bunker Brewpub",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 168873801,
   "lat": 36.849369,
-  "nm": "The Bunker Brewpub"
+  "name": "The Bunker Brewpub"
 }, {
-  "a": "312 West 3rd Street, Farmville",
+  "address": "312 West 3rd Street, Farmville",
   "b": 0,
   "c": "F",
   "s": "312 West 3rd Street",
@@ -2922,9 +2922,9 @@
   "cty": "US",
   "id": 144173081,
   "lat": 37.303974,
-  "nm": "Third Street Brewing"
+  "name": "Third Street Brewing"
 }, {
-  "a": "120 North Chestnut Street, Marion",
+  "address": "120 North Chestnut Street, Marion",
   "b": 0,
   "c": "F",
   "s": "120 North Chestnut Street",
@@ -2935,9 +2935,9 @@
   "cty": "US",
   "id": 153197248,
   "lat": 36.834288,
-  "nm": "Headspace Brewing Company LLC"
+  "name": "Headspace Brewing Company LLC"
 }, {
-  "a": "43271 Spinks Ferry Road, Leesburg",
+  "address": "43271 Spinks Ferry Road, Leesburg",
   "b": 0,
   "c": "F",
   "s": "43271 Spinks Ferry Road",
@@ -2948,9 +2948,9 @@
   "cty": "US",
   "id": 134282486,
   "lat": 39.204473,
-  "nm": "Barnhouse Brewery"
+  "name": "Barnhouse Brewery"
 }, {
-  "a": "758 Settlers Landing Road, Hampton",
+  "address": "758 Settlers Landing Road, Hampton",
   "b": 0,
   "c": "F",
   "s": "758 Settlers Landing Road",
@@ -2961,22 +2961,22 @@
   "cty": "US",
   "id": 134282943,
   "lat": 37.025113,
-  "nm": "Bull Island Brewing Co"
+  "name": "Bull Island Brewing Co"
 }, {
-  "a": "2918 Eskridge Road, Fairfax",
+  "address": "2918 Eskridge Road, Fairfax",
   "b": 0,
   "c": "F",
   "s": "2918 Eskridge Road",
   "lng": -77.232136,
   "city": "Fairfax",
   "ov": "Caboose Brewing - Second Location",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 145083328,
   "lat": 38.872549,
-  "nm": "Caboose Brewing - Second Location"
+  "name": "Caboose Brewing - Second Location"
 }, {
-  "a": "3623 Grove Lane, Delaplane",
+  "address": "3623 Grove Lane, Delaplane",
   "b": 0,
   "c": "F",
   "s": "3623 Grove Lane",
@@ -2987,22 +2987,22 @@
   "cty": "US",
   "id": 134282509,
   "lat": 38.886763,
-  "nm": "Barrel Oak Farm Taphouse"
+  "name": "Barrel Oak Farm Taphouse"
 }, {
-  "a": "14151 Newbrook Drive, Chantilly",
+  "address": "14151 Newbrook Drive, Chantilly",
   "b": 0,
   "c": "F",
   "s": "14151 Newbrook Drive",
   "lng": -77.436708,
   "city": "Chantilly",
   "ov": "Honor Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 146003311,
   "lat": 38.873592,
-  "nm": "Honor Brewing Company"
+  "name": "Honor Brewing Company"
 }, {
-  "a": "1000 West Main Street, Charlottesville",
+  "address": "1000 West Main Street, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "1000 West Main Street",
@@ -3013,9 +3013,9 @@
   "cty": "US",
   "id": 139438506,
   "lat": 38.032594,
-  "nm": "Hardywood Park Craft Brewery"
+  "name": "Hardywood Park Craft Brewery"
 }, {
-  "a": "12830 West Creek Parkway #j, Richmond",
+  "address": "12830 West Creek Parkway #j, Richmond",
   "b": 0,
   "c": "F",
   "s": "12830 West Creek Parkway #j",
@@ -3026,9 +3026,9 @@
   "cty": "US",
   "id": 134285060,
   "lat": 37.610049,
-  "nm": "Kindred Spirit Brewing"
+  "name": "Kindred Spirit Brewing"
 }, {
-  "a": "215 Washington Avenue, Colonial Beach",
+  "address": "215 Washington Avenue, Colonial Beach",
   "b": 0,
   "c": "F",
   "s": "215 Washington Avenue",
@@ -3039,9 +3039,9 @@
   "cty": "US",
   "id": 142925931,
   "lat": 38.251928,
-  "nm": "Colonial Beach Brewing"
+  "name": "Colonial Beach Brewing"
 }, {
-  "a": "205 Hirst Road #105, Purcellville",
+  "address": "205 Hirst Road #105, Purcellville",
   "b": 0,
   "c": "F",
   "s": "205 Hirst Road #105",
@@ -3052,9 +3052,9 @@
   "cty": "US",
   "id": 134283475,
   "lat": 39.143484,
-  "nm": "B Chord Brewing Company (Former Corcoran Location)"
+  "name": "B Chord Brewing Company (Former Corcoran Location)"
 }, {
-  "a": "1257 Burnbridge Road, Forest",
+  "address": "1257 Burnbridge Road, Forest",
   "b": 0,
   "c": "F",
   "s": "1257 Burnbridge Road",
@@ -3065,9 +3065,9 @@
   "cty": "US",
   "id": 134280682,
   "lat": 37.362218,
-  "nm": "Apocalypse Ale Works"
+  "name": "Apocalypse Ale Works"
 }, {
-  "a": "6008 West Broad Street, Richmond",
+  "address": "6008 West Broad Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "6008 West Broad Street",
@@ -3078,9 +3078,9 @@
   "cty": "US",
   "id": 135085917,
   "lat": 37.593197,
-  "nm": "The Answer Brewpub"
+  "name": "The Answer Brewpub"
 }, {
-  "a": "221 Precast Way, Troutville",
+  "address": "221 Precast Way, Troutville",
   "b": 0,
   "c": "F",
   "s": "221 Precast Way",
@@ -3091,9 +3091,9 @@
   "cty": "US",
   "id": 134283660,
   "lat": 37.409246,
-  "nm": "Flying Mouse Brewery"
+  "name": "Flying Mouse Brewery"
 }, {
-  "a": "2303 North Augusta Street #a, Staunton",
+  "address": "2303 North Augusta Street #a, Staunton",
   "b": 0,
   "c": "F",
   "s": "2303 North Augusta Street #a",
@@ -3104,9 +3104,9 @@
   "cty": "US",
   "id": 134282537,
   "lat": 38.167493,
-  "nm": "Bedlam Brewing"
+  "name": "Bedlam Brewing"
 }, {
-  "a": "13270 Alanthus Road, Brandy Station",
+  "address": "13270 Alanthus Road, Brandy Station",
   "b": 0,
   "c": "F",
   "s": "13270 Alanthus Road",
@@ -3117,9 +3117,9 @@
   "cty": "US",
   "id": 139440197,
   "lat": 38.519177,
-  "nm": "Old Trade Brewery"
+  "name": "Old Trade Brewery"
 }, {
-  "a": "1309 Raleigh Avenue, Norfolk",
+  "address": "1309 Raleigh Avenue, Norfolk",
   "b": 0,
   "c": "F",
   "s": "1309 Raleigh Avenue",
@@ -3130,9 +3130,9 @@
   "cty": "US",
   "id": 135073842,
   "lat": 36.866459,
-  "nm": "Smartmouth Brewing Co."
+  "name": "Smartmouth Brewing Co."
 }, {
-  "a": "4187 Plank Road, Fredericksburg",
+  "address": "4187 Plank Road, Fredericksburg",
   "b": 0,
   "c": "F",
   "s": "4187 Plank Road",
@@ -3143,9 +3143,9 @@
   "cty": "US",
   "id": 134282522,
   "lat": 38.290232,
-  "nm": "Battlefield Brewing Co"
+  "name": "Battlefield Brewing Co"
 }, {
-  "a": "11293 Air Park Road, Ashland",
+  "address": "11293 Air Park Road, Ashland",
   "b": 0,
   "c": "F",
   "s": "11293 Air Park Road",
@@ -3156,9 +3156,9 @@
   "cty": "US",
   "id": 134283185,
   "lat": 37.708563,
-  "nm": "Center of the Universe Brewing Company"
+  "name": "Center of the Universe Brewing Company"
 }, {
-  "a": "16 Chester Street, Front Royal",
+  "address": "16 Chester Street, Front Royal",
   "b": 0,
   "c": "F",
   "s": "16 Chester Street",
@@ -3169,9 +3169,9 @@
   "cty": "US",
   "id": 135186188,
   "lat": 38.91825,
-  "nm": "Virginia Beer Museum"
+  "name": "Virginia Beer Museum"
 }, {
-  "a": "725 East Main Street, Purcellville",
+  "address": "725 East Main Street, Purcellville",
   "b": 0,
   "c": "F",
   "s": "725 East Main Street",
@@ -3182,9 +3182,9 @@
   "cty": "US",
   "id": 134282561,
   "lat": 39.137745,
-  "nm": "Belly Love Brewing Company"
+  "name": "Belly Love Brewing Company"
 }, {
-  "a": "209 Trade Street, Danville",
+  "address": "209 Trade Street, Danville",
   "b": 0,
   "c": "F",
   "s": "209 Trade Street",
@@ -3195,9 +3195,9 @@
   "cty": "US",
   "id": 134278925,
   "lat": 36.585825,
-  "nm": "2 Witches Winery & Brewing Co Inc"
+  "name": "2 Witches Winery & Brewing Co Inc"
 }, {
-  "a": "1830 Thrift Road, Madison",
+  "address": "1830 Thrift Road, Madison",
   "b": 0,
   "c": "F",
   "s": "1830 Thrift Road",
@@ -3208,35 +3208,35 @@
   "cty": "US",
   "id": 134282476,
   "lat": 38.380536,
-  "nm": "Bald Top Brewing Company LLC"
+  "name": "Bald Top Brewing Company LLC"
 }, {
-  "a": "33582 Bear Chase Lane Bluemont, Virginia 20135, Bluemont",
+  "address": "33582 Bear Chase Lane Bluemont, Virginia 20135, Bluemont",
   "b": 0,
   "c": "F",
   "s": "33582 Bear Chase Lane Bluemont, Virginia 20135",
   "lng": -77.836503,
   "city": "Bluemont",
   "ov": "Bear Chase Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 173537038,
   "lat": 39.110122,
-  "nm": "Bear Chase Brewing Company"
+  "name": "Bear Chase Brewing Company"
 }, {
-  "a": "22560 Glenn Drive, Sterling",
+  "address": "22560 Glenn Drive, Sterling",
   "b": 0,
   "c": "F",
   "s": "22560 Glenn Drive",
   "lng": -77.425153,
   "city": "Sterling",
   "ov": "Rocket Frog Brewing Company",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153197403,
   "lat": 38.995318,
-  "nm": "Rocket Frog Brewing Company"
+  "name": "Rocket Frog Brewing Company"
 }, {
-  "a": "5135 Southeast Side Highway, Elkton",
+  "address": "5135 Southeast Side Highway, Elkton",
   "b": 0,
   "c": "F",
   "s": "5135 Southeast Side Highway",
@@ -3247,9 +3247,9 @@
   "cty": "US",
   "id": 134285219,
   "lat": 38.356888,
-  "nm": "MillerCoors"
+  "name": "MillerCoors"
 }, {
-  "a": "7 River Ln, Sperryville",
+  "address": "7 River Ln, Sperryville",
   "b": 0,
   "c": "F",
   "s": "7 River Ln",
@@ -3260,9 +3260,9 @@
   "cty": "US",
   "id": 135073318,
   "lat": 38.658304,
-  "nm": "Pen Druid Brewing"
+  "name": "Pen Druid Brewing"
 }, {
-  "a": "42615 Trade West Drive, Sterling",
+  "address": "42615 Trade West Drive, Sterling",
   "b": 0,
   "c": "F",
   "s": "42615 Trade West Drive",
@@ -3273,9 +3273,9 @@
   "cty": "US",
   "id": 142928581,
   "lat": 38.953661,
-  "nm": "Solace Brewing Company"
+  "name": "Solace Brewing Company"
 }, {
-  "a": "1505 Taylor Farm Road, Virginia Beach",
+  "address": "1505 Taylor Farm Road, Virginia Beach",
   "b": 0,
   "c": "F",
   "s": "1505 Taylor Farm Road",
@@ -3286,22 +3286,22 @@
   "cty": "US",
   "id": 135073736,
   "lat": 36.78837,
-  "nm": "Reaver Beach Brewing Co."
+  "name": "Reaver Beach Brewing Co."
 }, {
-  "a": "1001 Jacob Burner Drive, Elkton",
+  "address": "1001 Jacob Burner Drive, Elkton",
   "b": 0,
   "c": "F",
   "s": "1001 Jacob Burner Drive",
   "lng": -78.718512,
   "city": "Elkton",
   "ov": "Cave Hill Farms Brewery",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 153382268,
   "lat": 38.360997,
-  "nm": "Cave Hill Farms Brewery"
+  "name": "Cave Hill Farms Brewery"
 }, {
-  "a": "212 West 6th Street, Richmond",
+  "address": "212 West 6th Street, Richmond",
   "b": 0,
   "c": "F",
   "s": "212 West 6th Street",
@@ -3312,9 +3312,9 @@
   "cty": "US",
   "id": 139521737,
   "lat": 37.525928,
-  "nm": "Twisted Ales Craft Brewing"
+  "name": "Twisted Ales Craft Brewing"
 }, {
-  "a": "10089 Brook Road, Glen Allen",
+  "address": "10089 Brook Road, Glen Allen",
   "b": 0,
   "c": "F",
   "s": "10089 Brook Road",
@@ -3325,22 +3325,22 @@
   "cty": "US",
   "id": 142927331,
   "lat": 37.673039,
-  "nm": "Intermission Beer Co LLC"
+  "name": "Intermission Beer Co LLC"
 }, {
-  "a": "Poquoson",
+  "address": "Poquoson",
   "b": 0,
   "c": "F",
   "s": "",
   "lng": -76.345777,
   "city": "Poquoson",
   "ov": "Straight Shot Brewing",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 168874485,
   "lat": 37.122366,
-  "nm": "Straight Shot Brewing"
+  "name": "Straight Shot Brewing"
 }, {
-  "a": "324 6th Street Southeast, Charlottesville",
+  "address": "324 6th Street Southeast, Charlottesville",
   "b": 0,
   "c": "F",
   "s": "324 6th Street Southeast",
@@ -3351,22 +3351,22 @@
   "cty": "US",
   "id": 134283387,
   "lat": 38.027763,
-  "nm": "Champion Brewing Co"
+  "name": "Champion Brewing Co"
 }, {
-  "a": "24333 Narrow Gauge Road, Unionville",
+  "address": "24333 Narrow Gauge Road, Unionville",
   "b": 0,
   "c": "F",
   "s": "24333 Narrow Gauge Road",
   "lng": -77.949382,
   "city": "Unionville",
   "ov": "Unionville Brewing Co.",
-  "clr": "A",
+  "clr": "address",
   "cty": "US",
   "id": 172041020,
   "lat": 38.268692,
-  "nm": "Unionville Brewing Co."
+  "name": "Unionville Brewing Co."
 }, {
-  "a": "4220 Mountain Valley Road, Axton",
+  "address": "4220 Mountain Valley Road, Axton",
   "b": 0,
   "c": "F",
   "s": "4220 Mountain Valley Road",
@@ -3377,9 +3377,9 @@
   "cty": "US",
   "id": 139439001,
   "lat": 36.715607,
-  "nm": "Mountain Valley Brewing"
+  "name": "Mountain Valley Brewing"
 }, {
-  "a": "22810 James Monroe Highway, Aldie",
+  "address": "22810 James Monroe Highway, Aldie",
   "b": 0,
   "c": "F",
   "s": "22810 James Monroe Highway",
@@ -3390,9 +3390,9 @@
   "cty": "US",
   "id": 135073505,
   "lat": 38.985853,
-  "nm": "Quattro Goombas Brewery"
+  "name": "Quattro Goombas Brewery"
 }, {
-  "a": "404 Browning Court #c, Purcellville",
+  "address": "404 Browning Court #c, Purcellville",
   "b": 0,
   "c": "F",
   "s": "404 Browning Court #c",
@@ -3403,9 +3403,9 @@
   "cty": "US",
   "id": 134279370,
   "lat": 39.143902,
-  "nm": "Adroit Theory Brewing"
+  "name": "Adroit Theory Brewing"
 }, {
-  "a": "111 South Pollard Street, Vinton",
+  "address": "111 South Pollard Street, Vinton",
   "b": 0,
   "c": "F",
   "s": "111 South Pollard Street",
@@ -3416,9 +3416,9 @@
   "cty": "US",
   "id": 135086048,
   "lat": 37.2806,
-  "nm": "Twin Creeks Brewing Company"
+  "name": "Twin Creeks Brewing Company"
 }, {
-  "a": "6895 Back Road, Maurertown",
+  "address": "6895 Back Road, Maurertown",
   "b": 0,
   "c": "F",
   "s": "6895 Back Road",
@@ -3429,9 +3429,9 @@
   "cty": "US",
   "id": 145929465,
   "lat": 38.934199,
-  "nm": "Ridge Runner Farms and Brewing Co."
+  "name": "Ridge Runner Farms and Brewing Co."
 }, {
-  "a": "210 South King Street, Leesburg",
+  "address": "210 South King Street, Leesburg",
   "b": 0,
   "c": "F",
   "s": "210 South King Street",
@@ -3442,9 +3442,9 @@
   "cty": "US",
   "id": 134282775,
   "lat": 39.112757,
-  "nm": "Black Walnut Brewery"
+  "name": "Black Walnut Brewery"
 }, {
-  "a": "1110 Alverser Drive, Midlothian",
+  "address": "1110 Alverser Drive, Midlothian",
   "b": 0,
   "c": "F",
   "s": "1110 Alverser Drive",
@@ -3455,9 +3455,9 @@
   "cty": "US",
   "id": 134283625,
   "lat": 37.507239,
-  "nm": "Extra Billys Smokehouse and Brewery"
+  "name": "Extra Billys Smokehouse and Brewery"
 }, {
-  "a": "5476 Mooretown Road, Williamsburg",
+  "address": "5476 Mooretown Road, Williamsburg",
   "b": 0,
   "c": "F",
   "s": "5476 Mooretown Road",
@@ -3468,5 +3468,5 @@
   "cty": "US",
   "id": 134282875,
   "lat": 37.316143,
-  "nm": "Brass Cannon Brewing Inc"
+  "name": "Brass Cannon Brewing Inc"
 }]
