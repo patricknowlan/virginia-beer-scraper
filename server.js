@@ -55,17 +55,51 @@ app.get('/harvest', function(req, res){
         console.log("name", brewery.name);
         breweries.push(brewery);
       });
-      console.log(breweries);
 
-      // scrapeWineryData(0);
+
+      // console.log(breweries);
+
+
+
+
+
+
+
+
+      scrapeWineryData();
 
       writeFile();
+
+
       res.send('check your winery list')
 
     }
 
   })
 })
+
+
+//Recursive function for scraping all the winery pages and not crash the site :) hopefully
+function scrapeWineryData(){
+
+    let url = breweries[0].url;
+
+    request(url, function(error, response, html){
+      if(!error){
+
+        //Scrape the data for the winery page
+        let $ = cheerio.load(html);
+        let map = $('.single-content').find('script');
+
+        console.log("********************************************************");
+        console.log(map);
+        console.log("********************************************************");
+
+
+
+        }
+    })
+  }
 
 
 // //Recursive function for scraping all the winery pages and not crash the site :) hopefully
