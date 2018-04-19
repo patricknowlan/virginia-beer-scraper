@@ -1,0 +1,822 @@
+[
+    {
+        "name": "Willow Spring Brewery",
+        "url": "http://virginiabreweries.com/willow-spring-brewery"
+    },
+    {
+        "name": "Vanish",
+        "url": "http://virginiabreweries.com/vanish-farmwoods-brewery"
+    },
+    {
+        "name": "Third Street Brewing",
+        "url": "http://virginiabreweries.com/third-street-brewing"
+    },
+    {
+        "name": "Staunton River Brewing Co.",
+        "url": "http://virginiabreweries.com/staunton-river-brewing-co"
+    },
+    {
+        "name": "Pen Druid Brewing Co.",
+        "url": "http://virginiabreweries.com/pen-druid-brewing-co"
+    },
+    {
+        "name": "MoMac Brewing Company",
+        "url": "http://virginiabreweries.com/momac-brewing-company"
+    },
+    {
+        "name": "Loudoun Brewing Co.",
+        "url": "http://virginiabreweries.com/loudoun-brewing-co"
+    },
+    {
+        "name": "Legend Brewing Depot",
+        "url": "http://virginiabreweries.com/legend-brewing-depot"
+    },
+    {
+        "name": "Heritage Brewing Co. Market Common Brewpub & Roastery",
+        "url": "http://virginiabreweries.com/heritage-brewing-co-market-common-brewpub"
+    },
+    {
+        "name": "Hawksbill Brewing Co.",
+        "url": "http://virginiabreweries.com/hawksbill-brewing-co"
+    },
+    {
+        "name": "The Friendly Fermenter",
+        "url": "http://virginiabreweries.com/the-friendly-fermenter"
+    },
+    {
+        "name": "Deadline Brewing Project",
+        "url": "http://virginiabreweries.com/deadline-brewing-project"
+    },
+    {
+        "name": "Crooked Run Brewing",
+        "url": "http://virginiabreweries.com/crooked-run-sterling"
+    },
+    {
+        "name": "Brasserie Saison",
+        "url": "http://virginiabreweries.com/brasserie-saison"
+    },
+    {
+        "name": "Black Walnut Brewery",
+        "url": "http://virginiabreweries.com/black-walnut-brewery"
+    },
+    {
+        "name": "Bike TrAle Brewing",
+        "url": "http://virginiabreweries.com/bike-trale-brewing"
+    },
+    {
+        "name": "Bearded Bird Brewing Co.",
+        "url": "http://virginiabreweries.com/bearded-bird-brewing-co"
+    },
+    {
+        "name": "B Chord Brewing Company",
+        "url": "http://virginiabreweries.com/b-chord-brewing-company"
+    },
+    {
+        "name": "Amber Ox Public House",
+        "url": "http://virginiabreweries.com/amber-ox-public-house"
+    },
+    {
+        "name": "Starr Hill Pilot Brewery & Side Stage",
+        "url": "http://virginiabreweries.com/starr-hill-pilot-brewery-side-stage"
+    },
+    {
+        "name": "Reason Beer",
+        "url": "http://virginiabreweries.com/reason-beer"
+    },
+    {
+        "name": "Wort Hog Brewing Company",
+        "url": "http://virginiabreweries.com/wort-hog-brewing-company"
+    },
+    {
+        "name": "Winchester Brew Works",
+        "url": "http://virginiabreweries.com/winchester-brew-works"
+    },
+    {
+        "name": "Water’s End Brewery",
+        "url": "http://virginiabreweries.com/waters-end-brewery"
+    },
+    {
+        "name": "Dog Money Restaurant & Brewery",
+        "url": "http://virginiabreweries.com/dog-money-restaurant-brewery"
+    },
+    {
+        "name": "Three Notch’d Sour House",
+        "url": "http://virginiabreweries.com/three-notchd-sour-house"
+    },
+    {
+        "name": "Three Notch’d RVA Collab House",
+        "url": "http://virginiabreweries.com/three-notchd-rva-collab-house"
+    },
+    {
+        "name": "The Farm Brewery at Broad Run",
+        "url": "http://virginiabreweries.com/the-farm-brewery-at-broad-run"
+    },
+    {
+        "name": "Swover Creek Farms Brewery",
+        "url": "http://virginiabreweries.com/swover-creek-farms-brewery"
+    },
+    {
+        "name": "Sinistral Brewing Company",
+        "url": "http://virginiabreweries.com/sinistral-brewing-company"
+    },
+    {
+        "name": "Ridge Runner Farms & Brewing Co.",
+        "url": "http://virginiabreweries.com/ridge-runner-farms-brewing-co"
+    },
+    {
+        "name": "Quattro Goomba’s Brewery",
+        "url": "http://virginiabreweries.com/quattro-goombas-brewery"
+    },
+    {
+        "name": "Powers Farm & Brewery",
+        "url": "http://virginiabreweries.com/powers-farm-brewery"
+    },
+    {
+        "name": "Portner Brewhouse",
+        "url": "http://virginiabreweries.com/portner-brewhouse"
+    },
+    {
+        "name": "Ono Brewing Company",
+        "url": "http://virginiabreweries.com/ono-brewing-company"
+    },
+    {
+        "name": "Old Trade Brewery",
+        "url": "http://virginiabreweries.com/old-trade-brewery"
+    },
+    {
+        "name": "Lost Rhino Retreat",
+        "url": "http://virginiabreweries.com/lost-rhino-retreat"
+    },
+    {
+        "name": "Jack’s Run Brewing Company",
+        "url": "http://virginiabreweries.com/jacks-run-brewing-company"
+    },
+    {
+        "name": "Hops Grill & Brewery",
+        "url": "http://virginiabreweries.com/hops-grill-brewery"
+    },
+    {
+        "name": "Highmark Brewery",
+        "url": "http://virginiabreweries.com/highmark-brewery"
+    },
+    {
+        "name": "Growling Bear Brewing Company",
+        "url": "http://virginiabreweries.com/growling-bear-brewing-company"
+    },
+    {
+        "name": "Fär Göhn Brewing Company",
+        "url": "http://virginiabreweries.com/far-gohn-brewing-company"
+    },
+    {
+        "name": "Brew Republic Bierwerks",
+        "url": "http://virginiabreweries.com/brew-republic-bierwerks"
+    },
+    {
+        "name": "Black Hoof Brewing Co.",
+        "url": "http://virginiabreweries.com/black-hoof-brewing-co"
+    },
+    {
+        "name": "Billsburg Brewery",
+        "url": "http://virginiabreweries.com/billsburg-brewery"
+    },
+    {
+        "name": "Aslin Beer Company",
+        "url": "http://virginiabreweries.com/aslin-beer-company"
+    },
+    {
+        "name": "Alesatian Brewing Company",
+        "url": "http://virginiabreweries.com/alesatian-brewing-company"
+    },
+    {
+        "name": "6 Bears & A Goat Brewing Company",
+        "url": "http://virginiabreweries.com/6-bears-a-goat-brewing-company"
+    },
+    {
+        "name": "Right Mind Brewing",
+        "url": "http://virginiabreweries.com/right-mind-brewing"
+    },
+    {
+        "name": "Rising Silo Brewery",
+        "url": "http://virginiabreweries.com/rising-silo-brewery"
+    },
+    {
+        "name": "Hammer & Forge Brewing Co.",
+        "url": "http://virginiabreweries.com/hammer-forge-brewing-co"
+    },
+    {
+        "name": "White Rock Vineyard, Winery & Brew Haus",
+        "url": "http://virginiabreweries.com/white-rock-vineyard-winery-brew-haus"
+    },
+    {
+        "name": "Beale’s Brewery & BBQ",
+        "url": "http://virginiabreweries.com/beales-beer"
+    },
+    {
+        "name": "Bedlam Brewing",
+        "url": "http://virginiabreweries.com/bedlam-brewing"
+    },
+    {
+        "name": "Queen City Brewing",
+        "url": "http://virginiabreweries.com/queen-city-brewing"
+    },
+    {
+        "name": "Basic City Beer Co.",
+        "url": "http://virginiabreweries.com/basic-city-beer-co"
+    },
+    {
+        "name": "Hardywood Pilot Brewery & Taproom",
+        "url": "http://virginiabreweries.com/hardywood-charlottesville"
+    },
+    {
+        "name": "Stable Craft Brewing",
+        "url": "http://virginiabreweries.com/stable-craft-brewing"
+    },
+    {
+        "name": "Wood Ridge Farm Brewery",
+        "url": "http://virginiabreweries.com/wood-ridge-farm-brewery"
+    },
+    {
+        "name": "Triple Crossing Brewing Company",
+        "url": "http://virginiabreweries.com/triple-crossing-brewing-company-fulton"
+    },
+    {
+        "name": "Tradition Brewing Company",
+        "url": "http://virginiabreweries.com/tradition-brewing-company"
+    },
+    {
+        "name": "Bull Island Brewing Co.",
+        "url": "http://virginiabreweries.com/bull-island-brewing-co"
+    },
+    {
+        "name": "Wharf Hill Brewing Co.",
+        "url": "http://virginiabreweries.com/wharf-hill-brewing-co"
+    },
+    {
+        "name": "Gordon Biersch",
+        "url": "http://virginiabreweries.com/gordon-biersch-tysons-corner"
+    },
+    {
+        "name": "Gordon Biersch",
+        "url": "http://virginiabreweries.com/gordon-biersch-virginia-beach"
+    },
+    {
+        "name": "Montross Brewery",
+        "url": "http://virginiabreweries.com/montross-brewery"
+    },
+    {
+        "name": "Colonial Beach Brewing",
+        "url": "http://virginiabreweries.com/colonial-beach-brewing"
+    },
+    {
+        "name": "Random Row Brewing Co.",
+        "url": "http://virginiabreweries.com/random-row-brewing-co"
+    },
+    {
+        "name": "Right Turn, Clyde Brewing",
+        "url": "http://virginiabreweries.com/right-turn-clyde-brewing"
+    },
+    {
+        "name": "Bristol Station Brews & Taproom",
+        "url": "http://virginiabreweries.com/bristol-station-brews-taproom"
+    },
+    {
+        "name": "Busted Still Brewery",
+        "url": "http://virginiabreweries.com/busted-still-brewery"
+    },
+    {
+        "name": "Sugar Hill Brewing Company",
+        "url": "http://virginiabreweries.com/sugar-hill-brewing-company"
+    },
+    {
+        "name": "Creek Bottom Brewing",
+        "url": "http://virginiabreweries.com/creek-bottom-brewing"
+    },
+    {
+        "name": "Mountain Valley Brewing",
+        "url": "http://virginiabreweries.com/mountain-valley-brewing"
+    },
+    {
+        "name": "Ballad Brewing",
+        "url": "http://virginiabreweries.com/ballad-brewing"
+    },
+    {
+        "name": "Buggs Island Brewing Co.",
+        "url": "http://virginiabreweries.com/buggs-island-brewing-co"
+    },
+    {
+        "name": "Champion Brewing Company",
+        "url": "http://virginiabreweries.com/champion-brewing-company-rva-taproom"
+    },
+    {
+        "name": "New District Brewing Company",
+        "url": "http://virginiabreweries.com/new-district-brewing-company"
+    },
+    {
+        "name": "Heroic Aleworks",
+        "url": "http://virginiabreweries.com/heroic-aleworks"
+    },
+    {
+        "name": "The Virginia Beer Co.",
+        "url": "http://virginiabreweries.com/the-virginia-beer-co"
+    },
+    {
+        "name": "Barnhouse Brewery",
+        "url": "http://virginiabreweries.com/barnhouse-brewery"
+    },
+    {
+        "name": "Red Dragon Brewery",
+        "url": "http://virginiabreweries.com/red-dragon-brewery"
+    },
+    {
+        "name": "Bald Top Brewing Co.",
+        "url": "http://virginiabreweries.com/bald-top-brewing-co"
+    },
+    {
+        "name": "Soaring Ridge Craft Brewers",
+        "url": "http://virginiabreweries.com/soaring-ridge-craft-brewers"
+    },
+    {
+        "name": "Rip Rap Brewing Co.",
+        "url": "http://virginiabreweries.com/rip-rap-brewing-co"
+    },
+    {
+        "name": "The Oozlefinch Craft Brewery",
+        "url": "http://virginiabreweries.com/the-oozlefinch-craft-brewery"
+    },
+    {
+        "name": "Mustang Sally Brewing Co.",
+        "url": "http://virginiabreweries.com/mustang-sally-brewing-company"
+    },
+    {
+        "name": "1781 Brewing Co.",
+        "url": "http://virginiabreweries.com/1781-brewing-co"
+    },
+    {
+        "name": "Escutcheon Brewing Co.",
+        "url": "http://virginiabreweries.com/escutcheon-brewing-co"
+    },
+    {
+        "name": "Wolfe Street Brewing Co.",
+        "url": "http://virginiabreweries.com/wolfe-street-brewing-co"
+    },
+    {
+        "name": "2 Witches Winery & Brewing Co.",
+        "url": "http://virginiabreweries.com/2-witches-winery-brewing-co"
+    },
+    {
+        "name": "Ballast Point Brewing Co.",
+        "url": "http://virginiabreweries.com/ballast-point-brewing-va"
+    },
+    {
+        "name": "Stone Brewing",
+        "url": "http://virginiabreweries.com/stone-brewing-rva"
+    },
+    {
+        "name": "Green Flash Brewing",
+        "url": "http://virginiabreweries.com/green-flash-brewing-va-beach"
+    },
+    {
+        "name": "Back Bay Brewing Co.",
+        "url": "http://virginiabreweries.com/back-bay-brewing-co"
+    },
+    {
+        "name": "Young Veterans Brewing Co.",
+        "url": "http://virginiabreweries.com/young-veterans-brewing-co"
+    },
+    {
+        "name": "Origin Beer Lab",
+        "url": "http://virginiabreweries.com/origin-beer-lab"
+    },
+    {
+        "name": "Twinpanzee Brewing Company",
+        "url": "http://virginiabreweries.com/twinpanzee-brewing-company"
+    },
+    {
+        "name": "Fine Creek Brewing Company",
+        "url": "http://virginiabreweries.com/fine-creek-brewing-company"
+    },
+    {
+        "name": "Solace Brewing Company",
+        "url": "http://virginiabreweries.com/solace-brewing-company"
+    },
+    {
+        "name": "AMMO brewing",
+        "url": "http://virginiabreweries.com/ammo-brewing"
+    },
+    {
+        "name": "Woodstock Brewhouse",
+        "url": "http://virginiabreweries.com/woodstock-brewhouse"
+    },
+    {
+        "name": "2 Silos Brewing Company",
+        "url": "http://virginiabreweries.com/2-silos-brewing-company"
+    },
+    {
+        "name": "Old 690 Brewing Company",
+        "url": "http://virginiabreweries.com/old-690-brewing-company"
+    },
+    {
+        "name": "Belly Love Brewing Company",
+        "url": "http://virginiabreweries.com/belly-love-brewing-company"
+    },
+    {
+        "name": "Home Republic",
+        "url": "http://virginiabreweries.com/home-republic-brewpub"
+    },
+    {
+        "name": "Wasserhund Brewing Company",
+        "url": "http://virginiabreweries.com/wasserhund-brewing-company"
+    },
+    {
+        "name": "Shenandoah Valley Brewing Co.",
+        "url": "http://virginiabreweries.com/shenandoah-valley-brewing-co"
+    },
+    {
+        "name": "Loose Shoe Brewing Company",
+        "url": "http://virginiabreweries.com/loose-shoe-brewing-company"
+    },
+    {
+        "name": "Commonwealth Brewing Co.",
+        "url": "http://virginiabreweries.com/commonwealth-brewing-co"
+    },
+    {
+        "name": "Tin Cannon Brewing Co.",
+        "url": "http://virginiabreweries.com/tin-cannon-brewing-co"
+    },
+    {
+        "name": "BadWolf Brewing Company",
+        "url": "http://virginiabreweries.com/badwolf-brewing-company-kao-circle"
+    },
+    {
+        "name": "Strangeways Brewing",
+        "url": "http://virginiabreweries.com/strangeways-brewing-fredericksburg"
+    },
+    {
+        "name": "Maltese Brewing Company",
+        "url": "http://virginiabreweries.com/maltese-brewing-company"
+    },
+    {
+        "name": "Steam Bell Beer Works",
+        "url": "http://virginiabreweries.com/steam-bell-beer-works"
+    },
+    {
+        "name": "Väsen Brewing Company",
+        "url": "http://virginiabreweries.com/vasen-brewing-company"
+    },
+    {
+        "name": "The Veil Brewing Co.",
+        "url": "http://virginiabreweries.com/the-veil-brewing-co"
+    },
+    {
+        "name": "Intermission Beer Company",
+        "url": "http://virginiabreweries.com/intermission-beer-company"
+    },
+    {
+        "name": "Twisted Ales Craft Brewing",
+        "url": "http://virginiabreweries.com/twisted-ales-craft-brewing"
+    },
+    {
+        "name": "Kindred Spirit Brewing",
+        "url": "http://virginiabreweries.com/kindred-spirit-brewing"
+    },
+    {
+        "name": "Rock Bottom Restaurant & Brewery",
+        "url": "http://virginiabreweries.com/rock-bottom-brewery-short-pump"
+    },
+    {
+        "name": "Devils Backbone Brewing Company",
+        "url": "http://virginiabreweries.com/devils-backbone-outpost-brewery"
+    },
+    {
+        "name": "Devils Backbone Brewing Company",
+        "url": "http://virginiabreweries.com/devils-backbone-basecamp-brewpub"
+    },
+    {
+        "name": "Blue Mountain Brewery",
+        "url": "http://virginiabreweries.com/blue-mountain-brewery"
+    },
+    {
+        "name": "The Bold Mariner Brewing Company",
+        "url": "http://virginiabreweries.com/bold-mariner-brewing-company"
+    },
+    {
+        "name": "Spencer Devon Brewing",
+        "url": "http://virginiabreweries.com/spencer-devon-brewing"
+    },
+    {
+        "name": "Trapezium Brewing Co.",
+        "url": "http://virginiabreweries.com/trapezium-brewing-co"
+    },
+    {
+        "name": "Pale Fire Brewing Co.",
+        "url": "http://virginiabreweries.com/pale-fire-brewing-co"
+    },
+    {
+        "name": "Dirt Farm Brewing",
+        "url": "http://virginiabreweries.com/dirt-farm-brewing"
+    },
+    {
+        "name": "South Street Brewery",
+        "url": "http://virginiabreweries.com/south-street-brewery"
+    },
+    {
+        "name": "Coelacanth Brewing",
+        "url": "http://virginiabreweries.com/coelacanth-brewing"
+    },
+    {
+        "name": "Pro Re Nata Brewery",
+        "url": "http://virginiabreweries.com/pro-re-nata-brewery"
+    },
+    {
+        "name": "Old Bust Head Brewing Co.",
+        "url": "http://virginiabreweries.com/old-bust-head-brewing-co"
+    },
+    {
+        "name": "Lake Anne Brew House",
+        "url": "http://virginiabreweries.com/lake-anne-brew-house"
+    },
+    {
+        "name": "Benchtop Brewing Company",
+        "url": "http://virginiabreweries.com/benchtop-brewing-company"
+    },
+    {
+        "name": "Beer Hound Brewery",
+        "url": "http://virginiabreweries.com/beer-hound-brewery"
+    },
+    {
+        "name": "Seven Arrows Brewing Company",
+        "url": "http://virginiabreweries.com/seven-arrows-brewing-company"
+    },
+    {
+        "name": "St George Brewing Co.",
+        "url": "http://virginiabreweries.com/st-george-brewing-co"
+    },
+    {
+        "name": "Ocelot Brewing Company",
+        "url": "http://virginiabreweries.com/ocelot-brewing-company"
+    },
+    {
+        "name": "Great Valley Farm Brewery",
+        "url": "http://virginiabreweries.com/great-valley-farm-brewery"
+    },
+    {
+        "name": "The Answer Brewpub",
+        "url": "http://virginiabreweries.com/the-answer-brewpub"
+    },
+    {
+        "name": "Final Gravity Brewing Co.",
+        "url": "http://virginiabreweries.com/final-gravity-brewing-co"
+    },
+    {
+        "name": "Extra Billy’s Smokehouse and Brewery",
+        "url": "http://virginiabreweries.com/extra-billys-smokehouse-brewery"
+    },
+    {
+        "name": "Castleburg Brewery and Taproom",
+        "url": "http://virginiabreweries.com/castleburg-brewery-taproom"
+    },
+    {
+        "name": "Caboose Brewing Co.",
+        "url": "http://virginiabreweries.com/caboose-brewing-co"
+    },
+    {
+        "name": "Barrel Oak Farm Taphouse",
+        "url": "http://virginiabreweries.com/barrel-oak-farm-taphouse"
+    },
+    {
+        "name": "Old Ox Brewery",
+        "url": "http://virginiabreweries.com/old-ox-brewery"
+    },
+    {
+        "name": "Big Ugly Brewing",
+        "url": "http://virginiabreweries.com/big-ugly-brewing"
+    },
+    {
+        "name": "Parkway Brewing Co.",
+        "url": "http://virginiabreweries.com/parkway-brewing"
+    },
+    {
+        "name": "Blue Mountain Barrel House",
+        "url": "http://virginiabreweries.com/blue-mountain-barrel-house"
+    },
+    {
+        "name": "Adventure Brewing Company",
+        "url": "http://virginiabreweries.com/adventure-brewing-company-south"
+    },
+    {
+        "name": "Studio Brew",
+        "url": "http://virginiabreweries.com/studio-brew"
+    },
+    {
+        "name": "Twin Creeks Brewing Company",
+        "url": "http://virginiabreweries.com/twin-creeks-brewing-company"
+    },
+    {
+        "name": "Ornery Beer Company & Public House",
+        "url": "http://virginiabreweries.com/ornery-beer-company-public-house"
+    },
+    {
+        "name": "Garden Grove Brewing and Urban Winery",
+        "url": "http://virginiabreweries.com/garden-grove-brewing-company"
+    },
+    {
+        "name": "Pleasure House Brewing",
+        "url": "http://virginiabreweries.com/pleasure-house-brewing"
+    },
+    {
+        "name": "Adventure Brewing Company",
+        "url": "http://virginiabreweries.com/adventure-brewing-company"
+    },
+    {
+        "name": "Fair Winds Brewing Company",
+        "url": "http://virginiabreweries.com/fair-winds-brewing-company"
+    },
+    {
+        "name": "Big Lick Brewing Company",
+        "url": "http://virginiabreweries.com/big-lick-brewing-company"
+    },
+    {
+        "name": "Hopkins Ordinary Ale Works",
+        "url": "http://virginiabreweries.com/hopkins-ordinary-ale-works"
+    },
+    {
+        "name": "Heritage Brewing Co.",
+        "url": "http://virginiabreweries.com/heritage-brewing-co"
+    },
+    {
+        "name": "Ardent Craft Ales",
+        "url": "http://virginiabreweries.com/ardent-craft-ales"
+    },
+    {
+        "name": "Sweetwater Tavern",
+        "url": "http://virginiabreweries.com/sweetwater-tavern-merrifield"
+    },
+    {
+        "name": "Sweetwater Tavern",
+        "url": "http://virginiabreweries.com/sweetwater-tavern-sterling"
+    },
+    {
+        "name": "Sweetwater Tavern",
+        "url": "http://virginiabreweries.com/sweetwater-tavern-centreville"
+    },
+    {
+        "name": "Backroom Brewery",
+        "url": "http://virginiabreweries.com/backroom-brewery"
+    },
+    {
+        "name": "Apocalypse Ale Works",
+        "url": "http://virginiabreweries.com/apocalypse-ale-works"
+    },
+    {
+        "name": "Three Notch’d Valley Collab House",
+        "url": "http://virginiabreweries.com/three-notchd-brewing-company-harrisonburg"
+    },
+    {
+        "name": "Reaver Beach Brewing Co.",
+        "url": "http://virginiabreweries.com/beach-brewing-co"
+    },
+    {
+        "name": "Brass Cannon Brewing",
+        "url": "http://virginiabreweries.com/brass-cannon-brewing"
+    },
+    {
+        "name": "Triple Crossing Brewing Company",
+        "url": "http://virginiabreweries.com/triple-crossing-brewing-company"
+    },
+    {
+        "name": "Forge Brew Works",
+        "url": "http://virginiabreweries.com/forge-brew-works"
+    },
+    {
+        "name": "The River Company Restaurant and Brewery",
+        "url": "http://virginiabreweries.com/the-river-company-restaurant-and-brewery"
+    },
+    {
+        "name": "Corcoran Brewing Company",
+        "url": "http://virginiabreweries.com/corcoran-brewing-company"
+    },
+    {
+        "name": "Isley Brewing Company",
+        "url": "http://virginiabreweries.com/isley-brewing-company"
+    },
+    {
+        "name": "Wolf Hills Brewing Company",
+        "url": "http://virginiabreweries.com/wolf-hills-brewing-company"
+    },
+    {
+        "name": "Flying Mouse Brewery",
+        "url": "http://virginiabreweries.com/flying-mouse-brewery"
+    },
+    {
+        "name": "Alewerks Brewing Company",
+        "url": "http://virginiabreweries.com/alewerks-brewing-company"
+    },
+    {
+        "name": "Three Notch’d Craft Kitchen & Brewery",
+        "url": "http://virginiabreweries.com/three-notchd-brewing-company"
+    },
+    {
+        "name": "Starr Hill Brewery",
+        "url": "http://virginiabreweries.com/starr-hill-brewery"
+    },
+    {
+        "name": "Lickinghole Creek Craft Brewery",
+        "url": "http://virginiabreweries.com/lickinghole-creek-craft-brewery"
+    },
+    {
+        "name": "Bull & Bones Brewhaus & Grill",
+        "url": "http://virginiabreweries.com/bull-bones-brewhaus-grill"
+    },
+    {
+        "name": "Chaos Mountain Brewing",
+        "url": "http://virginiabreweries.com/chaos-mountain-brewing"
+    },
+    {
+        "name": "Crooked Run Brewing",
+        "url": "http://virginiabreweries.com/crooked-run-brewing"
+    },
+    {
+        "name": "James River Brewery",
+        "url": "http://virginiabreweries.com/james-river-brewery"
+    },
+    {
+        "name": "Midnight Brewery",
+        "url": "http://virginiabreweries.com/midnight-brewery"
+    },
+    {
+        "name": "Beltway Brewing Company",
+        "url": "http://virginiabreweries.com/beltway-brewing-company"
+    },
+    {
+        "name": "Rusty Beaver Brewery",
+        "url": "http://virginiabreweries.com/rusty-beaver-brewery"
+    },
+    {
+        "name": "The Damascus Brewery",
+        "url": "http://virginiabreweries.com/the-damascus-brewery"
+    },
+    {
+        "name": "Redbeard Brewing Company",
+        "url": "http://virginiabreweries.com/redbeard-brewing-company"
+    },
+    {
+        "name": "O’Connor Brewing Co.",
+        "url": "http://virginiabreweries.com/oconnor-brewing-co"
+    },
+    {
+        "name": "Adroit Theory Brewing Company",
+        "url": "http://virginiabreweries.com/adroit-theory-brewing-company"
+    },
+    {
+        "name": "Brothers Craft Brewing",
+        "url": "http://virginiabreweries.com/brothers-craft-brewing"
+    },
+    {
+        "name": "Port City Brewing Company",
+        "url": "http://virginiabreweries.com/port-city-brewing-company"
+    },
+    {
+        "name": "BadWolf Brewing Company",
+        "url": "http://virginiabreweries.com/badwolf-brewing-company"
+    },
+    {
+        "name": "Hardywood Park Craft Brewery",
+        "url": "http://virginiabreweries.com/hardywood-park-craft-brewery"
+    },
+    {
+        "name": "Wild Wolf Brewing Company",
+        "url": "http://virginiabreweries.com/wild-wolf-brewing-company"
+    },
+    {
+        "name": "Mad Fox Brewing Company",
+        "url": "http://virginiabreweries.com/mad-fox-brewing-company"
+    },
+    {
+        "name": "Sunken City Brewing Company",
+        "url": "http://virginiabreweries.com/sunken-city-brewing-company"
+    },
+    {
+        "name": "Champion Brewing Company",
+        "url": "http://virginiabreweries.com/champion-brewing-company"
+    },
+    {
+        "name": "Center of the Universe Brewing Co.",
+        "url": "http://virginiabreweries.com/center-of-the-universe-brewing-co"
+    },
+    {
+        "name": "Lost Rhino Brewing Co.",
+        "url": "http://virginiabreweries.com/lost-rhino-brewing-co"
+    },
+    {
+        "name": "Smartmouth Brewing Company",
+        "url": "http://virginiabreweries.com/smartmouth-brewing-company"
+    },
+    {
+        "name": "Legend Brewing Company",
+        "url": "http://virginiabreweries.com/legend-brewing-company"
+    },
+    {
+        "name": "Strangeways Brewing",
+        "url": "http://virginiabreweries.com/strangeways-brewing"
+    }
+]
